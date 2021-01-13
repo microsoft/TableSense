@@ -1,0 +1,1645 @@
+1_legalreviewUS.xlsx	LONGS	training_set	VEnron2\VEnron2\493	A1:AB14
+1_CounterParty Trading status 2001_11_13 pm.xlsx	Counterparty Trading Statuses	training_set	VEnron2\VEnron2\253	A1:AB52
+1_NE Weekly Report_Current.xlsx	PJM	training_set	VEnron2\VEnron2\1472	A1:AB72
+1_NE Weekly Report_Current.xlsx	NYPP Zone A	training_set	VEnron2\VEnron2\1472	A1:AB72
+1_PI Exception Report - Dow Pipeline Company.xlsx	PI Exception Report 10012001	training_set	VEnron2\VEnron2\1558	A1:AC2
+1_G-DAILY-EST Jan 25th download.xlsx	Sheet1	training_set	VEnron2\VEnron2\1505	A1:AC70
+1_Office Models.xlsx	Office Models	training_set	VEnron2\VEnron2\680	A1:AE10
+1_Sept Nuke Sched.xlsx	Sep00	training_set	VEnron2\VEnron2\720	A1:AH155
+1_PECO_Accts_12102001.xlsx	Sheet2	training_set	VEnron2\VEnron2\625	A1:AK17
+1_Kellogg 53 Month.xlsx	Input	training_set	VEnron2\VEnron2\1495	A1:AK98
+1_iBuyit Activity Week of Sept 17th (Kitchen).xlsx	Sheet1	training_set	VEnron2\VEnron2\1389	A1:AL54
+1_ft_west01162001.xlsx	Sheet1	training_set	VEnron2\VEnron2\706	A1:AM21
+1_OPEN11b.xlsx	download	training_set	VEnron2\VEnron2\1218	A1:AW230
+1_AppalachiaGas2.xlsx	Curves	training_set	VEnron2\VEnron2\742	A1:B146
+1_John'sSheet.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1563	A1:B146
+1_Group Limit Report names only.xlsx	Sheet1	training_set	VEnron2\VEnron2\1455	A1:B169
+1_Credit List Additions.xlsx	Additions	training_set	VEnron2\VEnron2\350	A1:B19
+1_couterparty list for option desk.xlsx	Sheet1	training_set	VEnron2\VEnron2\501	A1:B29
+Family_Adjustment_Read_Only__EUSES_inventory_bad.xlsx	Article List	testing_set	VEUSES\VEUSES\22	A1:B42
+1_legalreviewUS.xlsx	long descriptions	training_set	VEnron2\VEnron2\493	A1:B53
+1_TW EOL.xlsx	Sheet1	training_set	VEnron2\VEnron2\1363	A1:B55
+1_TW_FT_Top_Twenty.xlsx	TW_FT_Top_Twenty	training_set	VEnron2\VEnron2\565	A1:B60
+1_Socal-Avg.xlsx	Socal-Avg	training_set	VEnron2\VEnron2\564	A1:B64
+1_NTGroup.xlsx	Sheet1	training_set	VEnron2\VEnron2\1476	A1:B72
+1_Credit List Additions.xlsx	Credit List	training_set	VEnron2\VEnron2\350	A1:B81
+1_RP01-180 Data Response 11-00 vol 1.xlsx	Counterparty List	training_set	VEnron2\VEnron2\1164	A1:B82
+1_couterparty list for option desk.xlsx	sheet2	training_set	VEnron2\VEnron2\501	A1:BA60
+1_10-16-01 west desk curve shift.xlsx	10-16-01 west desk curve shift	training_set	VEnron2\VEnron2\815	A1:BJ28
+1_CES-AGL-Feb00.xlsx	AGL Details	training_set	VEnron2\VEnron2\868	A1:BL57
+1_load_0411.xlsx	FLOWS	training_set	VEnron2\VEnron2\604	A1:BO62	B64:G75
+GPSAFundGroup__EUSES_database_bad.xlsx	Database	training_set	VEUSES\VEUSES\43	A1:BP2
+Sect501__EUSES_homework_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\157	A1:BR50
+1_NewPower2011.xlsx	NewPower2011	training_set	VEnron2\VEnron2\1541	A1:BV246
+1_Idaho.xlsx	Idaho	training_set	VEnron2\VEnron2\473	A1:BX3
+1_CES Invoice Jan2000.xlsx	CES0001A	training_set	VEnron2\VEnron2\872	A1:BY302
+1_SoCalRetroBill.xlsx	Sheet1	training_set	VEnron2\VEnron2\370	A1:C101
+1_counterparty list.xlsx	Sheet1	training_set	VEnron2\VEnron2\584	A1:C120
+1_NETCO.xlsx	IT Infrastructure	testing_set	VEnron2\VEnron2\399	A1:C121
+1_CGAS NYMEX Quote.xlsx	Volumes	testing_set	VEnron2\VEnron2\973	A1:C122
+cunamechanges1__EUSES_financial_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\90	A1:C162
+1_2000 Activity Dictionary Sep on.xlsx	t_04_Activity	training_set	VEnron2\VEnron2\1490	A1:C24
+1_Texas Matrix.xlsx	EFSC	training_set	VEnron2\VEnron2\908	A1:C29
+1_PRC-Needs Improve Update.xlsx	Sheet1	training_set	VEnron2\VEnron2\699	A1:C32
+1_NETCO_All  Gas List_120601.xlsx	Gas Orig	testing_set	VEnron2\VEnron2\406	A1:C34
+062e6371-0a9b-41fd-8ef3-18f3c0a03725.xlsx	Sheet1	testing_set	VFUSE\VFUSE\136	A1:C35	A37:C50	A52:C56
+070022d1-40e7-44ee-925e-150b29f60ecc.xlsx	Sheet1	training_set	VFUSE\VFUSE\120	A1:C35	A37:C50	A52:C56
+08055088-95b3-40bc-9d9b-422dc072657f.xlsx	Sheet1	training_set	VFUSE\VFUSE\100	A1:C35	A37:C50	A52:C56
+0044b039-c416-4465-b944-cd5a702b5953.xlsx	Sheet1	training_set	VFUSE\VFUSE\102	A1:C36	A38:C57	A59:C63
+00aa413e-d390-4c69-a986-d1636cfc3e19.xlsx	Sheet1	training_set	VFUSE\VFUSE\141	A1:C36	A38:C51	A53:C57
+0700e90b-0ff0-4f13-9b26-1cecf7867d6a.xlsx	Sheet1	training_set	VFUSE\VFUSE\128	A1:C36	A38:C51 	A53:C57
+0cbf1724-1b5b-447f-bf2c-f88b0bd410bf.xlsx	Sheet1	training_set	VFUSE\VFUSE\110	A1:C36	A38:A57	A59:A63
+11052371-a798-4df0-8fec-e429f96a9142.xlsx	Sheet1	testing_set	VFUSE\VFUSE\106	A1:C36	A38:C57	A59:C62
+13c0663d-64cd-4c24-a77a-cca4f1b9e838.xlsx	Sheet1	training_set	VFUSE\VFUSE\117	A1:C36	A38:C57	A59:C63
+02190669-99d9-4c31-a96c-630854b5b57f.xlsx	Sheet1	training_set	VFUSE\VFUSE\116	A1:C37	A39:C52	A54:C58
+025c69a6-8fe6-4164-a9b9-a8a5790964d6.xlsx	Sheet1	testing_set	VFUSE\VFUSE\113	A1:C37	A39:C52	A54:C58
+03ed6884-ab13-4566-b3bb-51c10f91b361.xlsx	Sheet1	training_set	VFUSE\VFUSE\103	A1:C37	A39:C52	A54:C58
+0b526c22-9f62-41f7-9abe-afb8b5c6722b.xlsx	Sheet1	training_set	VFUSE\VFUSE\105	A1:C37	A39:C52	A54:C58
+0bb83db7-b9c5-4c9f-94c2-fe4b3ab8e567.xlsx	Sheet1	training_set	VFUSE\VFUSE\10	A1:C37	A39:C52	A54:C58
+2acab4e5-f002-414c-98e1-c4ea30dd5648.xlsx	Sheet1	training_set	VFUSE\VFUSE\104	A1:C37	A39:C52	A54:C58
+1_NETCO_All  Gas List_120601.xlsx	Gas Trading	testing_set	VEnron2\VEnron2\406	A1:C43
+1_Gross and Net.xlsx	Sheet1	training_set	VEnron2\VEnron2\414	A1:C51
+1_GasLogisticsPhoneLocation.xlsx	Sheet1	training_set	VEnron2\VEnron2\436	A1:C54	D1:F42
+posters1C__EUSES_modeling_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\99	A1:C55
+1_Texas Matrix.xlsx	HPLC	training_set	VEnron2\VEnron2\908	A1:C74
+1_Netco Commercial4122pm.xlsx	East	training_set	VEnron2\VEnron2\409	A1:C75
+1_netco trading.xlsx	East Master List	training_set	VEnron2\VEnron2\1543	A1:C93
+1_CES0001purch.xlsx	CES0001purch	training_set	VEnron2\VEnron2\864	A1:CG28
+1_MPR 10122001 Gas Assets.xlsx	Asset Class (Gas Assets)	testing_set	VEnron2\VEnron2\346	A1:CL12
+1_Industrial Sector Tie-Out.xlsx	MPR	training_set	VEnron2\VEnron2\1425	A1:CM379
+1_Day Rate Hedge1.xlsx	Sheet1	training_set	VEnron2\VEnron2\915	A1:CO5	A12:I16
+Economic1__EUSES_financial_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\102	A1:D123
+1_2000 Spending by Co_Tracy G.xlsx	Total Bonus by Co (final)	training_set	VEnron2\VEnron2\842	A1:D13
+1_rcr-budget-status-report.xlsx	Sheet1	testing_set	VEnron2\VEnron2\638	A1:D13
+1_ENA Upstream GTC deal count 083101.xlsx	Pursue Master	training_set	VEnron2\VEnron2\1599	A1:D14
+1_Mid13_Demarc.xlsx	Summary	training_set	VEnron2\VEnron2\1392	A1:D14
+1_ECS 3 and 4 Headcount.xlsx	Sheet1	training_set	VEnron2\VEnron2\767	A1:D154
+1_RJohnson QA-Answers.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1338	A1:D19
+10_EOTT PL Tks 6-27.xlsx	Paperwork in file	training_set	VEnron2\VEnron2\240	A1:D3
+1_enron delta breakdown.xlsx	Sheet1	training_set	VEnron2\VEnron2\303	A1:D31
+1_Val.xlsx	Sheet2	training_set	VEnron2\VEnron2\1487	A1:D31
+1_tie points-JOU's-MASTER_POR_POD_meeting final.xlsx	POR_POD_name	training_set	VEnron2\VEnron2\1374	A1:D320
+1_2002 Budget 7-31-01.xlsx	Sheet2	training_set	VEnron2\VEnron2\1510	A1:D34
+1_Pilot program accounts.xlsx	Target	training_set	VEnron2\VEnron2\951	A1:D35
+1_656.xlsx	Sheet1	training_set	VEnron2\VEnron2\1535	A1:D43
+1_Week 4 Lines.xlsx	Sheet1	testing_set	VEnron2\VEnron2\511	A1:D46
+1_resources.xlsx	Sheet1	training_set	VEnron2\VEnron2\640	A1:D48	A49:D62	A63:D80	A81:D83	A1:D216	A217:D303	A304:D312	A313:D326	A327:D378	A379:D395	A396:D414
+1_HSCtoTennZ0.xlsx	Sheet1	training_set	VEnron2\VEnron2\779	A1:D5
+1_BP3.xlsx	Sheet1	training_set	VEnron2\VEnron2\433	A1:D50
+1_Option Site List.xlsx	OPTIONS SCHEDULE	training_set	VEnron2\VEnron2\388	A1:D62
+1_Socal Presentation_122600.xlsx	Sheet1	training_set	VEnron2\VEnron2\579	A1:D62
+1996EI_Final_Files__EUSES_inventory_processed.xlsx	WRAP Domain	training_set	VEUSES\VEUSES\13	A1:D7
+1_Pilot program accounts.xlsx	Packaged Ice, Inc.	training_set	VEnron2\VEnron2\951	A1:D8
+1_transcoz6.xlsx	Sheet1	training_set	VEnron2\VEnron2\428	A1:D84	E1:H84	I1:L84	M1:P85	Q1:T84
+paris040319__EUSES_financial_processed.xlsx	ManAttendDump	training_set	VEUSES\VEUSES\161	A1:D95
+1_0900 Daily Requirements.xlsx	Total Reqs	training_set	VEnron2\VEnron2\802	A1:DB187
+1_PRCprocess all bu's.xlsx	ENRON AMERICAS	training_set	VEnron2\VEnron2\488	A1:E10
+1_PRCprocess.xlsx	Sheet1	training_set	VEnron2\VEnron2\423	A1:E10
+1_termination dates - west.xlsx	12/20/2020	training_set	VEnron2\VEnron2\822	A1:E10
+1_Customer List-info needed.xlsx	Producers	testing_set	VEnron2\VEnron2\1175	A1:E110
+10_Positions_10_23.xlsx	SPECIALREPORT -1	training_set	VEnron2\VEnron2\43	A1:E113
+1_AppalPay200112.xlsx	CGASVol	training_set	VEnron2\VEnron2\853	A1:E125
+1_EastProducts.xlsx	products	training_set	VEnron2\VEnron2\1301	A1:E13
+1_Texas Quote List.xlsx	Texas	training_set	VEnron2\VEnron2\1079	A1:E13
+WASL3,4,5__EUSES_grades_processed.xlsx	Test	training_set	VEUSES\VEUSES\51	A1:E135
+1_house.xlsx	Sheet1	training_set	VEnron2\VEnron2\576	A1:E136	F17:G23
+1_2000 Winter Plan.xlsx	November	training_set	VEnron2\VEnron2\901	A1:E14	J2:Q45	A18:H38
+1_Attending.xlsx	Sheet1	training_set	VEnron2\VEnron2\358	A1:E176
+1_termination dates - west.xlsx	12/10/2020	training_set	VEnron2\VEnron2\822	A1:E208
+1_EOL_Enpower_deals.xlsx	Sheet2	training_set	VEnron2\VEnron2\965	A1:E24
+1_Sales Funnel2.xlsx	Sheet1	training_set	VEnron2\VEnron2\989	A1:E29
+forensics_rubric__EUSES_homework_processed.xlsx	Sheet2	training_set	VEUSES\VEUSES\164	A1:E31
+1_DTIDec01Split.xlsx	EffDate	training_set	VEnron2\VEnron2\851	A1:E328
+1_Risk books 0131.xlsx	Sheet1	training_set	VEnron2\VEnron2\1322	A1:E386
+1_Customer List-info needed.xlsx	Industrials	testing_set	VEnron2\VEnron2\1175	A1:E40
+2003Fall__EUSES_database_processed.xlsx	CourseListBySequence	training_set	VEUSES\VEUSES\119	A1:E43
+1_trading track rotations.xlsx	Rotation list	training_set	VEnron2\VEnron2\41	A1:E45
+1_GREENPOWER_OCT-2001.xlsx	GreenPower - 10-2001	training_set	VEnron2\VEnron2\636	A1:E5
+Classroom_Inventory_2000-01__EUSES_inventory_bad.xlsx	Pre-1999	training_set	VEUSES\VEUSES\35	A1:E67
+1_Charges for Out Service.xlsx	Sheet1	training_set	VEnron2\VEnron2\1070	A1:E8
+1_10032001PilotStatus.xlsx	Justification	training_set	VEnron2\VEnron2\1592	A1:F11
+1_jan01.xlsx	jan01.xls	training_set	VEnron2\VEnron2\1507	A1:F14
+1_Pooling Point Daily Average Quantities 1999 and 2000.xlsx	7/14/2000	training_set	VEnron2\VEnron2\1171	A1:F159
+1_bookentrytemplate.xlsx	Field Constraints	training_set	VEnron2\VEnron2\765	A1:F16
+1_BR New York Ticker 10_01.xlsx	EOL LINKS	testing_set	VEnron2\VEnron2\1278	A1:F16	H1:I7	J1:M6
+1_CurveMapping_Texas.xlsx	sort by Pipe	training_set	VEnron2\VEnron2\1546	A1:F168
+1_Presto A&A.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1266	A1:F18	A20:F38	A40:E46	A48:E52
+1_roi_version_1.xlsx	Value Area Map	training_set	VEnron2\VEnron2\468	A1:F18
+1_Third Qtr Compare 00 - 011.xlsx	Sheet1	training_set	VEnron2\VEnron2\385	A1:F18
+1_Spreads0823.xlsx	Socal-Avg	training_set	VEnron2\VEnron2\236	A1:F24
+1_DTIDec01Split.xlsx	SplitVol	training_set	VEnron2\VEnron2\851	A1:F245
+1_Lavo Report 3.xlsx	chart data - power	training_set	VEnron2\VEnron2\1437	A1:F29
+1_ml.throughput.xlsx	ml.throughput	training_set	VEnron2\VEnron2\1361	A1:F295
+1_Interviewer List 10.08.01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1242	A1:F31
+1_Gas Three RM PMA Log 0901.xlsx	-V pricing	training_set	VEnron2\VEnron2\658	A1:F34
+10_dec 21 unofficialized.xlsx	Sheet1	testing_set	VEnron2\VEnron2\120	A1:F349
+1_LoadResource2.xlsx	DailyAvg	training_set	VEnron2\VEnron2\1158	A1:F366
+1_Pre-rankings.xlsx	EXPORT_TBIEN	training_set	VEnron2\VEnron2\919	A1:F37
+1_SAP WORKORDERS(CC105657).xlsx	Work Order - Project Mapping	training_set	VEnron2\VEnron2\762	A1:F38
+10_EMR Prices.xlsx	Sheet1	training_set	VEnron2\VEnron2\83	A1:F39
+1_Lavo Report 3.xlsx	chart data - natgas	training_set	VEnron2\VEnron2\1437	A1:F41
+1_Physical Trader Matrix.xlsx	Sheet1	training_set	VEnron2\VEnron2\1604	A1:F47
+00db8cbd-33d4-41c7-b2c8-69970d2d018c.xlsx	Data1	training_set	VFUSE\VFUSE\101	A1:F507
+1_TW2010ProjCap&Rev.xlsx	Hist Ave	training_set	VEnron2\VEnron2\234	A1:F6
+1_ElPasoTransport.xlsx	Sheet2	training_set	VEnron2\VEnron2\1350	A1:F65
+1_gas physical.xlsx	Sheet1	testing_set	VEnron2\VEnron2\681	A1:F7
+1_WPU.xlsx	WPU	training_set	VEnron2\VEnron2\262	A1:F80
+1_cas group name.xlsx	cas group name	training_set	VEnron2\VEnron2\1023	A1:G100
+1_West Total Orig Income Stmt.xlsx	Detail Breakdown	testing_set	VEnron2\VEnron2\784	A1:G110
+1_Recorded Channels (Analog) Node 10.xlsx	Recorded_Channels__Analog__Node	training_set	VEnron2\VEnron2\1334	A1:G113
+Example_1__EUSES_homework_processed.xlsx	Q4 Summary	training_set	VEUSES\VEUSES\34	A1:G12
+012004PList__EUSES_modeling_processed.xlsx	SUCCESSES	testing_set	VEUSES\VEUSES\146	A1:G256
+1_Mid13_Demarc.xlsx	Detail	training_set	VEnron2\VEnron2\1392	A1:G297
+1_WestRateSheet.xlsx	CashVarRates	training_set	VEnron2\VEnron2\541	A1:G31	I1:O23
+1_Lavo Report 4.xlsx	SPECIALREPORT -1	testing_set	VEnron2\VEnron2\1443	A1:G366
+1_Restructure Buyout_pallen.xlsx	Sheet1	training_set	VEnron2\VEnron2\612	A1:G38
+10_price 11.19.01.xlsx	Sheet1	training_set	VEnron2\VEnron2\132	A1:G38
+1_Enron PX Credits as of 4-20-01.xlsx	SUMMARY	training_set	VEnron2\VEnron2\641	A1:G4
+1_Tables List 9-5-01.xlsx	Sheet1	training_set	VEnron2\VEnron2\425	A1:G43
+1_TBoone.xlsx	export	training_set	VEnron2\VEnron2\1369	A1:G5
+10_Trading Track  Rotations November 9th.xlsx	Trading Track	training_set	VEnron2\VEnron2\46	A1:G52	I2:J27	I34:J47
+1_offsite1.xlsx	Sheet1	training_set	VEnron2\VEnron2\1411	A1:G55
+1_Integration Test Contact List.xlsx	Contacts	training_set	VEnron2\VEnron2\766	A1:G62
+1_dlya zai.xlsx	Sheet1	training_set	VEnron2\VEnron2\932	A1:G83
+1_Curves.xlsx	Sheet1	training_set	VEnron2\VEnron2\97	A1:H10
+1_cplist.xlsx	Sheet1	training_set	VEnron2\VEnron2\1324	A1:H105
+Example_1__EUSES_homework_processed.xlsx	Q4 Homework	training_set	VEUSES\VEUSES\34	A1:H11
+1_top100revised.xlsx	Sheet1	training_set	VEnron2\VEnron2\1358	A1:H121
+1_NYMEX Calendar.xlsx	Sheet1	training_set	VEnron2\VEnron2\544	A1:H14
+1_June 12 Proposal Without J4JB in Mcfd.xlsx	Receipt Point Capacities	training_set	VEnron2\VEnron2\1404	A1:H175
+1990-VHS-list__EUSES_database_processed.xlsx	1990	training_set	VEUSES\VEUSES\113	A1:H19
+1_Mkt Disruption Tracking2.xlsx	Main Active	training_set	VEnron2\VEnron2\743	A1:H246
+1_VaR Template.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1019	A1:H28
+1_Consolidated Bankruptcy Changes.xlsx	Consolidated Changes	training_set	VEnron2\VEnron2\737	A1:H291
+1_Deals.xlsx	Sheet1	testing_set	VEnron2\VEnron2\286	A1:H32
+1_Jan 2001 tranny.xlsx	Sheet1	training_set	VEnron2\VEnron2\315	A1:H32
+act4_023_bartholomew__EUSES_cs101_processed.xlsx	Stock Prices	training_set	VEUSES\VEUSES\127	A1:H39
+se010804aim__EUSES_homework_bad.xlsx	Open Action Items	testing_set	VEUSES\VEUSES\115	A1:H4
+1_AdHoc VAR - PA Apr-Oct 01 SoCal 100.xlsx	Sheet1	training_set	VEnron2\VEnron2\1354	A1:H41
+1_TXU.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1368	A1:H43
+se010804aim__EUSES_homework_bad.xlsx	Completed Action Items	testing_set	VEUSES\VEUSES\115	A1:H60
+1_methanol plant allowances.xlsx	Sheet1	training_set	VEnron2\VEnron2\510	A1:H7
+1_Financial deals 0626 through 0707.xlsx	Sheet1	training_set	VEnron2\VEnron2\1279	A1:H84
+1_Post-id's.xlsx	Sheet1	training_set	VEnron2\VEnron2\1207	A1:H9
+1_New_Co_Ret_Pmt.xlsx	Sheet1	training_set	VEnron2\VEnron2\1391	A1:I188
+1_matrix 8-27.xlsx	Sheet1	training_set	VEnron2\VEnron2\1152	A1:I19
+1_NAT GAS Prices GRAPH.xlsx	SoCal-SJ Calc	testing_set	VEnron2\VEnron2\598	A1:I195
+1_NAT GAS Prices GRAPH.xlsx	SoCal-Perm Calc	testing_set	VEnron2\VEnron2\598	A1:I195
+1_physicaldeals 120101 SBR partial listing 3.xlsx	Deals to auto-terminate	training_set	VEnron2\VEnron2\898	A1:I244
+1_Broker Legal Names.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1352	A1:I25
+1_Hall World Alphabetized.xlsx	Sheet1	training_set	VEnron2\VEnron2\1485	A1:I319	A322:I326	A329:I351
+10_ed060501.xlsx	DemandOnpeak	training_set	VEnron2\VEnron2\149	A1:I34
+10_ed060501.xlsx	DemandAverage	training_set	VEnron2\VEnron2\149	A1:I34
+1_TWSpreadsheet.xlsx	Sheet1	testing_set	VEnron2\VEnron2\365	A1:I38	A39:I77	A78:I114	A115:I152	A153:I187
+1_NwPrdts20.xlsx	newprodnd	training_set	VEnron2\VEnron2\1504	A1:I5
+2003Fall__EUSES_database_processed.xlsx	CourseList	training_set	VEUSES\VEUSES\119	A1:I57
+1_EOTT facility list.xlsx	Amarillo	training_set	VEnron2\VEnron2\327	A1:I59
+1_socalfcst.xlsx	Lavo Fcst	training_set	VEnron2\VEnron2\259	A1:I60
+zgrades1Answers__EUSES_grades_processed.xlsx	Vocabulary	training_set	VEUSES\VEUSES\110	A1:I7
+1_TRV Report & User List.xlsx	Sheet1	training_set	VEnron2\VEnron2\1323	A1:I73
+1_Enron_Final_Version.xlsx	Power Swap Final	testing_set	VEnron2\VEnron2\74	A1:J14
+1_ENA Participation.xlsx	Interviewers	training_set	VEnron2\VEnron2\376	A1:J15
+1_Index to Index Hedge Strategy Cal 02 and 03.xlsx	Yr. 2003	training_set	VEnron2\VEnron2\1209	A1:J15
+1_Deals Reported to Risk (Phy) 012502.xlsx	Sheet1	training_set	VEnron2\VEnron2\1044	A1:J19
+1_jobsearch.xlsx	jobs	training_set	VEnron2\VEnron2\1224	A1:J19
+1_06-11.xlsx	JUNE_11	training_set	VEnron2\VEnron2\1493	A1:J21
+1_2002 Budget 7-31-01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1510	A1:J29
+1_HOW-TO MANUAL (for Houston).xlsx	Sheet1	training_set	VEnron2\VEnron2\946	A1:J35	A43:J67	A84:J116
+10_imbalsumm0102.xlsx	williams	training_set	VEnron2\VEnron2\91	A1:J40
+10_EnronVaRCurveShift II.xlsx	Sheet1	training_set	VEnron2\VEnron2\614	A1:J468
+1_AUCTION ITEMS.xlsx	By category	training_set	VEnron2\VEnron2\823	A1:J48
+1_AUCTION ITEMS.xlsx	numerical order	training_set	VEnron2\VEnron2\823	A1:J48
+1_Forward Gas Electric Prices as of 051001.xlsx	GasFP0510	training_set	VEnron2\VEnron2\639	A1:J57
+1_GarlandGen.xlsx	POWERDAT	training_set	VEnron2\VEnron2\967	A1:J6
+1_Exxon Gulf Coast 0401.xlsx	Sheet1	testing_set	VEnron2\VEnron2\900	A1:J64
+1_Index to Index Hedge Strategy Cal 02 and 03.xlsx	Yr. 2002	training_set	VEnron2\VEnron2\1209	A1:J7
+zgrades1Answers__EUSES_grades_processed.xlsx	Reading	training_set	VEUSES\VEUSES\110	A1:J7
+10_Variances April 5-01.xlsx	April	training_set	VEnron2\VEnron2\305	A1:J72
+1_NP Daily Marks.xlsx	Daily Change Graph	training_set	VEnron2\VEnron2\251	A1:J8
+1_ENA-FT-WT-SOCAL from CAS 01-30-02.xlsx	ENA-FT-WT-SOCAL from CAS 01-30-	training_set	VEnron2\VEnron2\1519	A1:J91
+1_ENA-FT-WT-SOCAL from CAS 01-30-02.xlsx	Alpha	training_set	VEnron2\VEnron2\1519	A1:J91
+1_Cash Out Prices for August 2000.xlsx	City Gas 	training_set	VEnron2\VEnron2\343	A1:K10
+1_eugeneconfirms.xlsx	Sheet4	training_set	VEnron2\VEnron2\1281	A1:K10
+1_CALIFORNIA STRATEGY 0921.xlsx	Sheet1	training_set	VEnron2\VEnron2\1163	A1:K115
+1_Appendices November.xlsx	Appendix 1	testing_set	VEnron2\VEnron2\677	A1:K12
+1_AUGUST 2001 GTC DEAL CLEARING COUNT.xlsx	Sheet1	training_set	VEnron2\VEnron2\1056	A1:K17
+1_m010724a.xlsx	Sheet1	training_set	VEnron2\VEnron2\712	A1:K19
+1_tdwaterhouse_2000.xlsx	Sheet1	training_set	VEnron2\VEnron2\1077	A1:K19	C27:I47
+1_CES Invoice Jan2000.xlsx	Billing	training_set	VEnron2\VEnron2\872	A1:K20
+1_MASTER ISSUES_MSTONES_OPSVIEW-2-04-02.xlsx	Closed Issues	training_set	VEnron2\VEnron2\390	A1:K20
+10_EnronVaRCurveShift II.xlsx	Sheet2	training_set	VEnron2\VEnron2\614	A1:K213
+1_Power Trading Start2.xlsx	Master Trading Agreements	training_set	VEnron2\VEnron2\446	A1:K30	A31:K37
+1_Hedacount.xlsx	Sheet1	training_set	VEnron2\VEnron2\318	A1:K35
+1_2002HM.xlsx	Sheet1	training_set	VEnron2\VEnron2\605	A1:K38
+1_loaddata_June&July_2001.xlsx	6/1/2020	training_set	VEnron2\VEnron2\1165	A1:K38
+10_Fixed Price Physical Deals May_2001_FNL.xlsx	PHYS_ByPoint	training_set	VEnron2\VEnron2\79	A1:K433
+10_6th floorplan 01.04.xlsx	Sheet1	training_set	VEnron2\VEnron2\44	A1:K51
+ActionItem0109__EUSES_modeling_processed.xlsx	Action Items	training_set	VEUSES\VEUSES\138	A1:K61
+1_Expense Analysis.xlsx	Sheet1	training_set	VEnron2\VEnron2\836	A1:L10
+1_twsocalspr.xlsx	Sheet1	training_set	VEnron2\VEnron2\551	A1:L127
+1_CorpContr'00 analysis.xlsx	CorpContr_00	training_set	VEnron2\VEnron2\1509	A1:L153	J155:L159
+1_EATS Projects.xlsx	Power Projects	training_set	VEnron2\VEnron2\401	A1:L16
+1_MASTER ISSUES_MSTONES_OPSVIEW-2-04-02.xlsx	ISSUES	training_set	VEnron2\VEnron2\390	A1:L166
+1_Reliant-Etx-HLP.xlsx	Sheet1	training_set	VEnron2\VEnron2\883	A1:L19
+1_Functional Income 2001.xlsx	ETS	testing_set	VEnron2\VEnron2\840	A1:L228
+1_Charge Matrix (Automatic Chrg Types) - Version 13.0d - 050701 - Draft.xlsx	Automated Charge Types	training_set	VEnron2\VEnron2\936	A1:L258
+1_febsaleinv1.xlsx	febsaleinv1	training_set	VEnron2\VEnron2\1300	A1:L3
+1_RegFilingsMaster.xlsx	Regulatory Filings	training_set	VEnron2\VEnron2\1145	A1:L31
+10_Topock Pigging Program.xlsx	Page 1	training_set	VEnron2\VEnron2\17	A1:L35
+10_Topock Pigging Program.xlsx	Page 2	training_set	VEnron2\VEnron2\17	A1:L35
+advresults__EUSES_modeling_processed.xlsx	Pre-Teen (10-12)	training_set	VEUSES\VEUSES\137	A1:L4
+1_EnPower Roles.xlsx	Sheet1	training_set	VEnron2\VEnron2\479	A1:L46
+advresults__EUSES_modeling_processed.xlsx	Junior (13-15)	training_set	VEUSES\VEUSES\137	A1:L5
+10_04-12.xlsx	Sheet2	training_set	VEnron2\VEnron2\1370	A1:L6
+1_EATS Projects.xlsx	Gas Projects	training_set	VEnron2\VEnron2\401	A1:L9
+1_ColSale1 (Mar. 2000).xlsx	ColSale1 (Mar	training_set	VEnron2\VEnron2\272	A1:M19
+1_LFC0700V1.xlsx	BUG E	training_set	VEnron2\VEnron2\239	A1:M2
+1_KK5thRequest.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1259	A1:M264
+1_LFC0700V1.xlsx	PGW	training_set	VEnron2\VEnron2\239	A1:M3
+1_Nevada Power Company.xlsx	tagg1	training_set	VEnron2\VEnron2\1291	A1:M3
+1_MillstoneEstates.xlsx	Sheet1	training_set	VEnron2\VEnron2\1046	A1:M363
+1_HM-ES SCOTT NEAL BOND 06072001.xlsx	Enter	testing_set	VEnron2\VEnron2\1353	A1:M8
+1_newEnronEgyPECOChoice.xlsx	Active	training_set	VEnron2\VEnron2\630	A1:N18
+1_socal_curvefetch.xlsx	1998K	training_set	VEnron2\VEnron2\1319	A1:N303
+1_nevadapower.xlsx	Expired	training_set	VEnron2\VEnron2\798	A1:O11
+1_contacts.xlsx	Trading Contacts	training_set	VEnron2\VEnron2\863	A1:O13
+1_Name Corrections.xlsx	11/1/2000	training_set	VEnron2\VEnron2\504	A1:O21	A26:O34
+1_trading track rotations.xlsx	Rotation chart	training_set	VEnron2\VEnron2\41	A1:O27
+1_West Index 1205.xlsx	Sheet4	training_set	VEnron2\VEnron2\1452	A1:O442
+1_NA Analysis.xlsx	SPECIALREPORT -1	training_set	VEnron2\VEnron2\225	A1:O45
+1_nevadapower.xlsx	Live	training_set	VEnron2\VEnron2\798	A1:O47
+1_pacific.xlsx	Sheet1	testing_set	VEnron2\VEnron2\633	A1:O6
+1_Socal Demand Forecast.xlsx	dem,rec,sto	training_set	VEnron2\VEnron2\619	A1:O6	A9:O14	A16:O21	A58:O63	A37:O42	A30:O35	A51:O56	A44:O49
+1_non terminated deals.xlsx	Sheet1	training_set	VEnron2\VEnron2\741	A1:O7
+1_GSA Renewables for FY 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\1407	A1:O8
+1_NewPower2001_02P.xlsx	NewPower2001_02P	training_set	VEnron2\VEnron2\856	A1:P66
+1_IPnet-addresses-3-1-02.xlsx	2001 pilot	training_set	VEnron2\VEnron2\1022	A1:Q14
+10_TradeCountsByCp_11_07_2001.xlsx	SPECIALREPORT -1	training_set	VEnron2\VEnron2\54	A1:Q169
+1_SOCO EOL Monitor.xlsx	Data	training_set	VEnron2\VEnron2\1185	A1:Q27
+1_Power Exposure COB 101101.xlsx	MTM Exposure cob 101101	training_set	VEnron2\VEnron2\990	A1:Q344
+1_Power Exposure COB 101101.xlsx	Alpha Exposure cob 101101	training_set	VEnron2\VEnron2\990	A1:Q344
+1_Summary of Book Requests PowerUpdate.xlsx	Enpower	training_set	VEnron2\VEnron2\1256	A1:Q36
+1_Enpower QA Status.xlsx	Sheet1	training_set	VEnron2\VEnron2\816	A1:Q39
+1_TXRRC_STG.xlsx	Sheet1	training_set	VEnron2\VEnron2\781	A1:Q48
+1_QuickINFO.xlsx	Stack	training_set	VEnron2\VEnron2\962	A1:Q82
+1_NNGmeaslog.xlsx	NNG MeasLog	training_set	VEnron2\VEnron2\1021	A1:R161
+1_tds curves.xlsx	Sheet4	training_set	VEnron2\VEnron2\1533	A1:R20
+1_packstat01.xlsx	1/1/2020	training_set	VEnron2\VEnron2\437	A1:R40
+1_financial week ending 0526.xlsx	Sheet1	training_set	VEnron2\VEnron2\759	A1:R41
+1_GarlandGen.xlsx	ERCOT GEN SHEET	training_set	VEnron2\VEnron2\967	A1:R7
+1_December regional office summary - actual.xlsx	Enron Europe 1	training_set	VEnron2\VEnron2\678	A1:R78
+1_packstat01.xlsx	2/1/2020	training_set	VEnron2\VEnron2\437	A1:R95
+1_2000 Plana.xlsx	PLAN00	training_set	VEnron2\VEnron2\352	A1:S112
+1_Book1.xlsx	Sheet1	training_set	VEnron2\VEnron2\9	A1:S13
+1_Book1.xlsx	Sheet1	training_set	VEnron2\VEnron2\9	A1:S13
+1_TrunklineEMW.xlsx	Results	training_set	VEnron2\VEnron2\1307	A1:S143
+1_Summary of Book Requests PowerUpdate.xlsx	TAGG	training_set	VEnron2\VEnron2\1256	A1:S20
+1_febsaleinv2.xlsx	febsaleinv2	training_set	VEnron2\VEnron2\873	A1:S249
+1_Summary of Book Requests Update.xlsx	East	training_set	VEnron2\VEnron2\306	A1:S27
+1_book summary.xlsx	curves	training_set	VEnron2\VEnron2\1309	A1:S325
+012004PList__EUSES_modeling_processed.xlsx	ACTIVE	testing_set	VEUSES\VEUSES\146	A1:S54
+Family_Adjustment_Read_Only__EUSES_inventory_bad.xlsx	IO	testing_set	VEUSES\VEUSES\22	A1:T10
+1_Summary of Book Requests Update.xlsx	All Natural Gas	training_set	VEnron2\VEnron2\306	A1:T143
+0211Score__EUSES_homework_processed.xlsx	Sec1	training_set	VEUSES\VEUSES\132	A1:T34
+0211Score__EUSES_homework_processed.xlsx	Sec2	training_set	VEUSES\VEUSES\132	A1:T34
+10_SEC VaR.xlsx	2000	training_set	VEnron2\VEnron2\135	A1:T45
+1_Keyspanunwind.xlsx	SAPKeyspan	training_set	VEnron2\VEnron2\661	A1:T52
+1_Industrial Sector Tie-Out.xlsx	MIDAS	training_set	VEnron2\VEnron2\1425	A1:U351
+1_ENA and Merrill Financial Gas Swaps.xlsx	April Incoming	training_set	VEnron2\VEnron2\1502	A1:V53
+1_GaddBonusCommercial_UnP.xlsx	Commercial	training_set	VEnron2\VEnron2\878	A1:V7
+1_Brokerage Agreements List-1.xlsx	Sheet1	training_set	VEnron2\VEnron2\758	A1:W27	B31:D51
+StPQues02__EUSES_homework_processed.xlsx	Analysis	training_set	VEUSES\VEUSES\30	A1:W32
+10_1114.xlsx	Export	training_set	VEnron2\VEnron2\1355	A1:W5
+1_NETCO.xlsx	NETCO EOL IT	testing_set	VEnron2\VEnron2\399	A1:W87
+1_Criteria.xlsx	Sheet1	training_set	VEnron2\VEnron2\1339	A1:X150
+1_Hall Operations List for NetCo  version 4.xlsx	Hall	training_set	VEnron2\VEnron2\415	A1:X328
+1_Stor021800.xlsx	ForwardbyDeal	training_set	VEnron2\VEnron2\14	A1:X33
+1_runtime.xlsx	TIMES	training_set	VEnron2\VEnron2\1321	A1:X371
+FS_Upgrade_Plan_v3_111502__EUSES_database_processed.xlsx	FS Plan Summary	testing_set	VEUSES\VEUSES\173	A1:Y16
+Classroom_Inventory_2000-01__EUSES_inventory_bad.xlsx	Detail	training_set	VEUSES\VEUSES\35	A1:Y163
+FS_Upgrade_Plan_v3_111502__EUSES_database_processed.xlsx	FS Plan Detail	testing_set	VEUSES\VEUSES\173	A1:Y165
+1_Payment approvals 1-9-02.xlsx	20020108	training_set	VEnron2\VEnron2\764	A1:Y19
+1_staffing.xlsx	test	training_set	VEnron2\VEnron2\643	A1:Y37
+64fdf02f-792e-4600-9f90-86f0da1cad49.xlsx	Test Definitions	training_set	VFUSE\VFUSE\125	A1:Y378
+1_IPnet-addresses-3-1-02.xlsx	Active service	training_set	VEnron2\VEnron2\1022	A1:Y40
+1_OctoberTradeCounts.xlsx	SPECIALREPORT -1	training_set	VEnron2\VEnron2\372	A1:Y56
+1_RADAR Screens-4Q 1026.xlsx	volumes Input	training_set	VEnron2\VEnron2\774	A1:Y7	A9:BM15	A17:BM23
+1_quotesen.xlsx	Sheet1	training_set	VEnron2\VEnron2\70	A1:Z33
+10_quotes13.xlsx	SoCal	training_set	VEnron2\VEnron2\71	A1:Z33
+1_OM EST - OSS - 2001 - 2002 REVISED FORMAT.xlsx	Net	training_set	VEnron2\VEnron2\1410	A10:A29
+1_agt012000.xlsx	AGT	training_set	VEnron2\VEnron2\812	A10:AJ85
+1_Direct Sales for Zufferli.xlsx	Peak	testing_set	VEnron2\VEnron2\1236	A10:BJ23	C3:H8
+cd1108dp2000__EUSES_grades_processed.xlsx	DP1	training_set	VEUSES\VEUSES\19	A10:C129
+1_Huber - Existing & Proposed Deals 111201.xlsx	Summary	training_set	VEnron2\VEnron2\458	A10:F14	A3:F6
+1_2001_06 Citizens actual.xlsx	El Paso Fixed NSP Transactions	testing_set	VEnron2\VEnron2\1201	A10:G35
+1_Fuel Inventory Report.xlsx	Sheet1	training_set	VEnron2\VEnron2\603	A10:H33
+AFS_Dec_2001__EUSES_financial_processed.xlsx	Cover	training_set	VEUSES\VEUSES\69	A10:I16
+1_Origination Summary 08-30-01.xlsx	Origination Summary	testing_set	VEnron2\VEnron2\1512	A10:I406	A422:I437	A442:D470	A415:D419
+1_2000 10 Desk Analysis.xlsx	West	training_set	VEnron2\VEnron2\1501	A10:K150
+1_2000 10 Desk Analysis.xlsx	East	training_set	VEnron2\VEnron2\1501	A10:K99
+1_Prudency 2-24-00.xlsx	Sheet1	training_set	VEnron2\VEnron2\776	A10:M51
+1_dec 11.xlsx	Dec 3rd	training_set	VEnron2\VEnron2\1607	A10:M52	P11:R26
+10_New Notification Report 0101.xlsx	2/1/2001	training_set	VEnron2\VEnron2\148	A10:Q36
+1_Prudency 2-24-00.xlsx	Sheet1 (2)	training_set	VEnron2\VEnron2\776	A10:Q63
+1_Allocations to EIM 2002 Plan v2.xlsx	Allocations Detail	training_set	VEnron2\VEnron2\380	A10:Q72
+10_October 19 Structure.xlsx	structure	training_set	VEnron2\VEnron2\77	A10:R21	A24:R35	A39:C41	D39:F41	G39:I41	J39:L41	M39:O41	P39:R41	I43:K45	I47:K49	L43:O49	P43:R49	D51:F53	G51:I53
+10_Enron Statement_1001.xlsx	Enron Detail	training_set	VEnron2\VEnron2\163	A10:Y49	Z46:AB49
+1_Palo Alto Invoice.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1213	A11:AJ45
+1_HM-ES SCOTT NEAL BOND 06072001.xlsx	Summary	testing_set	VEnron2\VEnron2\1353	A11:B23
+1_FixedCurveFetch.xlsx	Sheet1	training_set	VEnron2\VEnron2\1283	A11:C372	F2:H6	A1:B9	F7:G11
+1_global standards daily reporting.xlsx	A 01	training_set	VEnron2\VEnron2\1305	A11:F12
+1_LiqCalc.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1036	A11:F13	A15:F17	A19:F21	A6:B8	C6:D8
+1_Stor021800.xlsx	Summary	training_set	VEnron2\VEnron2\14	A11:F23
+1_ASSISTANTS.xlsx	Sheet1	training_set	VEnron2\VEnron2\499	A11:F44	A58:F91
+10_imbalsumm0102.xlsx	summary	training_set	VEnron2\VEnron2\91	A11:G30	A33:G41
+1_SSCC_SoCal_NG_RFP_1101.xlsx	SSCC-CA	training_set	VEnron2\VEnron2\1219	A11:H19	A21:I34
+1_ALAGASCO.xlsx	Sheet1	training_set	VEnron2\VEnron2\961	A11:I17	A1:I5
+1_CS Amortization.xlsx	Sheet1	training_set	VEnron2\VEnron2\1151	A11:I48
+1_C0366-111726.xlsx	Dept_100152	training_set	VEnron2\VEnron2\337	A11:J23
+10_ENA-Reliant Prepay.xlsx	2/1/2002	training_set	VEnron2\VEnron2\156	A11:J37
+10_ENA-Reliant Prepay.xlsx	3/1/2002	training_set	VEnron2\VEnron2\156	A11:J46	A3:C8
+10_dec31am.xlsx	Sort	training_set	VEnron2\VEnron2\191	A11:K38
+1_Headcount Addition Form0900.xlsx	Headcount Addition	training_set	VEnron2\VEnron2\679	A11:L15
+00db8cbd-33d4-41c7-b2c8-69970d2d018c.xlsx	Index	training_set	VFUSE\VFUSE\101	A11:L17
+00068673-c1c6-47c7-9842-af935cd05b04.xlsx	Monthly Data	training_set	VFUSE\VFUSE\13	A11:L512
+00068673-c1c6-47c7-9842-af935cd05b04.xlsx	Annual Data	training_set	VFUSE\VFUSE\13	A11:L77
+1_Profit_sharing.xlsx	version 1	training_set	VEnron2\VEnron2\574	A11:M25	A2:C10
+1_12593 - BPA.xlsx	to portland	testing_set	VEnron2\VEnron2\353	A11:M66	A3:M9
+00389da1-2223-459a-8ba4-15029d35fd07.xlsx	Monthly Data	training_set	VFUSE\VFUSE\122	A11:N404
+00389da1-2223-459a-8ba4-15029d35fd07.xlsx	Annual Data	training_set	VFUSE\VFUSE\122	A11:N44
+10_Power Remote Office 2002 Plan Expense.xlsx	Headcount	training_set	VEnron2\VEnron2\1415	A11:N72
+10_dec31am.xlsx	Deal Sheet	training_set	VEnron2\VEnron2\191	A11:Z43
+1_Sun Devil Fuel011108.xlsx	Fuel Use	training_set	VEnron2\VEnron2\1178	A117:K139	A62:K84	A88:K110	A7:K29	A33:K55
+10_Enron Supply - TGP.xlsx	Tenn	training_set	VEnron2\VEnron2\150	A12:AH56
+1_EPMI 081001.xlsx	EPMI	training_set	VEnron2\VEnron2\485	A12:C85
+1_MinHPLN00.xlsx	Sheet1	training_set	VEnron2\VEnron2\314	A12:G29
+1_doorstep expenses.xlsx	2000	training_set	VEnron2\VEnron2\673	A12:G90
+1_2000 Weekly Report - 0912.xlsx	Sheet2	testing_set	VEnron2\VEnron2\291	A12:K18
+1_Profit_sharing.xlsx	version 2	training_set	VEnron2\VEnron2\574	A12:M25	A2:C10
+OFCert00__EUSES_financial_bad.xlsx	OFC	training_set	VEUSES\VEUSES\57	A12:N33
+1_DOUG.xlsx	201	training_set	VEnron2\VEnron2\713	A12:O40
+1_DOUG.xlsx	101	training_set	VEnron2\VEnron2\713	A12:O40
+10_Enron Daily Email Oct '01.xlsx	Powder	training_set	VEnron2\VEnron2\95	A12:O49
+1_Texoma.xlsx	Master	training_set	VEnron2\VEnron2\902	A12:X48	A57:Q91
+1_mara&phil_Citizens Model.xlsx	Sheet1	training_set	VEnron2\VEnron2\1203	A13:AC47
+1_October 01.xlsx	Model	training_set	VEnron2\VEnron2\1449	A13:AC48	B4:C13
+1_RedRockNPVContracts.xlsx	NPV	training_set	VEnron2\VEnron2\570	A13:AT39	P4:AT11
+1_Matrix of Long-Term Exotic Options Trades.xlsx	Potential Product Matrix	testing_set	VEnron2\VEnron2\367	A13:B69
+10_12_22_00 EPMI IPG INDEXES.xlsx	Sheet1	training_set	VEnron2\VEnron2\184	A13:CG132
+1_m010806.xlsx	Sheet1	training_set	VEnron2\VEnron2\336	A13:D20	A4:C8
+1_Area Managers.xlsx	Family Leisure	testing_set	VEnron2\VEnron2\1262	A13:G28
+10_SDSNOM.xlsx	Sheet1	training_set	VEnron2\VEnron2\180	A13:G30	L7:P16	L19:P33
+10_egmnom-Feb.xlsx	EGM 60	training_set	VEnron2\VEnron2\175	A13:H21	A23:H34
+1_Inv_WC_true_up.xlsx	Inv & WC Value Adj	training_set	VEnron2\VEnron2\870	A13:H37
+1_EP2002 NGI.xlsx	Speakers	training_set	VEnron2\VEnron2\1190	A13:I14
+10_Sierras West - Buy1.xlsx	Enron Direct Deal Sheet	training_set	VEnron2\VEnron2\1265	A13:I28
+1_PWR_EXPORT_TAB.xlsx	Sheet1	training_set	VEnron2\VEnron2\1539	A13:O45
+1_SUNFLOWER - NNG1.xlsx	FEB	training_set	VEnron2\VEnron2\1024	A13:U47
+1_SUNFLOWER - NNG1.xlsx	JAN	training_set	VEnron2\VEnron2\1024	A13:U47
+1_EdwardsAFBrevMar.xlsx	Sheet1	training_set	VEnron2\VEnron2\354	A14:AF48	A50:AF84	A85:AF119
+1_Supply_Demand.xlsx	By Unit	training_set	VEnron2\VEnron2\575	A14:F20	A4:H10	A23:L30
+1_Enron Lost Creek Statement Email 0801.xlsx	Enron(NC) Imbalance	training_set	VEnron2\VEnron2\274	A14:F41
+1_Closing 122001 mkt sum final CERS.xlsx	Feb Debtor	training_set	VEnron2\VEnron2\665	A14:H20	A24:H30	A34:I43	A6:H10
+1_4.01.02update.xlsx	1671 Cleburne Intrastate	training_set	VEnron2\VEnron2\1545	A14:O45	A49:O65
+cmwrfinance__EUSES_financial_processed.xlsx	Front	training_set	VEUSES\VEUSES\163	A14:V56
+1_Oct '01 on call calendar.xlsx	on call calendar	training_set	VEnron2\VEnron2\789	A15:AE53
+1_JONMCKAY050701.xlsx	JonMckay-Mon	training_set	VEnron2\VEnron2\308	A15:F24	A26:F35	A37:F46	A50:F59	A61:G70
+1_lonestarnom.xlsx	3/6/2020	training_set	VEnron2\VEnron2\861	A15:F24	A29:F31
+1_lonestarnom.xlsx	3/5/2020	training_set	VEnron2\VEnron2\861	A15:F25	A30:F32
+1_Inclement Weather Contact List.xlsx	Global Products	testing_set	VEnron2\VEnron2\1514	A15:H18	A22:H25	A41:H43	A35:H38	A29:H31
+Fall03ma121__EUSES_modeling_processed.xlsx	MA121-02	testing_set	VEUSES\VEUSES\32	A15:I30
+1_gencomodel.xlsx	Summary	training_set	VEnron2\VEnron2\1066	A15:I51	B9:I13
+1_Schedule_A_FA'01.xlsx	Div A Input	training_set	VEnron2\VEnron2\512	A15:M76
+1_Trans Rate Table2.xlsx	Rate Table	training_set	VEnron2\VEnron2\1059	A150:G173	A72:G96	A4:G37	A99:G121	A40:G69	A124:G147
+1_List of Interviewers.xlsx	Sheet1	training_set	VEnron2\VEnron2\377	A153:F202	A2:F82	A84:F150
+1_Quote Sheet 5-29-01.xlsx	NYMEX Quote - Incremental Vol	testing_set	VEnron2\VEnron2\1556	A16:B37	D16:E41	G16:H41	J16:K41	M16:N21	A8:L11
+1_LAVO P&L_nov15.xlsx	Sheet1	training_set	VEnron2\VEnron2\422	A16:D25	A8:D14	A27:D35	A4:E6
+act3_lab23_posey__EUSES_cs101_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\2	A16:E24	A5:G14
+1_6-11-01c.xlsx	Sheet1	training_set	VEnron2\VEnron2\1274	A16:E71
+1_working capital.xlsx	workingcapital	training_set	VEnron2\VEnron2\1298	A16:F26
+10_Enron Statement_1001.xlsx	Enron Summary	training_set	VEnron2\VEnron2\163	A16:G34
+1_Producer Pricing Detail Nov01.xlsx	Independent Summary	training_set	VEnron2\VEnron2\785	A16:G36
+1_CA-LT Perf.xlsx	Sheet1	training_set	VEnron2\VEnron2\711	A16:H47	A8:R13
+1_Enron Lost Creek Statement Email 0801.xlsx	Enron(NC) Settlement	training_set	VEnron2\VEnron2\274	A16:H50	H54:L58
+1_Citation Statement.xlsx	Statement	training_set	VEnron2\VEnron2\795	A16:I28
+1_Citation Statement.xlsx	revised statement	training_set	VEnron2\VEnron2\795	A16:J31
+1_Schedule_A_FA'01.xlsx	Div B Input	training_set	VEnron2\VEnron2\512	A16:L71	A5:B13
+1_HIOS 04202001nom sheet.xlsx	Sheet1	training_set	VEnron2\VEnron2\874	A16:Q24
+10_EnronAvails1100.xlsx	Mid-Continent	training_set	VEnron2\VEnron2\169	A16:S178
+1_Direct Sales for Zufferli.xlsx	Flat	testing_set	VEnron2\VEnron2\1236	A17:BJ37	C3:H15
+1_QuickINFO.xlsx	Quick Facts	training_set	VEnron2\VEnron2\962	A17:C30	A4:B9
+1_Closing 061901 mkt cert Jan.xlsx	Jan Debtor	training_set	VEnron2\VEnron2\935	A17:G91	A8:G10
+1_4.01.02update.xlsx	1856 Cleburne Interstate	training_set	VEnron2\VEnron2\1545	A17:M30	A35:M40
+1_socalfcst.xlsx	Sheet1	training_set	VEnron2\VEnron2\259	A17:N29	A31:N44	B1:Z14
+1_move list.xlsx	Sheet1	training_set	VEnron2\VEnron2\1193	A18:C24
+1_Enron SAP TimeSheet Form.xlsx	ENRON	testing_set	VEnron2\VEnron2\1571	A18:F29
+1_Closing 091901 cert debtor.xlsx	Cert Dec-00	training_set	VEnron2\VEnron2\664	A18:G29	A8:G10	B40:G88
+1_Closing 091901 cert debtor.xlsx	Cert Nov-00	training_set	VEnron2\VEnron2\664	A18:G78	A8:G10
+1_Mlcap3.xlsx	Sheet3	testing_set	VEnron2\VEnron2\550	A18:Z20	A2:EA4	A6:EK8	A10:DR12	A14:Z16
+1_utility.xlsx	Utilities	training_set	VEnron2\VEnron2\580	A19:E25	A4:E11
+amendment2SectionJ01a__EUSES_database_processed.xlsx	Total LOE3-26-01	training_set	VEUSES\VEUSES\134	A19:I76
+1_2000 Winter Plan.xlsx	Summary	training_set	VEnron2\VEnron2\901	A19:J33	A53:J67	A70:J84	A36:J50	A2:J16
+1_HPL Storage Inv.xlsx	Sheet1	training_set	VEnron2\VEnron2\1156	A19:K107
+1_budget 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\38	A19:P32	A3:P16
+1_redrockcomparison.xlsx	Sheet1	training_set	VEnron2\VEnron2\1340	A19:Q35	A5:Q17	A38:B42	B83:C97	A99:Q103
+1_New Book Request EnPower.xlsx	Sheet1	training_set	VEnron2\VEnron2\734	A19:T37
+1_TXRRC_STG.xlsx	History By Facility	training_set	VEnron2\VEnron2\781	A2:AC26	A32:AC56	B59:AC83	B88:AC112	A118:AF142	B144:AC168	B173:AC187	B189:AC202	B204:AC217	B219:AC232	B234:AE247	B249:AC262
+1_TEXAS_P&L_JUN01.xlsx	KATHY_PHYS	testing_set	VEnron2\VEnron2\1447	A2:AF36
+100_2-4act.xlsx	Deals	training_set	VEnron2\VEnron2\1	A2:AF94
+1_HedgeStrips.xlsx	Mike Swap Book - NG-EXOTIC	training_set	VEnron2\VEnron2\970	A2:AM150
+1_HedgeStrips.xlsx	John Swap Book - NG-PRICE	training_set	VEnron2\VEnron2\970	A2:AM174
+1_EES Gas Bench.xlsx	Sheet1	training_set	VEnron2\VEnron2\1491	A2:AQ12
+1_Underscheduling Penalty OVERVIEW.xlsx	Sheet1	training_set	VEnron2\VEnron2\944	A2:B34	D2:E34	G2:H34	J2:K34
+1_houstonpower.xlsx	Houston Power Trading	testing_set	VEnron2\VEnron2\421	A2:B46
+KPIs03_04__EUSES_database_processed.xlsx	Aug	training_set	VEUSES\VEUSES\14	A2:B61
+1_Electricity Price information.xlsx	Sheet1	training_set	VEnron2\VEnron2\1060	A2:B65
+1_InventoryNapoleonville00.xlsx	Inv Bal 2000	training_set	VEnron2\VEnron2\1393	A2:BY10
+1_Phase1to3Customers.xlsx	Phase1 to 3 Customers	training_set	VEnron2\VEnron2\783	A2:C12	A14:C64	A66:C163
+1_Intitial.xlsx	datapoints	training_set	VEnron2\VEnron2\1306	A2:C225
+cbamicrohydelbest__EUSES_homework_processed.xlsx	CBA	testing_set	VEUSES\VEUSES\89	A2:C34	E2:AA34
+1_MIRANT - Nov 30 2001 Termination.xlsx	Deal Numbers	training_set	VEnron2\VEnron2\702	A2:C35
+10_Daily Forward Price Curves 10262001.xlsx	Sheet1	training_set	VEnron2\VEnron2\223	A2:C38	I2:J38	E2:G38
+10_Trading Track  Rotations November 9th.xlsx	to be assigned out	training_set	VEnron2\VEnron2\46	A2:C58
+1_Budget.xlsx	HouseSave	testing_set	VEnron2\VEnron2\39	A2:C65
+1_Netco Commercial4122pm.xlsx	Nat Gas	training_set	VEnron2\VEnron2\409	A2:C70	D2:F46
+1_i2 Board of Directors.xlsx	Sheet1	training_set	VEnron2\VEnron2\1182	A2:C82
+1_Juniper Jan02.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1542	A2:CN47
+1_Commercial Headcount for NEWCO.xlsx	Gas	training_set	VEnron2\VEnron2\412	A2:D132
+1_socalperwaha.xlsx	Sheet1	training_set	VEnron2\VEnron2\362	A2:D197
+1_Dailytotal.xlsx	Sheet1	training_set	VEnron2\VEnron2\613	A2:D215
+1_0314-0324meterdisputes.xlsx	0314-0324	training_set	VEnron2\VEnron2\948	A2:D22	F2:I12
+1_Functional Leads ENA.xlsx	West Desk Support	testing_set	VEnron2\VEnron2\1508	A2:D40
+1_Functional Leads ENA.xlsx	East Desk Support	testing_set	VEnron2\VEnron2\1508	A2:D43
+1_Govt Affairs Support For West Desk.xlsx	Sheet1	training_set	VEnron2\VEnron2\715	A2:D43
+10_NYMarket0116.xlsx	IROQZ2	training_set	VEnron2\VEnron2\216	A2:D48
+1_Budget.xlsx	NewHouse	testing_set	VEnron2\VEnron2\39	A2:D70
+1_June 12 Proposal Without J4JB in Mcfd.xlsx	Consolidated Results	training_set	VEnron2\VEnron2\1404	A2:DJ62
+1__netcoopslist011402.xlsx	Sheet2	training_set	VEnron2\VEnron2\763	A2:E117
+1_1st qtr - 1999 FERC.xlsx	Exchange	training_set	VEnron2\VEnron2\1380	A2:E14
+1_CE 3 vs. Actuals.xlsx	Sheet1	testing_set	VEnron2\VEnron2\835	A2:E18	A24:E44
+1_Modesto_lossrtn_settlement.xlsx	Sheet1	training_set	VEnron2\VEnron2\480	A2:E28
+1_WestRateSheet.xlsx	EOLID's	training_set	VEnron2\VEnron2\541	A2:E30
+1_EastProducts2.xlsx	products	training_set	VEnron2\VEnron2\746	A2:E43
+3ea172aa-2443-4dcf-a36c-37b73e5e99c8.xlsx	Week 2	training_set	VFUSE\VFUSE\124	A2:E45
+1_coke financials.xlsx	Financials	training_set	VEnron2\VEnron2\1582	A2:E47	A107:E148	A53:E103	A152:E172
+1_EOLTrades.xlsx	Sheet1	training_set	VEnron2\VEnron2\1235	A2:F11
+1_VARMODEL2000.xlsx	Inputs	training_set	VEnron2\VEnron2\317	A2:F13	H12:K23
+1_reorg.xlsx	Sheet1	training_set	VEnron2\VEnron2\514	A2:F18
+1_East West & Alberta Power P&L by Day.xlsx	Power Summary by Day	training_set	VEnron2\VEnron2\700	A2:F234
+1_Enron Japan Contact List.xlsx	Sheet1	testing_set	VEnron2\VEnron2\698	A2:F27
+1_Behind City Gate Purchases.xlsx	Sheet1	training_set	VEnron2\VEnron2\1540	A2:F30
+1_Rpt PMA Log Errol 1001.xlsx	Sheet1	training_set	VEnron2\VEnron2\1012	A2:F31
+1_July-01.xlsx	Pricing	training_set	VEnron2\VEnron2\1561	A2:F34
+1_TimeLog_12192001.xlsx	Sheet1	training_set	VEnron2\VEnron2\622	A2:F4
+1_Paulacustomerlist.xlsx	Net Outs & Other - Settlements	training_set	VEnron2\VEnron2\585	A2:F52
+1_Tallahasse Swing Cash Flow.xlsx	Actual Gas Flows	training_set	VEnron2\VEnron2\844	A2:F64
+1_nymx.xlsx	Sheet1	training_set	VEnron2\VEnron2\805	A2:F66
+1_Denver Cash Mgmt1.xlsx	5DAY Pending	training_set	VEnron2\VEnron2\508	A2:F7
+EcclesHelper2_2__EUSES_grades_bad.xlsx	Help	training_set	VEUSES\VEUSES\168	A2:F70
+1_2001_Q1_Negotiated Deals.xlsx	Summary	training_set	VEnron2\VEnron2\923	A2:F8	A11:F22	A25:F48
+1_Bankruptcy post-ids.xlsx	CAN	training_set	VEnron2\VEnron2\1003	A2:F8
+1_quotesheet.xlsx	11/28/2009	testing_set	VEnron2\VEnron2\983	A2:G13
+1_quotesheet.xlsx	11/29/2020	testing_set	VEnron2\VEnron2\983	A2:G14
+dunn_Q1__EUSES_cs101_bad.xlsx	Sheet1	training_set	VEUSES\VEUSES\1	A2:G14
+1_position1a.xlsx	Sheet2	training_set	VEnron2\VEnron2\725	A2:G16
+10_2001tran12.xlsx	TGT	training_set	VEnron2\VEnron2\153	A2:G21
+1_InterestRateP&L121100.xlsx	Totals	training_set	VEnron2\VEnron2\722	A2:G33	I6:J18
+1_Responsibility List.xlsx	Landscape Version	training_set	VEnron2\VEnron2\1580	A2:G34	A39:E70
+1_Process Resp10.15.01.xlsx	Oct 16 through 22	training_set	VEnron2\VEnron2\226	A2:G51	A54:F58
+1_Cash Out Prices for August 2000.xlsx	Elizabethtown	training_set	VEnron2\VEnron2\343	A2:G6
+1_Fuel Hedge Cal 02 Strategy.xlsx	Fuel Cal 02	training_set	VEnron2\VEnron2\1208	A2:G7
+1_Metrics.xlsx	Sheet1	training_set	VEnron2\VEnron2\1498	A2:H12
+1_Bankruptcy post-ids.xlsx	US	training_set	VEnron2\VEnron2\1003	A2:H13
+1_99contributions.xlsx	Sheet1	training_set	VEnron2\VEnron2\650	A2:H20
+1_tie points-JOU's-MASTER_POR_POD_meeting final.xlsx	INTERTIE	training_set	VEnron2\VEnron2\1374	A2:H232
+1_112601cash.xlsx	Sheet1	training_set	VEnron2\VEnron2\411	A2:H28	A32:H38
+1_Trades 1211.xlsx	Mann	training_set	VEnron2\VEnron2\279	A2:H43
+Database1__EUSES_database_processed.xlsx	database	training_set	VEUSES\VEUSES\148	A2:H51
+1_LSU_Interviews.xlsx	LSU-Tax	training_set	VEnron2\VEnron2\724	A2:H7
+1_El Paso Meeting & Team List.xlsx	Gas	testing_set	VEnron2\VEnron2\1373	A2:H8
+1_El Paso Meeting & Team List.xlsx	Risk	testing_set	VEnron2\VEnron2\1373	A2:H8
+1_methanol plant allowances DERCs ERCs.xlsx	NOxAllowances	training_set	VEnron2\VEnron2\513	A2:H8
+1_Enron True-Upcorrect.xlsx	Sheet2	training_set	VEnron2\VEnron2\952	A2:I14
+1_modeldutch.xlsx	Swaption	training_set	VEnron2\VEnron2\978	A2:I30
+1_super20001.xlsx	Sheet1	training_set	VEnron2\VEnron2\1517	A2:I34
+1_LSU_Interviews.xlsx	LSU 	training_set	VEnron2\VEnron2\724	A2:I45
+1_SAJULY31-2000.xlsx	MONTHLY	training_set	VEnron2\VEnron2\1015	A2:I54
+1_Fall 99GELP OIL BY VENDOR.xlsx	GELP OIL DELIVERY SHEET #1	training_set	VEnron2\VEnron2\869	A2:I60	D62:E65
+1_Power.xlsx	Unknown	training_set	VEnron2\VEnron2\818	A2:I65
+financials0203e__EUSES_financial_processed.xlsx	BS	testing_set	VEUSES\VEUSES\93	A2:I66
+1_interconnection status-10101 final.xlsx	interconnection status report	testing_set	VEnron2\VEnron2\1511	A2:I9	A13:I17	A22:I25	A30:I33	A38:I39
+1_EIM New Cost Centers.xlsx	Sheet1	training_set	VEnron2\VEnron2\1515	A2:J11
+1_Project Cost and Projections thru August 31.xlsx	Sheet1	training_set	VEnron2\VEnron2\1014	A2:J15
+1_load_0411.xlsx	Demand Adj	training_set	VEnron2\VEnron2\604	A2:J16
+OSPricelist7-8__EUSES_grades_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\54	A2:J46
+1_TW2010ProjCap&Rev.xlsx	TW Capacity & Rev thru 2010	training_set	VEnron2\VEnron2\234	A2:J51
+1_m010508.xlsx	SCE	testing_set	VEnron2\VEnron2\1434	A2:K132
+table22__EUSES_financial_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\152	A2:K24
+1_expense report SAP 8-2000.xlsx	Coding Page	training_set	VEnron2\VEnron2\1062	A2:K43
+1_SAJULY31-2000.xlsx	WEEKLY	training_set	VEnron2\VEnron2\1015	A2:K54
+1_jan. curtailments.xlsx	Sheet1	training_set	VEnron2\VEnron2\470	A2:L15
+1_TCO Capacity due 3-15-00.xlsx	Sheet1	training_set	VEnron2\VEnron2\862	A2:L25
+1_Customer_Info.xlsx	Sheet1	training_set	VEnron2\VEnron2\966	A2:L98
+10_enron breakdown  12-13 BOD.xlsx	Sheet1	training_set	VEnron2\VEnron2\207	A2:M19
+00e4d7c8-7e8a-4036-a616-098814e3a3b7.xlsx	TABLE 4	training_set	VFUSE\VFUSE\138	A2:M43
+1_Upstream contracts.xlsx	Contracts	training_set	VEnron2\VEnron2\855	A2:M91
+1_Trigger event.xlsx	General Info	training_set	VEnron2\VEnron2\926	A2:N12
+1_newEnronEgyPECOChoice.xlsx	Closed	training_set	VEnron2\VEnron2\630	A2:N23
+clinical010403+__EUSES_grades_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\24	A2:N32
+1_eesbid2.xlsx	OFF PEAK	training_set	VEnron2\VEnron2\1238	A2:N41
+1_eesbid2.xlsx	PEAK	training_set	VEnron2\VEnron2\1238	A2:N45
+1_IntRatePerm_Socal.xlsx	QT9525.B_Before	training_set	VEnron2\VEnron2\1039	A2:N64
+10_JanCohCHOICE-ENA.xlsx	curves	training_set	VEnron2\VEnron2\142	A2:N80
+1_GATH0112.xlsx	Gath 0112	testing_set	VEnron2\VEnron2\281	A2:O104
+10_Notification Rpt 1100.xlsx	12/1/2000	testing_set	VEnron2\VEnron2\179	A2:O15	B17:O21
+1_GATH0204.xlsx	ENA	training_set	VEnron2\VEnron2\282	A2:O19
+10_Notification Rpt 1100.xlsx	11/1/2000	testing_set	VEnron2\VEnron2\179	A2:O34
+10_TETCOIMB.xlsx	Jan '01	training_set	VEnron2\VEnron2\165	A2:O35
+1_GATH0204.xlsx	EES	training_set	VEnron2\VEnron2\282	A2:O9
+1_Basis Pipe Options 2001.xlsx	1/1/2001	training_set	VEnron2\VEnron2\1413	A2:P266
+1_Basis Pipe Options 2001.xlsx	2/1/2001	training_set	VEnron2\VEnron2\1413	A2:P312
+1_Power Projects.xlsx	Sheet1	training_set	VEnron2\VEnron2\1390	A2:Q11
+1_SD Volumes.xlsx	Demand	training_set	VEnron2\VEnron2\1179	A2:Q23
+1_md.xlsx	Sheet1	training_set	VEnron2\VEnron2\1302	A2:Q42
+1_7 to 6 dig locations.xlsx	H50479_30A_SERF_LAPA_01	training_set	VEnron2\VEnron2\1574	A2:R21
+1_Price Forecast.xlsx	Newsprint	testing_set	VEnron2\VEnron2\536	A2:R23
+10_rentroll_1006.xlsx	Database	training_set	VEnron2\VEnron2\107	A2:S47
+1_11-30 DPR to use for recoverability with assets.xlsx	support for reclass of ENA	training_set	VEnron2\VEnron2\1297	A2:W24
+1_LV Cogen.xlsx	SharingAgrmt	training_set	VEnron2\VEnron2\1428	A2:W281	Y5:AB30
+1_Group Limit Report.xlsx	Sheet1	training_set	VEnron2\VEnron2\344	A2:X168
+1_2000PowerArb.xlsx	Sheet1	training_set	VEnron2\VEnron2\880	A2:Y22
+10_ONEOKRECAP2001.xlsx	1/1/2002	training_set	VEnron2\VEnron2\52	A2:Y39	AA3:AL35
+10_TETCOIMB.xlsx	Feb '01	training_set	VEnron2\VEnron2\165	A2:Z35
+1_ENA_BirthdayList.xlsx	Sheet1	training_set	VEnron2\VEnron2\1016	A20:F34	A1:F13
+1_1029optsheet.xlsx	sheet 1	training_set	VEnron2\VEnron2\519	A20:G289	B296:E304	B308:E316
+1_April 01.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1548	A20:H28	A4:K14
+1_Metrics 0609.xlsx	Consol	training_set	VEnron2\VEnron2\691	A20:O29	A36:R46	A10:O17
+1_NBPLStat Sum Rate Case Request.xlsx	Sheet1	training_set	VEnron2\VEnron2\1522	A20:X32	A2:X12
+1_LAphonelist.xlsx	Sheet1	training_set	VEnron2\VEnron2\780	A21:C32	A2:C15
+1_Michigan_Flows.xlsx	Basis Detail	training_set	VEnron2\VEnron2\1186	A21:F32	A6:H17
+1_Gas Accounting Budget.xlsx	Sheet1	training_set	VEnron2\VEnron2\833	A21:I33	A5:I19
+1_CES Trades that have not been paid.xlsx	Sheet1	training_set	VEnron2\VEnron2\800	A21:M28	A5:M16
+1_north central purchase detail 2001.xlsx	2/1/2020	training_set	VEnron2\VEnron2\601	A21:N56	A16:E19
+1_north central purchase detail 2001.xlsx	1/1/2020	training_set	VEnron2\VEnron2\601	A21:N56	A16:E19
+1_EPMI AR Totals Nov 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\1489	A215:D418	A5:D211
+1_zhu.xlsx	GenInfo	training_set	VEnron2\VEnron2\1275	A22:B41	A3:B18
+XI-FinRpt-Master__EUSES_financial_processed.xlsx	Summary	training_set	VEUSES\VEUSES\15	A22:C31	A13:C20
+1_Support 2002 Plan Summary.xlsx	Sheet1	training_set	VEnron2\VEnron2\381	A22:I89	A2:I20
+1_EPMI and PGE CAPX and CAISO updates 050901.xlsx	Px - ISO 	training_set	VEnron2\VEnron2\492	A22:K40	A7:K19	F47:J57
+1_Software Fault Listing EW 1.5 annotated.xlsx	Sheet1	training_set	VEnron2\VEnron2\1356	A23:F239	B6:C12
+1_EP2002 Alternative Power Track Follow-up.xlsx	Sheet1	training_set	VEnron2\VEnron2\1462	A23:J45	A3:H10
+1_core_noncore_request_0521.xlsx	Scenario Summary	testing_set	VEnron2\VEnron2\642	A23:M35	A6:M20
+1_OptionsMarketUpdate1012.xlsx	Summary	training_set	VEnron2\VEnron2\328	A23:O40	A5:O20	A42:O56	A58:O63	A65:O66	A68:O69
+1_ClickInTradingProducts.xlsx	UKGas	training_set	VEnron2\VEnron2\489	A25:D57	A9:Q19	A3:Q7
+77001__EUSES_financial_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\67	A25:F41	A6:E23	A43:E47	A54:C56	A58:C63	A49:E52
+1_Val.xlsx	Sheet1	training_set	VEnron2\VEnron2\1487	A25:H33
+1_MPC Withdrawal.xlsx	Curves	training_set	VEnron2\VEnron2\1166	A26:AC46	A7:I24
+1_inside ferc.xlsx	Sheet1	testing_set	VEnron2\VEnron2\295	A26:I162	A20:I24
+1_EP2002 NGI.xlsx	Schedule	training_set	VEnron2\VEnron2\1190	A26:M50
+1_Gallup Modification Exh N.xlsx	INPUT SHEET	training_set	VEnron2\VEnron2\1294	A27:B54	A2:F10
+1_NSS Cashflow.xlsx	Sheet1	training_set	VEnron2\VEnron2\663	A27:H58	A4:K21	M27:S60	U27:AA56	A62:E77
+1_coke financials.xlsx	Other Profile Information	training_set	VEnron2\VEnron2\1582	A28:B107
+10_TXULSP Avail Cap Elec Gen.xlsx	available capacity	training_set	VEnron2\VEnron2\166	A28:C50
+1_Sample LSE's Certification Form 7-26-01.xlsx	Instruction Page	training_set	VEnron2\VEnron2\329	A29:D78
+6313syllabus__EUSES_homework_processed.xlsx	spring2003	training_set	VEUSES\VEUSES\140	A29:I47
+6313syllabus__EUSES_homework_processed.xlsx	spring 2004	training_set	VEUSES\VEUSES\140	A29:I47
+1_Socal  West of Thoreau Oct(1)(1). Info..xlsx	Sheet1	training_set	VEnron2\VEnron2\444	A3:0149
+1_PRCprocess all bu's.xlsx	PRC 01 MEETING DASHBORAD	training_set	VEnron2\VEnron2\488	A3:AA14
+1_West Positions_Report_112001 EES Richter.xlsx	Data	testing_set	VEnron2\VEnron2\1459	A3:AA17	AD3:BB17	CE3:DE17	A21:AA35	A39:AA53	A57:AA71	A75:AA88	A92:AA105	AD21:BB34	BD3:CB17	BD21:CB34	CE21:DE34	CE39:DE52	CE56:DE69
+1_WestTexasCap.xlsx	ROFR Criteria	training_set	VEnron2\VEnron2\359	A3:AA36
+1_West Positions_Report_112001 EES Richter.xlsx	Monthly_Breakout	testing_set	VEnron2\VEnron2\1459	A3:AB29	A32:AB48
+1_var.xlsx	E. VaR & Off-Peak Pos By Trader	training_set	VEnron2\VEnron2\1017	A3:AB87
+1_X Forecast.xlsx	X Forecast	training_set	VEnron2\VEnron2\719	A3:AF29
+10_Pwr west P&L.xlsx	SUM SO2	training_set	VEnron2\VEnron2\1362	A3:AK87
+1_2002 EGF Alloc ETS-Other.xlsx	Sheet2	training_set	VEnron2\VEnron2\922	A3:AQ19
+1_Sent out to Customers.xlsx	Study 2	training_set	VEnron2\VEnron2\1594	A3:AS210
+1_YTD Recon.xlsx	Aug 00	training_set	VEnron2\VEnron2\708	A3:AZ16
+1_modeldutch.xlsx	phone	training_set	VEnron2\VEnron2\978	A3:B13
+wp021902__EUSES_database_bad.xlsx	Lith Canyon Elevation Change	training_set	VEUSES\VEUSES\104	A3:B14
+1_AEC Volumes.xlsx	Sheet1	training_set	VEnron2\VEnron2\1295	A3:B181
+1_eol upgrades.xlsx	Sheet1	training_set	VEnron2\VEnron2\378	A3:B30
+1_5.24.01volumes.xlsx	Sheet1	training_set	VEnron2\VEnron2\1562	A3:B38
+1_AecoCurve_0501_3YR_07-26-00.xlsx	Sheet1	training_set	VEnron2\VEnron2\721	A3:B38
+1_Producer Pricing Detail Nov01.xlsx	Index Pricing	training_set	VEnron2\VEnron2\785	A3:B38
+1_people.xlsx	Sheet1	training_set	VEnron2\VEnron2\387	A3:B77	D3:E34
+1_AnnualStats.xlsx	summary	training_set	VEnron2\VEnron2\1529	A3:BA34
+10_Plts01.xlsx	FEBRUARY	training_set	VEnron2\VEnron2\92	A3:BV42
+10_Plts01.xlsx	JANUARY	training_set	VEnron2\VEnron2\92	A3:BV42
+10_Fixed Price Physical Deals May_2001_FNL.xlsx	Indices	training_set	VEnron2\VEnron2\79	A3:C11
+1_MPAR Teams by Team.01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1480	A3:C119
+1_Charge Matrix (Automatic Chrg Types) - Version 13.0d - 050701 - Draft.xlsx	Revision Log	training_set	VEnron2\VEnron2\936	A3:C122
+1_Financial Settlements Key personnel.xlsx	Sheet1	training_set	VEnron2\VEnron2\408	A3:C16
+1_projected 2002 budget saving.xlsx	Sheet1	testing_set	VEnron2\VEnron2\752	A3:C16
+1_00-07-25-KW Bullet 1.xlsx	Sheet1	training_set	VEnron2\VEnron2\647	A3:C20
+1_NERC Training Schedule.xlsx	Sheet1	training_set	VEnron2\VEnron2\326	A3:C22
+1_relaunchtimetable.xlsx	Sheet1	training_set	VEnron2\VEnron2\392	A3:C38
+financialreport2000__EUSES_financial_processed.xlsx	2000 Group B'S	testing_set	VEUSES\VEUSES\81	A3:C38
+10_2001tran12.xlsx	Sheet1	training_set	VEnron2\VEnron2\153	A3:C58
+10_Log as of 8 dec 00.xlsx	Sum Nov 22 to 28	training_set	VEnron2\VEnron2\121	A3:C9	E4:F8	E18:F22
+1_AccountList.xlsx	Type	training_set	VEnron2\VEnron2\561	A3:C94
+1_AccountList.xlsx	Accounts	training_set	VEnron2\VEnron2\561	A3:C94	E3:G94	I3:K94
+1_ENA-Cal Dec Liq.xlsx	Sheet1	training_set	VEnron2\VEnron2\820	A3:D11
+1_Breakout Contracts.xlsx	Change Orders	training_set	VEnron2\VEnron2\1196	A3:D12
+1_Brownsvilleinvnov.-00.xlsx	Sheet1	training_set	VEnron2\VEnron2\1456	A3:D12
+1_November_1999_SA2_Version_Mapping.xlsx	Version	training_set	VEnron2\VEnron2\238	A3:D16
+1_Weekly Marketing Report 28September01.xlsx	Production User Info	training_set	VEnron2\VEnron2\502	A3:D160	F3:I123
+1_jes_swapcosupportpeople_110501.xlsx	Sheet1	training_set	VEnron2\VEnron2\450	A3:D161
+1_HR Contacts.xlsx	HR Contacts	training_set	VEnron2\VEnron2\547	A3:D24
+1_Financial books.xlsx	Sheet1	training_set	VEnron2\VEnron2\1004	A3:D25
+1_ees examples.xlsx	Sheet1	training_set	VEnron2\VEnron2\383	A3:D30
+1_QSE Client Rep Assignment.xlsx	Sheet1	training_set	VEnron2\VEnron2\958	A3:D30
+1_highUFE.xlsx	Sheet1	training_set	VEnron2\VEnron2\955	A3:D38	H3:K38	O3:R38
+0506calendar__EUSES_grades_processed.xlsx	Sum2006 Official	training_set	VEUSES\VEUSES\8	A3:D48
+1_daily usage values.xlsx	monthly	training_set	VEnron2\VEnron2\267	A3:D52
+1_texas-sharp.xlsx	Sheet1	training_set	VEnron2\VEnron2\572	A3:D56
+1_MarginbyCommodity112001.xlsx	Sheet1	training_set	VEnron2\VEnron2\981	A3:DE23
+1_El paso pipeline marketing.xlsx	Sheet1	testing_set	VEnron2\VEnron2\460	A3:E12	A34:E40	A14:E26	A28:E32
+1_Workshop Choirs.xlsx	Sheet2	training_set	VEnron2\VEnron2\882	A3:E13
+1_price indications june 19.xlsx	Sheet1	training_set	VEnron2\VEnron2\334	A3:E16
+1_Workshop Choirs.xlsx	Sheet1	training_set	VEnron2\VEnron2\882	A3:E19
+1_CREL_TFF_00-01.xlsx	Inventory of Shippers for Deals	testing_set	VEnron2\VEnron2\559	A3:E21
+1_New world.xlsx	Sheet1	training_set	VEnron2\VEnron2\930	A3:E21
+1_Functional Income 2001.xlsx	NNG	testing_set	VEnron2\VEnron2\840	A3:E228
+1_Breakout Contracts.xlsx	Turbine Allocation	training_set	VEnron2\VEnron2\1196	A3:E27
+1_Northeast Historical Pricing(2).xlsx	Spreads	training_set	VEnron2\VEnron2\1072	A3:E27	G3:K24
+1_london_doorstep.xlsx	Sheet1	testing_set	VEnron2\VEnron2\687	A3:E28
+1_Crescendo_roster.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1146	A3:E30
+1_M Cash_Individuals.xlsx	Combined Search Result List	training_set	VEnron2\VEnron2\1365	A3:E33
+1_Enron Post Petition Contact List.xlsx	Sheet1	training_set	VEnron2\VEnron2\487	A3:E50
+1_ECTI and ENA Credit trades 31 Dec 01.xlsx	ECT Inv (part)	training_set	VEnron2\VEnron2\740	A3:E7
+1_Netco_Status.xlsx	Sheet1	training_set	VEnron2\VEnron2\454	A3:E77
+1_SAP WORKORDERS(CC105657).xlsx	PU-CG Mapping	training_set	VEnron2\VEnron2\762	A3:E89
+1_Netco Curves.xlsx	Sheet1	training_set	VEnron2\VEnron2\271	A3:F121	G3:H121
+1_11-13-01 West Gas Positions.xlsx	11-13-01 West BAS	training_set	VEnron2\VEnron2\532	A3:F16	A19:C117
+1_VaR Template.xlsx	Sheet2	testing_set	VEnron2\VEnron2\1019	A3:F16
+1_BigCowbowProd.xlsx	Sheet1	training_set	VEnron2\VEnron2\1568	A3:F19
+030902__EUSES_grades_processed.xlsx	2002	training_set	VEUSES\VEUSES\4	A3:F21
+1_Upstream contracts.xlsx	Discounts	training_set	VEnron2\VEnron2\855	A3:F21
+calendar1__EUSES_homework_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\87	A3:F33
+1_PeoplesSummary.xlsx	PERC	training_set	VEnron2\VEnron2\1047	A3:F75
+1_NG-Price PMA for Oct file.xlsx	Sheet 1	training_set	VEnron2\VEnron2\1572	A3:F8
+NMfgInventory04__EUSES_inventory_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\91	A3:F86
+1_SunDevil01CostSummary.xlsx	EPSunDevil	training_set	VEnron2\VEnron2\1188	A3:G16
+1_Enron.xlsx	Sheet1	training_set	VEnron2\VEnron2\760	A3:G231
+1_enron.xlsx	Sheet1	training_set	VEnron2\VEnron2\65	A3:G231
+1_texas.xlsx	Sheet1	training_set	VEnron2\VEnron2\277	A3:G36	L3:R36
+1_PMA Log Gas Two Rm 0101.xlsx	Sheet1	training_set	VEnron2\VEnron2\999	A3:G37
+1_Devon STX.xlsx	Sheet1	training_set	VEnron2\VEnron2\911	A3:G40
+1_LJM Simulation1.xlsx	Input and Calc	training_set	VEnron2\VEnron2\939	A3:G44	A48:J102	L8:Q17	L20:N23	L31:P40	L44:056	L64:N68	L72:Q84
+1_Trader Matrix.xlsx	Sheet1	training_set	VEnron2\VEnron2\668	A3:G45
+1_global standards contact list.xlsx	Sheet1	training_set	VEnron2\VEnron2\676	A3:G50
+1_KS_OK_curves.xlsx	Sheet1	training_set	VEnron2\VEnron2\524	A3:G71
+1_Budget Worksheet-MEH.xlsx	Sheet1	training_set	VEnron2\VEnron2\491	A3:H13
+1_EA Asset List.xlsx	Sheet1	training_set	VEnron2\VEnron2\404	A3:H15	A18:H25	A35:H54	A57:H58	A28:H32	A67:H71
+1_Pre-bankruptcy Payouts.xlsx	Sheet1	training_set	VEnron2\VEnron2\728	A3:H21
+1_jobsearch.xlsx	headhunters	training_set	VEnron2\VEnron2\1224	A3:H22
+1_NEPOOL DAILY TEMPLATE.xlsx	Sheet1	training_set	VEnron2\VEnron2\338	A3:H34
+1_INDEXES1.xlsx	Sheet1	training_set	VEnron2\VEnron2\1250	A3:H388
+1_PG&E Cash Schedule.xlsx	January	training_set	VEnron2\VEnron2\1513	A3:H41
+1_PG&E Cash Schedule.xlsx	February	training_set	VEnron2\VEnron2\1513	A3:H41
+1_Technical Book 080300.xlsx	Risk	testing_set	VEnron2\VEnron2\1054	A3:H49
+1_Technical Book 080300.xlsx	No Risk	testing_set	VEnron2\VEnron2\1054	A3:H57
+1_Huber - Existing & Proposed Deals 111201.xlsx	Volumes	training_set	VEnron2\VEnron2\458	A3:H64
+1_Scedule C_3 30.xlsx	Daily Roll	training_set	VEnron2\VEnron2\453	A3:H75
+0eedc0e3-82e1-4317-9475-69f8332bba87.xlsx	WheatOutlookTable6	training_set	VFUSE\VFUSE\133	A3:I16
+1_issues summary.xlsx	Sheet1	training_set	VEnron2\VEnron2\348	A3:I21
+1_spread8_7_01.xlsx	Sheet1	training_set	VEnron2\VEnron2\429	A3:I27
+comcal02_03__EUSES_grades_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\50	A3:I41
+1_NCAA Tournament2001.xlsx	Standings	training_set	VEnron2\VEnron2\655	A3:I44
+1_NCAA Tournament2001.xlsx	Original Order	training_set	VEnron2\VEnron2\655	A3:I44
+10_buydefjuly2000.xlsx	Sheet1	training_set	VEnron2\VEnron2\171	A3:I56	A61:J114
+1_STNW PMA 083101.xlsx	STNW	training_set	VEnron2\VEnron2\1602	A3:J11
+1_105633.xlsx	105633	training_set	VEnron2\VEnron2\1578	A3:J12	A15:C32
+1_m010808.xlsx	Sheet1	training_set	VEnron2\VEnron2\335	A3:J13	A18:J28	A33:J43
+1_Keyspanunwind.xlsx	Net APAR	training_set	VEnron2\VEnron2\661	A3:J17	A21:J31
+1_AEC Volumes 021301.xlsx	Sheet1	training_set	VEnron2\VEnron2\507	A3:J364
+1_eEuropeanWEMR 05-23-01.xlsx	Exec Summary	training_set	VEnron2\VEnron2\985	A3:J38
+1_DRIFT_BUDGET_2002_092801_ENA.xlsx	ENA TOTAL	training_set	VEnron2\VEnron2\382	A3:J51
+1_eLondonGlobalWEMR(2)-05-23-01.xlsx	Exec Summary	training_set	VEnron2\VEnron2\986	A3:J8
+1_EOL_Product_Listen.xlsx	cash	training_set	VEnron2\VEnron2\934	A3:K11
+1_m010508.xlsx	PGE	testing_set	VEnron2\VEnron2\1434	A3:K126	D130:K139
+1_Mexicanaeconomics.xlsx	Sheet1	training_set	VEnron2\VEnron2\1018	A3:K13
+1_Fantasy Roster.xlsx	Sheet1	training_set	VEnron2\VEnron2\589	A3:K18
+1_Sun Devil Marketing Prospects.xlsx	Sheet1	training_set	VEnron2\VEnron2\1463	A3:K43
+10_Physical Fixed Price Report_112701.xlsx	11_27_01	training_set	VEnron2\VEnron2\89	A3:K94
+1_Aquila Assignment 121599.xlsx	Transaction Summary Report -3	testing_set	VEnron2\VEnron2\1442	A3:L110
+1_Aquila Assignment 121599.xlsx	Transaction Summary Report -2	testing_set	VEnron2\VEnron2\1442	A3:L110
+1_Mirant - Deals Not in Tagg Query1.xlsx	Deals Not in Tagg Query	training_set	VEnron2\VEnron2\718	A3:L13
+1_10032001PilotStatus.xlsx	10/3/2020	training_set	VEnron2\VEnron2\1592	A3:L16
+1_Peoples.xlsx	Basis	training_set	VEnron2\VEnron2\1052	A3:L194
+1_NUI P_B_I.xlsx	basis	training_set	VEnron2\VEnron2\662	A3:L216
+1_PPAVAL1116.xlsx	Sheet1	training_set	VEnron2\VEnron2\1247	A3:L23
+1_Peoples.xlsx	Price	training_set	VEnron2\VEnron2\1052	A3:L312
+1_MIRANT - Nov 30 2001 Termination.xlsx	PHYS DEALS	training_set	VEnron2\VEnron2\702	A3:L32
+1_Enron True-Upcorrect.xlsx	Sheet1	training_set	VEnron2\VEnron2\952	A3:L58
+1_Gas DA Load.xlsx	Sheet1	training_set	VEnron2\VEnron2\525	A3:M16
+1_FERC1stQtr2001.xlsx	FERC	training_set	VEnron2\VEnron2\954	A3:M18
+1_BobCotten052401.xlsx	ZoneBreakout	training_set	VEnron2\VEnron2\894	A3:M32	A35:G64
+10_Consolidated_2000.xlsx	ZoneBreakout	training_set	VEnron2\VEnron2\130	A3:M64
+wp021902__EUSES_database_bad.xlsx	Waypoint Database	training_set	VEUSES\VEUSES\104	A3:M82
+1_timbdcfquestion2financing.xlsx	Income Statement	training_set	VEnron2\VEnron2\1408	A3:N25
+1_loaddata_June&July_2001.xlsx	7/1/2020	training_set	VEnron2\VEnron2\1165	A3:N42
+1_Third Qtr Compare 00 - 01 Aug31 EM.xlsx	Aug31 3rd Qtr 	training_set	VEnron2\VEnron2\386	A3:O20
+1_1200ind.xlsx	1100	training_set	VEnron2\VEnron2\266	A3:O39
+1_Dec. - BPA final dispute.xlsx	Remaining dispute	training_set	VEnron2\VEnron2\1400	A3:O9
+1_CES Deal Register Citygate Jan 1 2000.xlsx	Sheet1	training_set	VEnron2\VEnron2\866	A3:P46
+1_Dec. - BPA final dispute.xlsx	Original dispute	training_set	VEnron2\VEnron2\1400	A3:P67	A70:E73
+1_Master Turbine Listing.xlsx	Turbine Inventory	testing_set	VEnron2\VEnron2\1049	A3:Q33
+1_CREL_TFF_00-01.xlsx	Releases by Acquirer	testing_set	VEnron2\VEnron2\559	A3:Q35
+1_Reliant.xlsx	Sheet1	training_set	VEnron2\VEnron2\566	A3:Q38	M45:O48
+1_EMNNG01CE.xlsx	Sales&Liq-COS	training_set	VEnron2\VEnron2\829	A3:Q45
+1_2000 Calp_daily 2000.xlsx	1/1/2000	training_set	VEnron2\VEnron2\803	A3:R40	Q42:R56
+1_Transport-Storage Review 12-171.xlsx	Wholesale East TPort	testing_set	VEnron2\VEnron2\509	A3:R50
+1_Transport-Storage Review 12-171.xlsx	Wholesale West TPort	testing_set	VEnron2\VEnron2\509	A3:R76
+10_2001new02.xlsx	3rd Party Deals	training_set	VEnron2\VEnron2\140	A3:S33
+1_Foward Curves.xlsx	Basis	testing_set	VEnron2\VEnron2\843	A3:S47
+1_WGI-LNG  Prices - Update.xlsx	Price Table	training_set	VEnron2\VEnron2\1347	A3:S78
+CAP-IT03__EUSES_database_processed.xlsx	GFCF	training_set	VEUSES\VEUSES\143	A3:T31
+1_SYN0004.xlsx	Sheet1	training_set	VEnron2\VEnron2\571	A3:T49
+1_Power DB Field Requirements.xlsx	Field Requirements	training_set	VEnron2\VEnron2\950	A3:T77
+1_EOLdeals.xlsx	EOLMar01	training_set	VEnron2\VEnron2\549	A3:U18
+1_P&LSum.xlsx	Summary	training_set	VEnron2\VEnron2\289	A3:U39
+10_Stcpr070.xlsx	Sheet1	training_set	VEnron2\VEnron2\133	A3:U86
+1_OTC Margin Anal.xlsx	Sheet1	training_set	VEnron2\VEnron2\448	A3:W156
+1_YTD Recon.xlsx	Sep 00	training_set	VEnron2\VEnron2\708	A3:W16
+1_Sent out to Customers.xlsx	Summary	training_set	VEnron2\VEnron2\1594	A3:W321
+1_future spreads03-06-01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1420	A3:X6	A7:X10	A11:X17	A18:X24
+10_BMSPT041.xlsx	BMSPT066	training_set	VEnron2\VEnron2\162	A3:Y47
+1_wire summary 122001.xlsx	Sheet1	training_set	VEnron2\VEnron2\769	A3:Y53	B58:F61
+10_market briefs.xlsx	Sheet1	training_set	VEnron2\VEnron2\84	A30:D39	A21:D28	A13:D19	A2:D6	A8:D11
+behavioral_social_enviro__EUSES_grades_processed.xlsx	Behavioral and Social Environme	training_set	VEUSES\VEUSES\23	A30:F55	A60:F89	A3:F24	A93:F102
+1_Metropolitan sales sheet.xlsx	Sheet1	training_set	VEnron2\VEnron2\1351	A30:G33	A12:C27	F20:H26	F11:H17
+1_EGA fcst.xlsx	8/1/2020	training_set	VEnron2\VEnron2\1488	A30:O37	A6:M21
+1_DailyPrices.xlsx	Price Sheet	training_set	VEnron2\VEnron2\102	A31:N56	A2:M28	A59:M84	A92:L117	A120:J145
+1_Western Pulp.xlsx	W. Pulp	training_set	VEnron2\VEnron2\538	A33:M48	A4:M24
+1_D. Robinson.xlsx	Western Pulp	training_set	VEnron2\VEnron2\537	A34:N46	A20:N32	A4:N18
+1_Scedule C_3 30.xlsx	By Trader	training_set	VEnron2\VEnron2\453	A34:O42	A22:O32	A3:O15	A17:O20
+1_Northeast Historical Pricing(2).xlsx	Northeast Pricing	training_set	VEnron2\VEnron2\1072	A35:K60	A2:K27
+1_Value_Feb_2_24_00.xlsx	Brownsville	training_set	VEnron2\VEnron2\1246	A35:Y42	A5:C30
+1_Value_Feb_2_24_00.xlsx	Caledonia	training_set	VEnron2\VEnron2\1246	A35:Y42	A5:C30
+1_Metrics 0609.xlsx	East	training_set	VEnron2\VEnron2\691	A36:S46	A9:O17	A19:O29
+1_CorpCharge_Model_Hyp_Actual.xlsx	Total	training_set	VEnron2\VEnron2\824	A37:AC58	A6:AA35
+1e168697-ce6f-4eb2-a12e-405cf4db91f7.xlsx	Sheet1	training_set	VFUSE\VFUSE\111	A37:C50	A1:C35	A52:C55
+037c053e-c0e9-4ba0-9d41-0ccdd2949e7c.xlsx	Sheet1	training_set	VFUSE\VFUSE\127	A37:C56	A1:C35	A58:C61
+1_Event Sheet UT spring info session.xlsx	Sheet1	training_set	VEnron2\VEnron2\1483	A37:D47
+0c38a98b-3c15-4669-8359-47f31b56ecb1.xlsx	Sheet1	training_set	VFUSE\VFUSE\137	A38:C51	A1:C36	A53:C57
+00b4ddf0-f865-4f0a-a08e-38c67ab4cdda.xlsx	Sheet1	training_set	VFUSE\VFUSE\108	A38:C57	A1:C36	A59:C63
+01fbab63-e3ac-46b7-bbdf-5e4ceb543279.xlsx	Sheet1	training_set	VFUSE\VFUSE\12	A38:C57	A1:C36	A59:C63
+1d289819-7864-44b4-8ecb-4f6c1ceece28.xlsx	Sheet1	training_set	VFUSE\VFUSE\121	A38:C57	A1:C36	A59:C63
+235466a1-5ab5-4e38-ac86-dae6254345f5.xlsx	Sheet1	training_set	VFUSE\VFUSE\109	A38:C57	A1:C36	A59:C63
+1_phys procedures.xlsx	Timeline	training_set	VEnron2\VEnron2\1441	A38:H45	A10:H17	A24:H31	A52:H59
+1_Assumption in excel.xlsx	Rev Assump 2002 w Stretch	training_set	VEnron2\VEnron2\361	A38:H55	A3:J18	A57:M63	A74:K112	A115:E121	A23:C27
+10_10262001WestPosition.xlsx	West Peak and Off Peak	training_set	VEnron2\VEnron2\30	A38:R46	A25:S33	A7:R15	A17:R20
+07a64eff-2cca-464f-9f9f-83f70075cdf5.xlsx	Sheet1	training_set	VFUSE\VFUSE\142	A39:C52	A1:C37	A54:C58
+0a2f2c35-86a0-4a51-846a-f759232dfc19.xlsx	Sheet1	training_set	VFUSE\VFUSE\139	A39:C52	A1:C37	A54:C58
+11e86e5c-57ba-4efa-a310-464a186982dd.xlsx	Sheet1	training_set	VFUSE\VFUSE\1	A39:C52	A1:C37	A54:C58
+181c33a1-5ef9-43f3-8fa2-fb6599a49527.xlsx	Sheet1	training_set	VFUSE\VFUSE\107	A39:C52	A1:C37	A54:C58
+331df5e7-e90e-475a-b20c-42c760b0c337.xlsx	Sheet1	training_set	VFUSE\VFUSE\130	A39:C52	A1:C37	A54:C58
+1_NP15 DJ Charts.xlsx	AVG WE	training_set	VEnron2\VEnron2\1444	A39:N53	A6:N31	P7:R19
+1_NP15 DJ Charts.xlsx	AVG WD	training_set	VEnron2\VEnron2\1444	A39:N53	A6:N31	P7:R19
+1_NG_9_Neal.xlsx	YTD_NG	training_set	VEnron2\VEnron2\1500	A4:AC32
+1_Transport Master List for                     Enron.xlsx	C and I	training_set	VEnron2\VEnron2\807	A4:AC456
+1_US Gas Stack  Website for New Version 121401.xlsx	Stack Manager - US Gas	training_set	VEnron2\VEnron2\620	A4:AE55
+1_US Gas Stack  Website for New Version 121401.xlsx	Website Access - US Gas	training_set	VEnron2\VEnron2\620	A4:AF91
+1_11-30 DPR to use for recoverability with assets.xlsx	overview	training_set	VEnron2\VEnron2\1297	A4:AG122
+1_NP Daily Marks.xlsx	Breakdown	training_set	VEnron2\VEnron2\251	A4:AH21
+Tab407__EUSES_homework_processed.xlsx	TAB407	testing_set	VEUSES\VEUSES\44	A4:AJ64
+2002Qvols__EUSES_grades_processed.xlsx	Sheet2	training_set	VEUSES\VEUSES\36	A4:AL133
+1_Chile Data.xlsx	Capacity	training_set	VEnron2\VEnron2\535	A4:AL32	B39:E47
+1_CashPlan_11.xlsx	TOTAL_DIP	testing_set	VEnron2\VEnron2\445	A4:AM60
+1_CashPlan_11.xlsx	TOTAL_Companies	testing_set	VEnron2\VEnron2\445	A4:AM60
+1_positionsummary.xlsx	Stdev Table	testing_set	VEnron2\VEnron2\1234	A4:AO114
+1_Corp_2002_Alloc.xlsx	By Group	testing_set	VEnron2\VEnron2\228	A4:AP213
+1_Cashflow Forecast 12-18r.xlsx	Format	training_set	VEnron2\VEnron2\1496	A4:AP55
+1_Cashflow Forecast 12-18r.xlsx	O&M_Detail	training_set	VEnron2\VEnron2\1496	A4:AP70
+1_Bidding Summary.xlsx	LV Cogen	testing_set	VEnron2\VEnron2\1457	A4:B15
+1_Financial Power Terminated.xlsx	Sheet1	training_set	VEnron2\VEnron2\247	A4:B25
+1_On Call Schedule.xlsx	Sheet1	training_set	VEnron2\VEnron2\555	A4:B60
+1_London.xlsx	Sheet1	training_set	VEnron2\VEnron2\533	A4:BB17
+1_InventoryNapoleonville00.xlsx	InvBalance	training_set	VEnron2\VEnron2\1393	A4:C18
+1_DPR and Recon.xlsx	Recon	testing_set	VEnron2\VEnron2\731	A4:C20
+1_UBS curves.xlsx	By Curve Code	training_set	VEnron2\VEnron2\732	A4:C21
+1_SpendingSpree.xlsx	Sheet1	training_set	VEnron2\VEnron2\1040	A4:C242
+1_topimbalances_oct2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\432	A4:C29
+1_P&SAug3PPANB.xlsx	Sheet1	training_set	VEnron2\VEnron2\1598	A4:C31
+1_Closing 060101 mkt sum.xlsx	Feb Debtor	training_set	VEnron2\VEnron2\666	A4:C33
+1_gas settlements key personnel.xlsx	Sheet1	training_set	VEnron2\VEnron2\410	A4:C37
+1_Price_quotes.xlsx	4/9/2020	training_set	VEnron2\VEnron2\1211	A4:C41
+10_Sched_C Form.xlsx	Schedule C	training_set	VEnron2\VEnron2\104	A4:C41
+1_HPLstaff.xlsx	Sheet1	training_set	VEnron2\VEnron2\693	A4:C48	D4:G23
+1_Credit Ratings.xlsx	Sheet1	training_set	VEnron2\VEnron2\461	A4:D11	A17:B32
+1_consumptions-Sheraton Eau Claire.xlsx	Sheet1	training_set	VEnron2\VEnron2\1260	A4:D17
+FinalReportTables__EUSES_financial_processed.xlsx	Table G.1	testing_set	VEUSES\VEUSES\141	A4:D21
+1_Business Status.xlsx	Sheet1	training_set	VEnron2\VEnron2\1198	A4:D32
+1_Can PWR Stack  Website for New Version 122001.xlsx	CAN PWR - Stack	training_set	VEnron2\VEnron2\1471	A4:D6
+1_Montfort Trb2Feb02.xlsx	Sheet2	testing_set	VEnron2\VEnron2\467	A4:D68
+1_Haney Prospects -- 5-01.xlsx	Financial Institutions	training_set	VEnron2\VEnron2\1554	A4:D75
+1_Commercial Headcount for NEWCO.xlsx	Power-East	training_set	VEnron2\VEnron2\412	A4:D93
+1_PLAN_FORECAST_DESIGN_MASTER.xlsx	Demand Detail	training_set	VEnron2\VEnron2\1405	A4:DS169
+0abfd0b1-3d46-49f5-b709-e954f3b7243b.xlsx	Technical Data	training_set	VFUSE\VFUSE\132	A4:E104
+1_Infrastructure Trading and Transition List.xlsx	Sheet1	training_set	VEnron2\VEnron2\1426	A4:E124
+10_LoganMaySurvey.xlsx	Hours	training_set	VEnron2\VEnron2\892	A4:E16
+1_revised East Power Book List for UBS.xlsx	to GCP	training_set	VEnron2\VEnron2\733	A4:E24	A27:E34
+1_Proposed Rate Shedule 10-01-01.xlsx	RateSchd	training_set	VEnron2\VEnron2\1550	A4:E26	A29:E47
+10_EESSales_1_31_01.xl.xlsx	Fri-Sat	training_set	VEnron2\VEnron2\213	A4:E29	G4:K29	M4:Q29
+1_Trans Rate Table2.xlsx	MW Info	training_set	VEnron2\VEnron2\1059	A4:E32
+1_Haney Prospects -- 5-01.xlsx	Metals & Mining	training_set	VEnron2\VEnron2\1554	A4:E39
+10_egmnom-Feb.xlsx	DELV SUMMARY	training_set	VEnron2\VEnron2\175	A4:E40
+1_Commdealteam.xlsx	Contact Sheet	training_set	VEnron2\VEnron2\754	A4:E51
+1_Can PWR Stack  Website for New Version 122001.xlsx	Can PWR - Website	training_set	VEnron2\VEnron2\1471	A4:E6
+1_FebActivityDriverSurvey.xlsx	Data	training_set	VEnron2\VEnron2\891	A4:E60
+1_PLAN_FORECAST_DESIGN_MASTER.xlsx	Demand - Summ	training_set	VEnron2\VEnron2\1405	A4:ES26
+1_PG&E Data.xlsx	Transport & Supply Agmts	training_set	VEnron2\VEnron2\1586	A4:F18
+1_NEPCO Projects.xlsx	Sheet1	training_set	VEnron2\VEnron2\1388	A4:F20
+10_05_09_01ON.xlsx	Sheet1	training_set	VEnron2\VEnron2\195	A4:F21
+10_EESSales_dailyfeb.xlsx	2/1/2020	training_set	VEnron2\VEnron2\59	A4:F29	H4:M29	O4:T29
+10_EESSales_dailyfeb.xlsx	2/2/2020	training_set	VEnron2\VEnron2\59	A4:F29	H4:M29	O4:T29
+1_EP-Socal GD PricesII.xlsx	Sheet1	training_set	VEnron2\VEnron2\1217	A4:F305
+1_Book List.xlsx	Sheet1	training_set	VEnron2\VEnron2\689	A4:F35
+1_Energy Ops - PRC Meetings.xlsx	Sheet1	training_set	VEnron2\VEnron2\771	A4:F48
+labrates050104__EUSES_modeling_processed.xlsx	Page 2	training_set	VEUSES\VEUSES\28	A4:F51	H4:M37
+1_Rpt PMA Log Gas One RM.xlsx	Sheet1	training_set	VEnron2\VEnron2\659	A4:F84
+1_PG&E Data.xlsx	Revenue Requirements	training_set	VEnron2\VEnron2\1586	A4:F9
+1_0620 Projected Effect on US Books.xlsx	Sheet1	training_set	VEnron2\VEnron2\1005	A4:FV25
+1_HR Risk Mgt. contact list2.xlsx	OLERPhoneList	training_set	VEnron2\VEnron2\546	A4:G22
+02_03cor__EUSES_modeling_processed.xlsx	 Middle School Courses	training_set	VEUSES\VEUSES\156	A4:G260
+1_RedRockSumm.xlsx	Oneok at 2500	testing_set	VEnron2\VEnron2\351	A4:G28
+1_RedRockSumm.xlsx	Oneok at 1700	testing_set	VEnron2\VEnron2\351	A4:G28
+1_margas1.xlsx	Sheet1	training_set	VEnron2\VEnron2\13	A4:G35
+1_Values 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\717	A4:G37
+1_Week 2.xlsx	Sheet1	training_set	VEnron2\VEnron2\1006	A4:G40
+1_OPTIEXPI(ShortndSchdl).xlsx	Sheet1	training_set	VEnron2\VEnron2\739	A4:G42
+1_status of form a.xlsx	Sheet1	training_set	VEnron2\VEnron2\1195	A4:G56
+1_2001 Audit Issues Resolution Database-E Sager.xlsx	Sheet1	training_set	VEnron2\VEnron2\1378	A4:G6
+1_ENA bankruptcy early term log.xlsx	Margin Letters	training_set	VEnron2\VEnron2\1287	A4:G82
+1_ENA bankruptcy early term log.xlsx	Letter Log	training_set	VEnron2\VEnron2\1287	A4:G87
+1_plcontract.xlsx	Sheet1	training_set	VEnron2\VEnron2\899	A4:H10
+1_LOG feb 02.xlsx	WTG Down	training_set	VEnron2\VEnron2\469	A4:H108
+1_Simulation Teams.xlsx	Sheet1	training_set	VEnron2\VEnron2\1177	A4:H14
+1_book summary.xlsx	book structure	training_set	VEnron2\VEnron2\1309	A4:H16	A21:H25
+1_Viva Chile!.xlsx	Paper	testing_set	VEnron2\VEnron2\610	A4:H21
+1_JFGreconcilliationofAEPdata.xlsx	Sheet1	training_set	VEnron2\VEnron2\457	A4:H22
+1_2002 SJ Outages.xlsx	April - May	training_set	VEnron2\VEnron2\905	A4:H34
+1_2002 SJ Outages.xlsx	June - July	training_set	VEnron2\VEnron2\905	A4:H34
+10_EPE_APRIL_2001.xlsx	APRIL (19)	training_set	VEnron2\VEnron2\22	A4:H41
+1_West Total Orig Income Stmt.xlsx	Income Statement	testing_set	VEnron2\VEnron2\784	A4:H45	A47:F50
+1_2Q Counterparty & Origination Detail.xlsx	Counterparty	training_set	VEnron2\VEnron2\427	A4:H69
+1_Integration Testing DASHBOARD.xlsx	Dashboard	training_set	VEnron2\VEnron2\1011	A4:H9	A15:H19
+10_Active_Inactive Booklist_1024.xlsx	Sheet1	training_set	VEnron2\VEnron2\123	A4:H91
+1_Feb Basis.xlsx	Sheet1	training_set	VEnron2\VEnron2\553	A4:I10
+1_NOV00.xlsx	Table1	training_set	VEnron2\VEnron2\1431	A4:I30
+1_shipsummary.xlsx	Sheet4	training_set	VEnron2\VEnron2\438	A4:I34
+1_Agro Case Question 3--Jeff.xlsx	Sheet1	training_set	VEnron2\VEnron2\1584	A4:I38
+1_methanol plant allowances DERCs ERCs.xlsx	Summary	training_set	VEnron2\VEnron2\513	A4:J20
+1_Ice Dri1.xlsx	Summary	training_set	VEnron2\VEnron2\1333	A4:J23
+IPTC-SRSsubmission__EUSES_database_processed.xlsx	submission	training_set	VEUSES\VEUSES\5	A4:J24
+1_TRV_Stats.xlsx	Sheet1	training_set	VEnron2\VEnron2\1254	A4:J48
+1_overview of doorstep status for execs - canada.xlsx	Sheet1	training_set	VEnron2\VEnron2\675	A4:J5	A15:B20
+10_EOL 10-18-01.xlsx	Clickpaper Approvals	training_set	VEnron2\VEnron2\62	A4:J6
+1_DPR and Recon.xlsx	DPR	testing_set	VEnron2\VEnron2\731	A4:J60
+1_proposed Enron transaction 7-2-01.xlsx	Summary	training_set	VEnron2\VEnron2\1189	A4:K10	A12:K15
+1_Turbine Availability sheet.xlsx	2000 Turbines	training_set	VEnron2\VEnron2\1227	A4:K10
+1_storage 9912&0001.xlsx	1	training_set	VEnron2\VEnron2\590	A4:K11
+1_ATE5.01.xlsx	Sheet1	training_set	VEnron2\VEnron2\632	A4:K171
+1_Buybacklist.xlsx	Dec99	training_set	VEnron2\VEnron2\909	A4:K30
+1_Buybacklist.xlsx	Jan99	training_set	VEnron2\VEnron2\909	A4:K33
+1_08-00-A-T-E Report-Assets.xlsx	Sheet1	training_set	VEnron2\VEnron2\312	A4:K34
+1_VNG Pipeline Setup-Oct-00.xlsx	10/10/2020	training_set	VEnron2\VEnron2\859	A4:K60	B64:F71
+1_2000Planallocations1.xlsx	Sheet1	training_set	VEnron2\VEnron2\1560	A4:L14
+1_04.17.01volumes_Jul01-Aug03.xlsx	Sheet1	training_set	VEnron2\VEnron2\984	A4:L31
+1_California Exposure 010117a.xlsx	Edison Int'l 	testing_set	VEnron2\VEnron2\1053	A4:L33
+10_Transco_Doyle_confirms_Apr_2001.xlsx	external	training_set	VEnron2\VEnron2\168	A4:L39
+1_PG&E Samples.xlsx	PG&E Page 2	training_set	VEnron2\VEnron2\330	A4:L48
+1_PG&E Samples.xlsx	PG&E Page 1	training_set	VEnron2\VEnron2\330	A4:L52
+1_Gas Avails Restricted flows - Sept 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\787	A4:L54
+1_Montfort Trb2Feb02.xlsx	2/1/2002	testing_set	VEnron2\VEnron2\467	A4:L67
+10_PGEsample071101.xlsx	PG&E Samples	training_set	VEnron2\VEnron2\237	A4:L80
+1_NUI P_B_I.xlsx	index	training_set	VEnron2\VEnron2\662	A4:L9
+1_storage 9912&0001.xlsx	9912	training_set	VEnron2\VEnron2\590	A4:M11
+1_San Juan supply.xlsx	Supply	testing_set	VEnron2\VEnron2\1181	A4:M15
+10_Weekly Deal Report 6-27-01 A.xlsx	Hot List	training_set	VEnron2\VEnron2\36	A4:M195
+1_NOV00.xlsx	table2	training_set	VEnron2\VEnron2\1431	A4:M30
+1_MARGAS.xlsx	Sheet1	training_set	VEnron2\VEnron2\10	A4:M35
+1_proposed Enron transaction 7-2-01.xlsx	Cinergy	training_set	VEnron2\VEnron2\1189	A4:M38
+1_Comps_DCF.xlsx	Comps	training_set	VEnron2\VEnron2\1067	A4:M40
+1_Griffith901.xlsx	DETM-OBA	testing_set	VEnron2\VEnron2\190	A4:M40
+1_Revised ENW Invoice.xlsx	Total EES Look	training_set	VEnron2\VEnron2\750	A4:M52
+1_California Exposure 010117a.xlsx	PG&E Corp. 	testing_set	VEnron2\VEnron2\1053	A4:M54
+10_EOL 10-18-01.xlsx	EOL Approvals	training_set	VEnron2\VEnron2\62	A4:N13
+1_Austin to Homestead EPC comparison 05012000.xlsx	Homestead	training_set	VEnron2\VEnron2\1430	A4:N136
+1_Enron-PwrPrjctTaskList.xlsx	10052001	testing_set	VEnron2\VEnron2\953	A4:N20
+1_EOL Customers.xlsx	US GAS Rankings	training_set	VEnron2\VEnron2\745	A4:N233
+10_HedgeSummary.xlsx	Sheet1	training_set	VEnron2\VEnron2\217	A4:N26
+1_San Juan supply.xlsx	Plants	testing_set	VEnron2\VEnron2\1181	A4:N36
+1_FundTrades.xlsx	Tudor-Jim	training_set	VEnron2\VEnron2\1243	A4:O104
+1_East Power Summary(1).xlsx	Sheet1	training_set	VEnron2\VEnron2\994	A4:O76
+1_enwfloors.xlsx	Sheet1	training_set	VEnron2\VEnron2\757	A4:O80
+10_E2 Investor List.xlsx	Moore	training_set	VEnron2\VEnron2\220	A4:O92
+vehicle_emissions_v2__EUSES_database_processed.xlsx	NOx	training_set	VEUSES\VEUSES\63	A4:P141
+1_Week 1 Results.xlsx	Sheet1	training_set	VEnron2\VEnron2\261	A4:P32
+1_Forward Gas Electric Prices as of 051001.xlsx	ElectricFP0509	training_set	VEnron2\VEnron2\639	A4:P60
+1_Pulp Producers.xlsx	Japan	training_set	VEnron2\VEnron2\531	A4:Q40
+10_Delta by Account 1210.xlsx	Sheet1	training_set	VEnron2\VEnron2\206	A4:R78
+1_NNG FIS 0801_WD9.xlsx	Sheet2	training_set	VEnron2\VEnron2\1523	A4:U45
+10_rentroll_1006.xlsx	weekly	training_set	VEnron2\VEnron2\107	A4:U61
+1_NNG FIS 0801_WD9.xlsx	Sheet1	training_set	VEnron2\VEnron2\1523	A4:U76
+cmwrfinance__EUSES_financial_processed.xlsx	Back	training_set	VEUSES\VEUSES\163	A4:V26
+FinalReportTables__EUSES_financial_processed.xlsx	Table G.2	testing_set	VEUSES\VEUSES\141	A4:V26
+10_Aga4-7.xlsx	AGA Storage	training_set	VEnron2\VEnron2\80	A4:V457
+10_DPR 1026.xlsx	SC Total Power	training_set	VEnron2\VEnron2\26	A4:W371
+1_Can Gas Stack  Website for New Version 121901.xlsx	CAN Gas - Stack	testing_set	VEnron2\VEnron2\1470	A4:X13
+1_switchOpt.xlsx	SwitchOption	training_set	VEnron2\VEnron2\1342	A4:X92
+1_Can Gas Stack  Website for New Version 121901.xlsx	Can Gas - Website	testing_set	VEnron2\VEnron2\1470	A4:Y13
+10_HL&PMTD.xlsx	Dec 99	training_set	VEnron2\VEnron2\176	A4:Y39
+10_s_9-9-01.xlsx	Sheet1	training_set	VEnron2\VEnron2\333	A4:Z22	A26:H38
+10_HL&PMTD.xlsx	Feb 00	training_set	VEnron2\VEnron2\176	A4:Z41
+1_Abitibi.xlsx	Mills	training_set	VEnron2\VEnron2\611	A4:Z71
+1_Rate Comparison Table 5.10.01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1585	A40:J53	A5:J25
+1_redrockcomparison.xlsx	Sheet2	training_set	VEnron2\VEnron2\1340	A41:Q45	A2:B5	B25:C39
+1_EnronDataRequest.xlsx	LoadProfile	training_set	VEnron2\VEnron2\1212	A42:N76	A4:N38	A81:D114
+1_Wellesley_091200.xlsx	Sheet1	training_set	VEnron2\VEnron2\695	A43:E82	A89:E109	A22:E24
+10_200004strg.xlsx	Strg Rules	training_set	VEnron2\VEnron2\152	A44:G50	A23:H25	A7:E13	A56:D59	A34:F39
+1_Trigger event.xlsx	HCC Looper	training_set	VEnron2\VEnron2\926	A45:AE69	A12:F43	G12:I43	J12:L43
+assetmanagement__EUSES_inventory_processed.xlsx	PART Qs & Section Scoring	training_set	VEUSES\VEUSES\144	A45:G75	A29:G42	A15:G26	A5:G12
+1_Fixed2.xlsx	Summary	training_set	VEnron2\VEnron2\320	A49:Q63	A7:Q43
+1_July-01.xlsx	Volumes	training_set	VEnron2\VEnron2\1561	A5:AA40
+1_Griffith901.xlsx	Allocation	testing_set	VEnron2\VEnron2\190	A5:AB40
+1_Phillip e-mail.xlsx	Report	training_set	VEnron2\VEnron2\290	A5:AG128
+1_Proposed New Shift Schedule for 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\957	A5:AG30
+1_SCHED2001.xlsx	1/1/2020	testing_set	VEnron2\VEnron2\319	A5:AG37
+10_EOTT PL Tks 6-27.xlsx	EOTT TX-NM Facilities	training_set	VEnron2\VEnron2\240	A5:AN125
+1_Energy Ops 98-01 headcount.xlsx	Headcount by Month	training_set	VEnron2\VEnron2\768	A5:AQ114
+1_twfuelanal.xlsx	Fuel Use	training_set	VEnron2\VEnron2\834	A5:AZ27
+1_mojaveoba.xlsx	Sheet1	training_set	VEnron2\VEnron2\557	A5:B114
+1_Kennedy Gas Daily Pricing.xlsx	Sheet1	training_set	VEnron2\VEnron2\786	A5:B37
+10_EES CASH BURN(1).xlsx	Sheet1	training_set	VEnron2\VEnron2\224	A5:BK66
+1_EA Allocations to Other BUs-9.19.01.xlsx	2001 Forecast	testing_set	VEnron2\VEnron2\846	A5:BW33
+1_Contact List.xlsx	Sheet1	training_set	VEnron2\VEnron2\1478	A5:C153
+1_EEOS IBIT revision.xlsx	Sheet1	training_set	VEnron2\VEnron2\830	A5:C28
+stz_083103_financials__EUSES_inventory_processed.xlsx	Balance Sheet	training_set	VEUSES\VEUSES\16	A5:C31
+gb00fde__EUSES_financial_processed.xlsx	2) Fin. Statements	training_set	VEUSES\VEUSES\92	A5:C38	A42:C91	A95:C128	A132:C179
+Level_of_Business_Inventory__EUSES_inventory_processed.xlsx	HTML	training_set	VEUSES\VEUSES\150	A5:C7
+10_Citation.xlsx	10/1/2020	testing_set	VEnron2\VEnron2\164	A5:CT31	A115:CT146	A34:CT113	A149:CT162
+1_11_7__01 prices.xlsx	Sheet1	testing_set	VEnron2\VEnron2\233	A5:D11
+1_Raptor Asset List 0913.xlsx	Asset List	training_set	VEnron2\VEnron2\1424	A5:D52	F5:I22
+1_mojaveimb.xlsx	Sheet1	training_set	VEnron2\VEnron2\560	A5:E116
+1_timeline.xlsx	Sheet1	training_set	VEnron2\VEnron2\626	A5:E15
+1_Info Request_Jan 11_02.xlsx	Request List	training_set	VEnron2\VEnron2\1255	A5:E18
+1_AugQTD Orig w notes.xlsx	summary by team	training_set	VEnron2\VEnron2\1436	A5:E21
+10_enequotes.xlsx	Sheet1	training_set	VEnron2\VEnron2\115	A5:E26
+10_Quotes1204.xlsx	Sheet1	training_set	VEnron2\VEnron2\72	A5:E26
+1_Preliminary Costs - Sun Devil.xlsx	Sheet1	training_set	VEnron2\VEnron2\1401	A5:E33
+1_2000 Weekly Report - 0912.xlsx	NA Mquip	testing_set	VEnron2\VEnron2\291	A5:E41
+1_RAC Rankings Y.E. 2000.xlsx	Jr. Personnel	training_set	VEnron2\VEnron2\723	A5:E41
+1_key indiv.xlsx	Sheet1	training_set	VEnron2\VEnron2\753	A5:E47
+1_newco gas pipeline contracts.xlsx	West	training_set	VEnron2\VEnron2\396	A5:E54
+10_aaaCredit Report.xlsx	Sheet1	training_set	VEnron2\VEnron2\100	A5:E9	A12:E22
+1_desk matrix.xlsx	Sheet1	training_set	VEnron2\VEnron2\672	A5:F14
+1_BBC Jan2000 NYSEG.xlsx	Sheet1	training_set	VEnron2\VEnron2\275	A5:F24
+1_Timewar_Jeff Calculations.xlsx	Income Statement Growth	training_set	VEnron2\VEnron2\1162	A5:F50	A123:K169	A58:L115	A177:K217
+1_beckyandmelinda.xlsx	Assumptions	training_set	VEnron2\VEnron2\1414	A5:F58
+stocks_20030725__EUSES_grades_processed.xlsx	STOCKS2	training_set	VEUSES\VEUSES\78	A5:G10
+1_working capital.xlsx	Sched I - Cannon & TC GLO	training_set	VEnron2\VEnron2\1298	A5:G13
+1_Inv_WC_true_up.xlsx	Sched I - Cannon & TC GLO	training_set	VEnron2\VEnron2\870	A5:G15
+1_Schedule D_627.xlsx	Schedule D	training_set	VEnron2\VEnron2\455	A5:G15
+1_SD Volumes.xlsx	Capacity	training_set	VEnron2\VEnron2\1179	A5:G19
+1_Comps_DCF.xlsx	DCF - Exit Year 3 - $4	training_set	VEnron2\VEnron2\1067	A5:G22	A27:L44
+1_JCC Model.xlsx	JCC Calculation	training_set	VEnron2\VEnron2\1406	A5:G33
+1_Pueblo 60 MW EPC.xlsx	60 MW	training_set	VEnron2\VEnron2\1065	A5:G39
+1_Accomplishments 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\558	A5:G41
+1_All BA ID's Jan 1_April 6 2001 480 1480 Charges.xlsx	Net Load Obligation	training_set	VEnron2\VEnron2\652	A5:G6
+bdp1503b__EUSES_homework_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\94	A5:G61	A62:G81
+10_HPL-Feb.xlsx	JAN 00	training_set	VEnron2\VEnron2\178	A5:G73	A75:E78
+1_grossmargin.xlsx	Sheet1	training_set	VEnron2\VEnron2\569	A5:G8
+1_RAC Rankings Y.E. 2000.xlsx	Mgr. & Above	training_set	VEnron2\VEnron2\723	A5:H18
+1_Viva Chile!.xlsx	Pulp	testing_set	VEnron2\VEnron2\610	A5:H24
+1_feb 02 Avails.xlsx	Sheet1	testing_set	VEnron2\VEnron2\860	A5:H25	J6:K22
+1_ernesto.xlsx	Sheet1	training_set	VEnron2\VEnron2\623	A5:H29
+1_site_visit_schedule for Chris Booth.xlsx	Schedule	training_set	VEnron2\VEnron2\1458	A5:H30
+1_G Hodges NYMEX Brokers_102401.xlsx	1023	training_set	VEnron2\VEnron2\413	A5:H32
+10_SUNFLOWER - NNG - HOURLY - 2002.xlsx	2	training_set	VEnron2\VEnron2\173	A5:H32
+10_SUNFLOWER - NNG - HOURLY - 2002.xlsx	1	training_set	VEnron2\VEnron2\173	A5:H32
+1_Hedacount.xlsx	Sheet2	training_set	VEnron2\VEnron2\318	A5:H38
+1_AEP-HPL check list.xlsx	Sheet1	training_set	VEnron2\VEnron2\686	A5:H64
+1_3Q YTD Origin West Gas.xlsx	Summary	training_set	VEnron2\VEnron2\463	A5:I15
+1_Accounts Receivable.xlsx	Sheet1	training_set	VEnron2\VEnron2\1399	A5:I18
+1_Power Mid Market 8-01 sent B.xlsx	Quarterly report	testing_set	VEnron2\VEnron2\1296	A5:I320
+10_Year-to-date deals 9-20-01.xlsx	Sheet1	testing_set	VEnron2\VEnron2\37	A5:I329
+1_Hot List4_5_01.xlsx	04_05_01	training_set	VEnron2\VEnron2\1385	A5:I35	A41:I52
+1_jun00hl&p2.xlsx	Nom	training_set	VEnron2\VEnron2\876	A5:I38
+tab05-3__EUSES_grades_processed.xlsx	Table 5.	training_set	VEUSES\VEUSES\73	A5:I53
+1_fixed price deal spreadsheet.xlsx	Sheet1	testing_set	VEnron2\VEnron2\304	A5:I63
+1_AugQTD Orig w notes.xlsx	total by value	training_set	VEnron2\VEnron2\1436	A5:I90
+1_ERV_Stats.xlsx	Sheet1	training_set	VEnron2\VEnron2\1253	A5:J103
+gb00fde__EUSES_financial_processed.xlsx	1) Cover Sheet	training_set	VEUSES\VEUSES\92	A5:J13
+1_suemaraaccomp.xlsx	Sheet1	training_set	VEnron2\VEnron2\1336	A5:J14
+1_Logisticsissues.xlsx	Sheet1	training_set	VEnron2\VEnron2\322	A5:J31
+1_Spinnaker11958SU.xlsx	Sheet1	training_set	VEnron2\VEnron2\1555	A5:J43
+finrpt00__EUSES_financial_processed.xlsx	Five Year Review	training_set	VEUSES\VEUSES\105	A5:J50
+1_RedRockNPVContracts.xlsx	Contracts	training_set	VEnron2\VEnron2\570	A5:K29
+1_FETZERCAPS2001.xlsx	0100THRU1200MTR	training_set	VEnron2\VEnron2\634	A5:K296
+1_USGT nov&dec01 vols&rates.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1343	A5:K45
+1_Trading list 021902.xlsx	Sheet1	training_set	VEnron2\VEnron2\1267	A5:K57
+1_Nymex Mar 8th.xlsx	Quarterly	training_set	VEnron2\VEnron2\1587	A5:K58
+1_ARUBA0500.xlsx	Sheet1	training_set	VEnron2\VEnron2\1419	A5:L112
+1_IM-Central 1100.xlsx	Intra-Central II	training_set	VEnron2\VEnron2\654	A5:L118	A123:C128
+1_Exhibit 14 (Scenario 1).xlsx	DWR Billing Determinants	training_set	VEnron2\VEnron2\299	A5:L17
+1_EL00-95-045 Burbank DOE Sales.xlsx	Sheet1	training_set	VEnron2\VEnron2\1593	A5:L74
+1_Mlcap3.xlsx	Sheet1	testing_set	VEnron2\VEnron2\550	A5:M10	A12:M17	A19:M24	A46:F56	A59:E69	A72:E79	G59:K78	G46:K54	G80:K81
+1_MgmtSum-Q1-0222.xlsx	Greensheet	training_set	VEnron2\VEnron2\136	A5:M142	S85:Z138
+1_Update 1 ss.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1058	A5:M20
+1_AAearn by month.xlsx	Summary	training_set	VEnron2\VEnron2\418	A5:M23
+1_Exisiting capacity projections Revised.xlsx	Existing volumes	testing_set	VEnron2\VEnron2\1293	A5:M43
+1_Q1SoftTargets.xlsx	Sheet1	training_set	VEnron2\VEnron2\395	A5:N34
+1_Summary of All Mercado Deals.xlsx	All Deals	training_set	VEnron2\VEnron2\761	A5:N34
+1_Non Commercial.xlsx	Sheet1	training_set	VEnron2\VEnron2\449	A5:N39
+1_MgmtSum-Q2-0501.xlsx	YTD Mgmt Summary	training_set	VEnron2\VEnron2\137	A5:N48
+1_MgmtSum-Q2-0501.xlsx	Q1 Mgmt Summary	training_set	VEnron2\VEnron2\137	A5:N48
+1_Perm.xlsx	Sheet1	training_set	VEnron2\VEnron2\1035	A5:O21	A26:O42
+1_INTERCONNECT NOMvsSCHED.xlsx	12/5/2020	training_set	VEnron2\VEnron2\431	A5:O24	A27:O30
+1_INTERCONNECT NOMvsSCHED.xlsx	12/4/2020	training_set	VEnron2\VEnron2\431	A5:O24	A27:030
+10_0111MarginRequirements.xlsx	Template	training_set	VEnron2\VEnron2\32	A5:O28	A34:F36
+10_0111MarginRequirements.xlsx	1101	training_set	VEnron2\VEnron2\32	A5:O33	A34:F40
+1_Exhibit 7 - 2001- MKM.xlsx	1/1/2001	testing_set	VEnron2\VEnron2\879	A5:P30
+10_Stgbkrpt.xlsx	Sheet1	training_set	VEnron2\VEnron2\78	A5:P34	A37:P61
+1_Q2 Hotlist Template.xlsx	412	training_set	VEnron2\VEnron2\405	A5:P52
+1_Q2 Hotlist Template.xlsx	405	training_set	VEnron2\VEnron2\405	A5:P53
+1_Hadix TAccount NOV00.xlsx	1	testing_set	VEnron2\VEnron2\1579	A5:P58	A61:P74
+1_Historical and Forward 122200 Prices.xlsx	01-05 curve data	training_set	VEnron2\VEnron2\1159	A5:P66	A67:P72
+1_2002 Consol Plan Review Template.xlsx	EPI	training_set	VEnron2\VEnron2\393	A5:Q23
+rbm10242002__EUSES_modeling_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\98	A5:Q46
+1_AAearn by month.xlsx	Bank Request	training_set	VEnron2\VEnron2\418	A5:S10
+1_pfg0100.xlsx	Sheet1	training_set	VEnron2\VEnron2\1538	A5:U38
+1_P&LSum.xlsx	SUM-USD	training_set	VEnron2\VEnron2\289	A5:U41
+10_PR LNG TANK LEVEL.xlsx	LNG	training_set	VEnron2\VEnron2\93	A5:U413	X5:AF413
+1_2002 Consol Plan Review Template.xlsx	ENA	training_set	VEnron2\VEnron2\393	A5:U90
+1_MgmtSum-Q1-0222.xlsx	Summary	training_set	VEnron2\VEnron2\136	A5:V61
+1_Astra.xlsx	TW's	testing_set	VEnron2\VEnron2\563	A5:W40	Y5:AD40
+1_Astra.xlsx	Astra's	testing_set	VEnron2\VEnron2\563	A5:W40	H43:K46	S43:U46
+1_2001_06 Citizens actual.xlsx	EPNG-spreadsheet	testing_set	VEnron2\VEnron2\1201	A50:E69	A9:E48	A1:B7
+1_kevin.xlsx	VAR Peak	training_set	VEnron2\VEnron2\402	A51:AC79	A3:AC48
+1_Elec Power Cost Enron Contract.xlsx	Spreadsheet	training_set	VEnron2\VEnron2\345	A52:L81	A2:L22	A28:I48
+1_ZONE3TILDEN.xlsx	Sheet1	training_set	VEnron2\VEnron2\1567	A53:I90	A3:I50
+2000_places_School__EUSES_grades_processed.xlsx	Sheet1	testing_set	VEUSES\VEUSES\174	A53:M98	A4:M49	A102:M147	A249:M294	A151:M196	A298:M340	A200:M245
+1_ca0912EES.xlsx	Bid vs. Award	training_set	VEnron2\VEnron2\1311	A55:AD94	C134:AC140	B154:F179	B226:AB232	B200:AB202	A185:B194	C123:AB132	H154:L179	B5:AA9	B12:AA16	A99:AD118
+1_capcharge.xlsx	Capital Charge Template	training_set	VEnron2\VEnron2\849	A6:AB34
+1_SCHED2001.xlsx	2/1/2020	testing_set	VEnron2\VEnron2\319	A6:AD38
+V33_t34__EUSES_grades_processed.xlsx	A	training_set	VEUSES\VEUSES\112	A6:AH20
+10_ENEmarketmarks28Dec.xlsx	Sheet1	training_set	VEnron2\VEnron2\99	A6:AL17	A19:AL40
+Level_of_Business_Inventory__EUSES_inventory_processed.xlsx	Data	training_set	VEUSES\VEUSES\150	A6:B162
+1_Trdg Quote - Bentall.xlsx	Sheet1	training_set	VEnron2\VEnron2\1468	A6:B19
+1_EOL Transactions.xlsx	Year Over Year	training_set	VEnron2\VEnron2\398	A6:BR28
+1_MidMkt.Orig2000 vs. 2001a.xlsx	Year Over Year	training_set	VEnron2\VEnron2\397	A6:BR70	A75:C90
+1_Sinclair Recon.xlsx	Sheet1	training_set	VEnron2\VEnron2\606	A6:D11
+1_EEX_HPL.xlsx	HPL Bids	training_set	VEnron2\VEnron2\897	A6:D13
+yef00__EUSES_financial_processed.xlsx	Revenues by Source	training_set	VEUSES\VEUSES\12	A6:D15
+yef00__EUSES_financial_processed.xlsx	Expenditures by Function	training_set	VEUSES\VEUSES\12	A6:D19
+1_Enron - June 2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\64	A6:D38
+XI-FinRpt-Master__EUSES_financial_processed.xlsx	Income	training_set	VEUSES\VEUSES\15	A6:D51
+stz_083103_financials__EUSES_inventory_processed.xlsx	Inc. Stmt - Reported - YTD	training_set	VEUSES\VEUSES\16	A6:D52
+1_newco gas pipeline contracts.xlsx	East	training_set	VEnron2\VEnron2\396	A6:D80
+1_twtrans.xlsx	Sheet1	testing_set	VEnron2\VEnron2\631	A6:E124
+1_New Weekly Report .xlsx	4/23/2027	training_set	VEnron2\VEnron2\988	A6:E17	A19:E29	H31:K35	H6:K15	H19:K27	A31:E39	A44:E47	A67:C71	H67:I70	A58:E61	H58:J60	A52:E53	H44:I47
+1_WestPenalties.xlsx	Sheet1	testing_set	VEnron2\VEnron2\529	A6:E18
+1_ENERGY_OPS_000626.xlsx	List	testing_set	VEnron2\VEnron2\685	A6:E33
+Supp_IB_1Q03__EUSES_financial_processed.xlsx	IB	training_set	VEUSES\VEUSES\153	A6:E47
+1_proble~1.xlsx	Sheet1	training_set	VEnron2\VEnron2\1596	A6:E9
+1_C000749EOG04_01.xlsx	COST SUMMARY	training_set	VEnron2\VEnron2\562	A6:F21
+657eddab-d55a-4285-ae04-5a5f26854a30.xlsx	Proff	training_set	VFUSE\VFUSE\115	A6:F31
+1_Jan02pymts.xlsx	Janinv	training_set	VEnron2\VEnron2\556	A6:F38
+1_Gas Three RM PMA Log 0901.xlsx	RM PMA Log	training_set	VEnron2\VEnron2\658	A6:F77
+1_Book Admin West.xlsx	example	testing_set	VEnron2\VEnron2\777	A6:F8
+1_doorstep schedule.xlsx	2000	training_set	VEnron2\VEnron2\674	A6:G123	A127:D147
+1_BF Good Exhibits.xlsx	Exhibit 2	training_set	VEnron2\VEnron2\1590	A6:G17
+1_MAPTTRA.xlsx	Budget	training_set	VEnron2\VEnron2\578	A6:G18	A22:C26
+1_0201 EES.xlsx	EES	training_set	VEnron2\VEnron2\161	A6:G31
+1_2002planvs.mktval2.xlsx	Sheet1	training_set	VEnron2\VEnron2\368	A6:G35
+marketsyracuse100__EUSES_financial_processed.xlsx	Syracuse, NY	training_set	VEUSES\VEUSES\117	A6:G36
+1_3Q YTD Origin West Gas.xlsx	Detail	training_set	VEnron2\VEnron2\463	A6:G461
+02_03cor__EUSES_modeling_processed.xlsx	 High School Courses	training_set	VEUSES\VEUSES\156	A6:G481
+1_99vs00_Margin_Variance.xlsx	TWRev	training_set	VEnron2\VEnron2\924	A6:H23
+1_East.xlsx	East - Orig	training_set	VEnron2\VEnron2\1303	A6:H32	I5:L13	H33:L34	I16:L30
+1_East.xlsx	Natural Gas Consolidated	training_set	VEnron2\VEnron2\1303	A6:H32	I5:L13	H33:L34	I16:L30
+1_Natural Gas Netco Budget1.xlsx	Natural Gas	training_set	VEnron2\VEnron2\407	A6:H32	I5:L13	H33:L34	I16:L30
+1_North America Plan 12-27.xlsx	Natural Gas	testing_set	VEnron2\VEnron2\1284	A6:H32	I5:L13	H33:L34	I16:L30
+1_NYMEXSTL.01.xlsx	JANUARY	training_set	VEnron2\VEnron2\588	A6:H41	A86:E92	A47:I59	A66:C72	E66:G72	A76:C82
+1_CGAS NYMEX Quote.xlsx	NYMEX Quote	testing_set	VEnron2\VEnron2\973	A6:H8
+10_Hot List Update 07-24-01 - Management.xlsx	Executive	training_set	VEnron2\VEnron2\231	A6:H9
+1_NEWENGTRADES.xlsx	Sheet1	training_set	VEnron2\VEnron2\747	A6:I11
+1_tw_priority_rate.xlsx	9601-9810	training_set	VEnron2\VEnron2\363	A6:I21
+10_Southpoint Gas Model.xlsx	Sheet1	training_set	VEnron2\VEnron2\174	A6:I34
+1_kevin.xlsx	P&L	training_set	VEnron2\VEnron2\402	A6:I64
+sup2q3f__EUSES_financial_processed.xlsx	Earnings	training_set	VEUSES\VEUSES\154	A6:I82
+1_labudget2.xlsx	Sheet1	training_set	VEnron2\VEnron2\1223	A6:J13	A19:F26	A31:I37	A50:F74
+1_Engage Deals as of 12-3-2001.xlsx	_tmp_15664_EPMI-EAST-BANK_deal_	training_set	VEnron2\VEnron2\1494	A6:J16
+01__EUSES_grades_processed.xlsx	2001???E	training_set	VEUSES\VEUSES\7	A6:J19	A26:L32	B39:H48
+1421c0f2-8560-4f1c-be2d-2caefce878e4.xlsx	Sheet1	testing_set	VFUSE\VFUSE\135	A6:J26
+1_Nymex Mar 8th.xlsx	Nymex Pos	training_set	VEnron2\VEnron2\1587	A6:J33
+1_1403 OCEANSIDE DMQ FOR ELECTRIC EXTRAS REVISED 1-26-01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1328	A6:J53
+10_Tenaska IV Est Imbalance0402.xlsx	Sheet1	training_set	VEnron2\VEnron2\167	A6:K12	A14:K20	A22:L28
+1_tw_priority_rate.xlsx	9811- 9812	training_set	VEnron2\VEnron2\363	A6:K23	B32:C36
+1_NW BASIS NEW.xlsx	Publish	training_set	VEnron2\VEnron2\1315	A6:K355
+crmis0203__EUSES_grades_processed.xlsx	Table 1	training_set	VEUSES\VEUSES\52	A6:K43
+1_IM-Central 1100.xlsx	Intra-central I	training_set	VEnron2\VEnron2\654	A6:L116
+10_Oct01pnr.xlsx	Summary	training_set	VEnron2\VEnron2\58	A6:L27	B32:K48
+pfs_0409__EUSES_database_processed.xlsx	PFS_0409	training_set	VEUSES\VEUSES\37	A6:L283
+1_AEL 06 01 (GBP).xlsx	Income State. - YTD	training_set	VEnron2\VEnron2\1526	A6:L63
+1_BRIDGELINEPADGAS.xlsx	Sheet1	training_set	VEnron2\VEnron2\1075	A6:M15
+1_EGA fcst.xlsx	10/25/2020	training_set	VEnron2\VEnron2\1488	A6:M21	A30:O37
+1_Torch Exhibit2.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1149	A6:M44
+10_midwest-headcount.xlsx	Sheet1	training_set	VEnron2\VEnron2\1394	A6:M59
+1_KevinHyatt.xlsx	Page 2	training_set	VEnron2\VEnron2\1553	A6:N35	A36:N75
+corn-size-con__EUSES_inventory_processed.xlsx	corn-size-con	training_set	VEUSES\VEUSES\80	A6:N46	A81:O94	A100:O113	A119:O132
+10_E2 Investor List.xlsx	2000 Peakers	training_set	VEnron2\VEnron2\220	A6:N82
+1_Exposures for Bill 10 31 01.xlsx	t_807	training_set	VEnron2\VEnron2\1398	A6:O265
+10_10262001WestPosition.xlsx	West Power Pos Change	training_set	VEnron2\VEnron2\30	A6:O35
+10_EMWP&L.xlsx	Prior DPR	testing_set	VEnron2\VEnron2\189	A6:O59
+1_Summary of All Mercado Deals.xlsx	Deals to be Assigned	training_set	VEnron2\VEnron2\761	A6:P40
+1_KonaMTMCOB12.11.2001.xlsx	Results	training_set	VEnron2\VEnron2\799	A6:Q36
+1_Peoples 0301 GL.xlsx	people	training_set	VEnron2\VEnron2\671	A6:Q71
+1_MgmtSum-Q2_2001_0511.xlsx	QTD Mgmt Summary	training_set	VEnron2\VEnron2\139	A6:Q93
+1_MgmtSum-Q2_2001_0511.xlsx	YTD Mgmt Summary	training_set	VEnron2\VEnron2\139	A6:Q93
+1_Lumberton Soil Results.xlsx	Sheet1	training_set	VEnron2\VEnron2\1481	A6:R27
+1_2001_Reserves.xlsx	Reserves	training_set	VEnron2\VEnron2\384	A6:R46
+1_Ontario 0301GL.xlsx	Ontario	training_set	VEnron2\VEnron2\670	A6:V84
+1_Capital Book Rollforward.xlsx	Sheet1	training_set	VEnron2\VEnron2\374	A6:W27
+1_98$ Email Format.xlsx	Caledonia	training_set	VEnron2\VEnron2\1466	A6:W46	A48:C53
+1_98$ Email Format.xlsx	Brownsville	training_set	VEnron2\VEnron2\1466	A6:W53
+1_Price-ImbalQtyTableAug2000-Sep2001-Ver2.xlsx	Sheet1	training_set	VEnron2\VEnron2\726	A6:Z141
+1_Info.xlsx	Format	training_set	VEnron2\VEnron2\1409	A62:AB129	A5:AB57
+1_PHONE_LIST.xlsx	ext. São Paulo office	training_set	VEnron2\VEnron2\258	A62:D102	A9:D48	F9:I48
+0506calendar__EUSES_grades_processed.xlsx	2005-06 Official	training_set	VEUSES\VEUSES\8	A62:D110	A5:D48
+1_Origination Summary 08-30-01.xlsx	International Origin Summary	testing_set	VEnron2\VEnron2\1512	A63:R88	A13:R47
+1_EOLdeals.xlsx	EOL Summary	training_set	VEnron2\VEnron2\549	A65:T87	A31:T47	A3:T18	A50:T62	A21:T28
+1_daily prices.xlsx	Power East Price	training_set	VEnron2\VEnron2\105	A66:AB123	AF5:EI44	A8:AB63
+1_Texas June 2001.xlsx	Graph	training_set	VEnron2\VEnron2\276	A68:M75	N64:U66	A64:H66	N68:U70
+1_0517 Cash Sheet.xlsx	Sheet1	training_set	VEnron2\VEnron2\264	A69:C83	E44:G63	E20:G38	A20:C38	A44:C63
+1_0610351y00y01.xlsx	2001	training_set	VEnron2\VEnron2\628	A7:AB183
+1_0610351y00y01.xlsx	2000	training_set	VEnron2\VEnron2\628	A7:AB373
+1_daily prices.xlsx	E. Power Desk Daily Price	training_set	VEnron2\VEnron2\105	A7:AC63
+1_Abitibi.xlsx	Sheet1	training_set	VEnron2\VEnron2\611	A7:AD32
+1_positions.xlsx	E. Power Desk Daily Position	testing_set	VEnron2\VEnron2\42	A7:AG83	A92:AG160
+10_CurvefetJPM020701.xlsx	DiffCurves	training_set	VEnron2\VEnron2\186	A7:AJ55
+10_Enron Daily Email Oct '01.xlsx	Nominations	training_set	VEnron2\VEnron2\95	A7:AJ55
+1_EA Allocations to Other BUs-9.19.01.xlsx	2002 Plan	testing_set	VEnron2\VEnron2\846	A7:AN34
+10_2001FuelMgmt May.xlsx	Jan 01 Est	training_set	VEnron2\VEnron2\172	A7:AQ85	AK88:AP103
+10_060500pgas.xlsx	Sheet1	training_set	VEnron2\VEnron2\67	A7:B102	C7:D105	E7:F70
+1_Exisiting capacity projections Revised.xlsx	WOT by Month	testing_set	VEnron2\VEnron2\1293	A7:BV57
+1_Lay Agenda.xlsx	Sheet1	training_set	VEnron2\VEnron2\796	A7:C13
+1_Cilco.xlsx	2/1/1997	training_set	VEnron2\VEnron2\910	A7:D37
+1_Tenaska IV 2000.xlsx	October 2000 Est.	training_set	VEnron2\VEnron2\889	A7:D38
+1_Cilco.xlsx	12/1/1996	training_set	VEnron2\VEnron2\910	A7:D41
+10_200004strg.xlsx	Strg Proxy	training_set	VEnron2\VEnron2\152	A7:E13	A23:H25	A34:F39	A44:G50	A54:D59
+1_Template.xlsx	Summary Output	training_set	VEnron2\VEnron2\1417	A7:E21	A25:D29
+1_Responsibility List.xlsx	ECT Active - Portrait Version	training_set	VEnron2\VEnron2\1580	A7:E240
+1_CinergyHourlyTable102201.xlsx	Sheet1	training_set	VEnron2\VEnron2\321	A7:E26
+10_BrokerQuote(SouthEast)2.xlsx	Sheet1	training_set	VEnron2\VEnron2\87	A7:E31	I7:M31
+1_Outweeknng0207.xlsx	Sheet1	training_set	VEnron2\VEnron2\904	A7:E9
+1_bill of sale schedule 010201.xlsx	Sheet1	training_set	VEnron2\VEnron2\1197	A7:F13
+1_MarketPowerNE020211.xlsx	Sheet1	training_set	VEnron2\VEnron2\1187	A7:F19
+1_Epngrts.xlsx	Sheet1	training_set	VEnron2\VEnron2\462	A7:F29
+1_Libor Holst 11-14-01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1184	A7:F366
+1_Nicorimb.xlsx	OCT	training_set	VEnron2\VEnron2\443	A7:F41
+1_griffith1.xlsx	Sheet1	training_set	VEnron2\VEnron2\187	A7:F61
+1_AGAVE.xlsx	March	training_set	VEnron2\VEnron2\1027	A7:F8	A10:F11	A13:F14	A16:F17	A19:F20
+1_0201 EES.xlsx	EES Wind	training_set	VEnron2\VEnron2\161	A7:G17
+1_4Q 2CE vs 3CE.xlsx	Sheet1	training_set	VEnron2\VEnron2\1528	A7:G25
+1_2000-DJ-NP-INDEXES-HIST.xlsx	NP 15	training_set	VEnron2\VEnron2\1609	A7:G29
+1_EnronHaynes21070700.xlsx	Sheet1	training_set	VEnron2\VEnron2\887	A7:G8
+1_PTE Calcs.xlsx	Summary	training_set	VEnron2\VEnron2\1312	A7:H15
+10_OntFRED.xlsx	Summary	training_set	VEnron2\VEnron2\595	A7:H41
+1_Tallahasse Swing Cash Flow.xlsx	Est Cash Flow	training_set	VEnron2\VEnron2\844	A7:H59
+Tab11B__EUSES_grades_processed.xlsx	1.1B 	training_set	VEUSES\VEUSES\74	A7:I18
+1_MAPTTRA.xlsx	Breakeven	training_set	VEnron2\VEnron2\578	A7:I23
+1_20Q July MTM.xlsx	July	training_set	VEnron2\VEnron2\476	A7:I28	A32:G41
+1_PIP_Master_List.xlsx	PIP Master List	training_set	VEnron2\VEnron2\959	A7:J115
+10_Enron Nom Change.xlsx	Sheet1	training_set	VEnron2\VEnron2\182	A7:J8
+1_4-6-2000 enroncestransactions.xlsx	Sheet1	training_set	VEnron2\VEnron2\858	A7:K25
+1_Fixed2.xlsx	Avista_1	training_set	VEnron2\VEnron2\320	A7:K40
+1_AEL 06 01 (GBP).xlsx	Income State. - Month	training_set	VEnron2\VEnron2\1526	A7:L63
+1_SWAT Report.xlsx	Sheet1	training_set	VEnron2\VEnron2\1332	A7:O11	A20:P70
+1_eEuropeanWEMR 05-23-01.xlsx	rpt-GM-metals	training_set	VEnron2\VEnron2\985	A7:O271
+1_eLondonGlobalWEMR(2)-05-23-01.xlsx	rpt-GL-LPGEuro	training_set	VEnron2\VEnron2\986	A7:O456
+1_dwr purchases analysis MEF3.xlsx	prices by public-private	training_set	VEnron2\VEnron2\646	A7:O74
+1_Ice Dri1.xlsx	Can $ Only-Bankruptcy	training_set	VEnron2\VEnron2\1333	A7:O77
+1_CFNNG02PL.xlsx	BALSHEET	training_set	VEnron2\VEnron2\1316	A7:O98	A107:P151	A163:O208	AA7:AO98	AB107:AP151	AA163:AO208	BA7:BO98	CA7:CO98
+1_CitizensLGSReconciliationCUC.xlsx	Sheet1	training_set	VEnron2\VEnron2\792	A7:P22
+1_JGOption Net Notional Position.xlsx	RSXNSUMo	training_set	VEnron2\VEnron2\1002	A7:P404
+1_Crestone.xlsx	CREST COMM	training_set	VEnron2\VEnron2\793	A7:Q35
+10_Summary8-21.xlsx	Summary	testing_set	VEnron2\VEnron2\50	A7:Q47	B62:I72
+10_CA. Capacity Report.xlsx	Sheet1	training_set	VEnron2\VEnron2\21	A7:Q52
+1_morganene.xlsx	Sheet1	training_set	VEnron2\VEnron2\1359	A7:Q71
+1_CC_BUDGET_FORMAT.xlsx	Detail	training_set	VEnron2\VEnron2\697	A7:S266
+1_Gleason O&M.xlsx	Gleason 2001 Budget	training_set	VEnron2\VEnron2\1464	A7:S67
+1_Lincoln Energy Center O&M.xlsx	Lincoln Energy Center 01 Budget	training_set	VEnron2\VEnron2\1465	A7:S67
+1_Wheatland O&M.xlsx	Wheatland 2001 Budget	training_set	VEnron2\VEnron2\1230	A7:S67
+1_Plan - Real-Time Trading.xlsx	Real Time	training_set	VEnron2\VEnron2\1210	A7:V130
+1_New Counterparties.xlsx	Year Over Year	training_set	VEnron2\VEnron2\400	A7:V27
+1_Denver Cash Mgmt1.xlsx	Denver office	training_set	VEnron2\VEnron2\508	A7:X23
+1_twfuelanal.xlsx	2000MMBTU	training_set	VEnron2\VEnron2\834	A7:Z225
+1_Electricity Price information.xlsx	All_Region_Avg_Prices	training_set	VEnron2\VEnron2\1060	A70:N76	A12:N18	A31:N38	A21:N28	A60:N66	A4:N9	A50:N56	A41:N47
+1_Weekly Marketing Report 28September01.xlsx	Cover Sheet	training_set	VEnron2\VEnron2\502	A71:H83	A51:H56	B87:F94	A65:F68	A97:G104	A7:H19
+1_14.2MM .xlsx	Model	training_set	VEnron2\VEnron2\1063	A73:Y108	A12:E16	A5:H7	A22:Y66
+1_Lincoln Energy Center O&M.xlsx	Lincoln Energy Center 00 Exp	training_set	VEnron2\VEnron2\1465	A75:V135	A7:V67	A143:V203
+1_Wheatland O&M.xlsx	Wheatland 2000 Exp	training_set	VEnron2\VEnron2\1230	A76:V136	A144:V204	A7:V68
+1_Gleason O&M.xlsx	Gleason 2000 Exp	training_set	VEnron2\VEnron2\1464	A76:V137	A145:V206	A7:V68
+1_Sun Devil Fuel011108.xlsx	Station Flow	training_set	VEnron2\VEnron2\1178	A77:H95	A5:H23	A105:H123	A55:H73	A27:H45
+1_TW Red Rock Cashflow updated thru Sept. 14.xlsx	Cashflow	testing_set	VEnron2\VEnron2\1527	A8:AA59
+10_Pwr west P&L.xlsx	Stacey's Working Sheet	training_set	VEnron2\VEnron2\1362	A8:AJ97
+1_OM Schedule - Gas Logistics.xlsx	Without EPSC	training_set	VEnron2\VEnron2\839	A8:AS24
+1_OM Schedule - Gas Logistics.xlsx	With EPSC	training_set	VEnron2\VEnron2\839	A8:AS24
+1_OM Schedule - IT 1.xlsx	With NBP	training_set	VEnron2\VEnron2\848	A8:AS24
+cd1108dp2000__EUSES_grades_processed.xlsx	DP2	training_set	VEUSES\VEUSES\19	A8:C135
+1_Volumes by month.xlsx	Sheet1	training_set	VEnron2\VEnron2\971	A8:E178	A4:E6
+1_KernscheduleA.xlsx	Sheet1	training_set	VEnron2\VEnron2\1600	A8:E18
+1_load vs delivery.xlsx	2/28/2020	training_set	VEnron2\VEnron2\1601	A8:E58	A3:B6
+1_load vs delivery.xlsx	Jan	training_set	VEnron2\VEnron2\1601	A8:E58	A3:B6
+10_061200cgas.xlsx	Sheet1	training_set	VEnron2\VEnron2\66	A8:E75
+1_KernAssignmentInfo.xlsx	Sheet1	training_set	VEnron2\VEnron2\1150	A8:F17
+10_Hot List Update 07-24-01 - Management.xlsx	Bridgeline	training_set	VEnron2\VEnron2\231	A8:G12
+1_CES-AGL-Feb00.xlsx	Summary	training_set	VEnron2\VEnron2\868	A8:G21
+1_noi.xlsx	Pro Forma	training_set	VEnron2\VEnron2\583	A8:G25
+1_calendar - meeting with Hughes3.xlsx	Sheet1	training_set	VEnron2\VEnron2\827	A8:G26
+1_summary of issues05182001.xlsx	Summary	testing_set	VEnron2\VEnron2\285	A8:G37
+1_customer D&B.xlsx	Sheet1	training_set	VEnron2\VEnron2\1448	A8:G71
+1_Spread.xlsx	Spread	testing_set	VEnron2\VEnron2\1524	A8:I12	K7:V12
+1_EOL_Countries&Products_Status_08-24.xlsx	EOL Countries	training_set	VEnron2\VEnron2\255	A8:I17	A22:I24	A29:I38	A43:I63
+1_EOL_Countries&Products_Status_08-24.xlsx	EOL New Products	training_set	VEnron2\VEnron2\255	A8:I28	A33:I43
+1_DB Development.xlsx	Development	training_set	VEnron2\VEnron2\1537	A8:I31
+10_Power Remote Office 2002 Plan Expense.xlsx	Assumptions	training_set	VEnron2\VEnron2\1415	A8:J73
+1_NW BASIS NEW.xlsx	CA basis	training_set	VEnron2\VEnron2\1315	A8:K356	B1:K6
+1_ENRONGAS(0101).xlsx	POOL INV VOL	training_set	VEnron2\VEnron2\947	A8:K45	?
+10_EnronAvails1100.xlsx	Offshore, S. Tx, Arklatex, G.C.	training_set	VEnron2\VEnron2\169	A8:L100
+1_105656 - O&M Report.xlsx	105653	testing_set	VEnron2\VEnron2\490	A8:L35	N8:AQ35
+1_confirm for October 2000.xlsx	Sheet1	training_set	VEnron2\VEnron2\801	A8:M13
+finrpt00__EUSES_financial_processed.xlsx	Balance Sheet	training_set	VEUSES\VEUSES\105	A8:M64
+1_200001Trans_OA.xlsx	TX-HPLC-FLSH	testing_set	VEnron2\VEnron2\573	A8:M80
+1_200001Trans_OA.xlsx	Module1	testing_set	VEnron2\VEnron2\573	A8:M80
+1_transportionvolumes.xlsx	Sheet1	training_set	VEnron2\VEnron2\1357	A8:N26
+1_noi.xlsx	2000 i.s.	training_set	VEnron2\VEnron2\583	A8:O17
+10_NYMarket0116.xlsx	IROQ	training_set	VEnron2\VEnron2\216	A8:Q363	B1:Q6
+1_TW Red Rock- Sch K.xlsx	Red Rock Expansion	training_set	VEnron2\VEnron2\1564	A8:S21
+1_ENRONGAS(0101).xlsx	INPUT SHEET	training_set	VEnron2\VEnron2\947	A8:S44
+1_AppalachiaGas2.xlsx	Volumes	training_set	VEnron2\VEnron2\742	A8:V155	A1:D5
+10_BGM 1102 ngpl.xlsx	mtd	training_set	VEnron2\VEnron2\28	A8:V57
+10_BGM 1102 ngpl.xlsx	daily	training_set	VEnron2\VEnron2\28	A8:W142
+1_HunterNotional.xlsx	Total Pos	training_set	VEnron2\VEnron2\1439	A8:W212
+1_HunterNotional.xlsx	Total Pos2	training_set	VEnron2\VEnron2\1439	A8:W212
+1_Master Turbine Listing.xlsx	LM6000 Inventory	testing_set	VEnron2\VEnron2\1049	A8:Y35
+1_FPL.xlsx	FPL-Projects	training_set	VEnron2\VEnron2\1233	A81:T102	A13:T54	A58:T63	A67:T77	B6:L8
+1_Book2.xlsx	Sheet1	training_set	VEnron2\VEnron2\8	A82:L155	A3:L76	A162:L235
+timetab2__EUSES_homework_processed.xlsx	table2	testing_set	VEUSES\VEUSES\39	A85:G109	A349:G367	A317:G343	A58:G79	A4:G23	A262:G283	A29:G52	A197:G223	A142:G163	A289:G311	A115:A136	A169:G191	A229:G257
+1_April.xlsx	10239_ALBERTA-HOURLY_deal_sum	training_set	VEnron2\VEnron2\1402	A88:T143	A6:T82
+1_tn012000.xlsx	Tenn	training_set	VEnron2\VEnron2\811	A9:AI60
+1_jun00hl&p2.xlsx	200	training_set	VEnron2\VEnron2\876	A9:AN43
+1_OM EST - OSS - 2001 - 2002 REVISED FORMAT.xlsx	Gross	training_set	VEnron2\VEnron2\1410	A9:AO28
+0533958e-1ed1-4f3c-bdfe-fd9fe7e9d53a.xlsx	Blank Payroll Sheet (2)	training_set	VFUSE\VFUSE\126	A9:BJ50
+1_dispatch.xlsx	Dispatch	training_set	VEnron2\VEnron2\1277	A9:BV84
+as2003puna__EUSES_modeling_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\145	A9:C18	D9:F18	G9:I18	J9:L18
+1_Book Admin West.xlsx	Data Sheet	testing_set	VEnron2\VEnron2\777	A9:D15
+1_Info Request_Jan 11_02.xlsx	Form A	training_set	VEnron2\VEnron2\1255	A9:D47
+1_DB Development.xlsx	View 1	training_set	VEnron2\VEnron2\1537	A9:E11	A15:E19
+1_summary of issues05182001.xlsx	Detailed summary	testing_set	VEnron2\VEnron2\285	A9:E135
+FASTFACT&DETAIL-FA2002__EUSES_grades_processed.xlsx	content	training_set	VEUSES\VEUSES\45	A9:E37
+0315Publish__EUSES_homework_processed.xlsx	student	training_set	VEUSES\VEUSES\131	A9:F16
+1_2 EES Cons 1CE 2CE variance analysis.xlsx	WHSEES4	training_set	VEnron2\VEnron2\466	A9:F61
+1_2 EES Cons 1CE 2CE variance analysis.xlsx	RETAIL4	training_set	VEnron2\VEnron2\466	A9:F70
+1_ENERGY_OPS_000626.xlsx	Showstoppers	testing_set	VEnron2\VEnron2\685	A9:G28
+1_aeptransitionissues.xlsx	Sheet1	training_set	VEnron2\VEnron2\682	A9:H105
+1_Phillips Calc Basis Hedge.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1473	A9:H186
+1_SMALLC&I2001.xlsx	Feb	testing_set	VEnron2\VEnron2\635	A9:H28
+FinPlan033yrc__EUSES_financial_bad.xlsx	FORM 1	training_set	VEUSES\VEUSES\62	A9:H62
+10_DEAL BREAKDOWN ANALYSIS 12-31-00 EM.xlsx	FINANCIAL	training_set	VEnron2\VEnron2\124	A9:I45
+10_DEAL BREAKDOWN ANALYSIS 12-31-00 EM.xlsx	PHYSICAL & FINANCIAL	training_set	VEnron2\VEnron2\124	A9:I45
+1_TrentMesapavout1201.xlsx	1001	training_set	VEnron2\VEnron2\1376	A9:J114	A127:K157
+1_TrentMesapavout1201.xlsx	901	training_set	VEnron2\VEnron2\1376	A9:J114	A128:K134
+1_ClearSkypavout0302.xlsx	202	testing_set	VEnron2\VEnron2\465	A9:J121	A134:I138
+1_ClearSkypavout0302.xlsx	102	testing_set	VEnron2\VEnron2\465	A9:J121
+1_PORT LOG.L.C.1xls.xlsx	Sheet1	training_set	VEnron2\VEnron2\621	A9:J56	A58:J62
+1_Co-Owner Vols 0300.xlsx	FEB 00	training_set	VEnron2\VEnron2\912	A9:K107
+1_Co-Owner Vols 0300.xlsx	JAN 00	training_set	VEnron2\VEnron2\912	A9:K109
+1_Mt. Jesus Shortpay Analysis.xlsx	Sheet1	training_set	VEnron2\VEnron2\442	A9:K25
+10_West Position0315-01navy.xlsx	West Power Position	training_set	VEnron2\VEnron2\31	A9:P19	A21:P31	A32:P41	A46:P50	A69:P70	A58:P61	A52:P56	A65:P67
+1_beckyandmelinda.xlsx	Data	training_set	VEnron2\VEnron2\1414	A9:P64
+10_STOR9791.xlsx	STOR951	training_set	VEnron2\VEnron2\15	A9:Q35
+1_FPL Model 1_24_01.xlsx	Summary	training_set	VEnron2\VEnron2\1318	A9:R21	O24:Q26	O30:R31
+1_2000 Plan.xlsx	PLAN00	training_set	VEnron2\VEnron2\360	A9:R289
+1_kingman_indications.xlsx	4/3/2001	training_set	VEnron2\VEnron2\1532	A9:R42
+10_DPR 1026.xlsx	Summary	training_set	VEnron2\VEnron2\26	A9:R60
+10_42D.xlsx	E2.XLS	training_set	VEnron2\VEnron2\331	A9:S34
+1_Enronsar.xlsx	Sheet1	training_set	VEnron2\VEnron2\554	A9:T29
+10_Oct01pnr.xlsx	Calpine 78151	training_set	VEnron2\VEnron2\58	A9:U45
+1_var.xlsx	E. VaR & Peak Pos By Trader	training_set	VEnron2\VEnron2\1017	A92:AC156	A3:AC87	AF96:AJ156
+1_EMW.xlsx	Sheet1	training_set	VEnron2\VEnron2\709	A99:P139	A4:P92
+1_CASH_GasBol_0400MyCopy.xlsx	Assm	training_set	VEnron2\VEnron2\1536	AC6:AF14	H60:L64	H68:L72	H74:L76	N50:R57	H39:L43
+1421c0f2-8560-4f1c-be2d-2caefce878e4.xlsx	Sheet2	testing_set	VFUSE\VFUSE\135	B1:AC59
+1_Northeast HEating oil Reserve.xlsx	WTI	training_set	VEnron2\VEnron2\1153	B1:C96
+1_Non US.xlsx	Master List (EU)	training_set	VEnron2\VEnron2\1484	B1:C98
+1_FixedCurveFetch.xlsx	Codes	training_set	VEnron2\VEnron2\1283	B1:F134
+1_Rankings.xlsx	Sheet1	training_set	VEnron2\VEnron2\420	B1:F43	G1:K14
+1_ubsfinal.xlsx	Sheet1	training_set	VEnron2\VEnron2\452	B1:G78
+1_Nov 30th Official post id's.xlsx	Sheet1	training_set	VEnron2\VEnron2\1348	B1:H146
+1_Rogers.xlsx	Deals	training_set	VEnron2\VEnron2\1248	B1:J35
+10_SEC VaR.xlsx	1999	training_set	VEnron2\VEnron2\135	B1:V37
+1_VARMODEL2000.xlsx	PricesM	training_set	VEnron2\VEnron2\317	B1:V80
+10_Hanson Scheduling Model_4_9.xlsx	Scheduling	training_set	VEnron2\VEnron2\23	B10:AA26	B37:F41	B30:F35
+1_Gallup Modification Exh N.xlsx	REVENUE SUMMARY	training_set	VEnron2\VEnron2\1294	B10:AB21
+1_CASH_GasBol_0400MyCopy.xlsx	TOC	training_set	VEnron2\VEnron2\1536	B10:C24
+1_Raptor 3b.xlsx	Summary	training_set	VEnron2\VEnron2\119	B10:E21
+1_Basis.xlsx	Sheet1	training_set	VEnron2\VEnron2\1521	B11:AG135	B143:AG193	B204:AG294	B309:AG371
+cds_2002_H__EUSES_financial_processed.xlsx	CDS-H	training_set	VEUSES\VEUSES\61	B11:F26	B29:F42	B45:F49	B141:E152
+1_BPA_DIRECT_DECEMBER.xlsx	MONTH BOOKOUTS	training_set	VEnron2\VEnron2\483	B11:J30	B33:J46
+1_ENRON_BPA_JANUARY_POSITIONS.xlsx	January Month Positions	training_set	VEnron2\VEnron2\482	B11:K21	B24:K32	B36:H39
+1_08022000LAVBS.xlsx	08022000LAVBS	training_set	VEnron2\VEnron2\692	B12:AA54	B56:P61
+1_Area Managers.xlsx	South Fish	testing_set	VEnron2\VEnron2\1262	B13:G28
+10_Hillsboro Enterprises.xlsx	Deal Sheet	training_set	VEnron2\VEnron2\1264	B13:G28
+10_IGSUpdate.xlsx	Sheet1	training_set	VEnron2\VEnron2\90	B13:J27	C31:I54
+1_Kermit Shut Down 13th.xlsx	Noms	training_set	VEnron2\VEnron2\893	B13:J35
+1_Northeast HEating oil Reserve.xlsx	DIFFS	training_set	VEnron2\VEnron2\1153	B13:K45
+1_Bakersfield Calif Pipeline - 20 inch.xlsx	Pipeline Benchmark	training_set	VEnron2\VEnron2\1360	B14:AZ95	C5:AZ11
+1_665 Team Project--Tracy Pan Part 1.xlsx	1. Black-Sholes	training_set	VEnron2\VEnron2\943	B14:C26	G14:H26
+09b2d619-8e6d-49fb-b298-6b97d0e2b8e3.xlsx	FIXED COST CALCULATION	training_set	VFUSE\VFUSE\123	B14:E22	H14:K22	N14:Q22
+1_PGE_NOVEMBER_MIDC_PATHS.xlsx	NOV (12)	training_set	VEnron2\VEnron2\260	B14:J16	B27:J32	B19:J22
+1_PGE_NOVEMBER_MIDC_PATHS.xlsx	NOV (13)	training_set	VEnron2\VEnron2\260	B14:J16	B27:J32	B19:J22
+1_Texoma.xlsx	Summary	training_set	VEnron2\VEnron2\902	B15:AB50
+1_EGM - COMPETITOR GRAPHS.xlsx	DYNEGY-ICE EGM	training_set	VEnron2\VEnron2\1157	B16:E17	B7:E8	B11:E13
+1_C0366-111726.xlsx	Summary	training_set	VEnron2\VEnron2\337	B17:E30
+1_Load Dist.xlsx	Top 5	training_set	VEnron2\VEnron2\515	B18:H23	B5:H10
+1_D. Robinson.xlsx	Sheet2	training_set	VEnron2\VEnron2\537	B2:C134	L4:N15	E2:G38	L2:V3
+1_ca0912EES.xlsx	Checklist	training_set	VEnron2\VEnron2\1311	B2:E67
+1_0709  Alcoa Model.xlsx	PL Adjustment by Month	training_set	VEnron2\VEnron2\819	B2:G116
+10_Book1.xlsx	Sheet1	training_set	VEnron2\VEnron2\2	B2:G14
+1996EI_Final_Files__EUSES_inventory_processed.xlsx	1996 EI	training_set	VEUSES\VEUSES\13	B2:H14
+1_Tricia Roome.xlsx	Sheet1	training_set	VEnron2\VEnron2\1240	B2:H64	J4:L9	J12:L17
+1_EOL_Search.xlsx	EOL	training_set	VEnron2\VEnron2\933	B2:I139
+1_Final List of Ref Credits 22 Feb.xlsx	Sheet1	training_set	VEnron2\VEnron2\494	B2:I225
+1_LSPOWER2001ANALYSIS.xlsx	Sheet1	training_set	VEnron2\VEnron2\434	B2:J138
+1_storage proxies.xlsx	Sheet1	training_set	VEnron2\VEnron2\1451	B2:J18
+1_Price Forecast.xlsx	Sheet1	testing_set	VEnron2\VEnron2\536	B2:J28
+1_Correlations.xlsx	Sheet1	training_set	VEnron2\VEnron2\534	B2:M247	O3:Y22
+1_HSE Gas Short Product Descriptions.xlsx	Gas Short Descriptions	testing_set	VEnron2\VEnron2\885	B2:O181
+1_PECO_Accts_12102001.xlsx	Sheet1	training_set	VEnron2\VEnron2\625	B2:P18
+25173964-bcb1-4a75-99e0-309ef8d49024.xlsx	Sheet1	training_set	VFUSE\VFUSE\11	B2:R30
+10_2000WK17final.xlsx	Payout	training_set	VEnron2\VEnron2\1161	B2:X29
+1_midland_cogen.xlsx	firm9701	training_set	VEnron2\VEnron2\1032	B21:E30	A8:D12
+1_Raptor DFITDSIT2 9-31-01.xlsx	Sheet1	training_set	VEnron2\VEnron2\464	B21:L54	A5:J13
+1_RFP1020AttchAjr.xlsx	Summary	training_set	VEnron2\VEnron2\1595	B21:P40	B45:P52
+10_PR LNG TANK LEVEL.xlsx	FUEL 	training_set	VEnron2\VEnron2\93	B22:I41	G43:H47
+10_Transco_Doyle_confirms_Apr_2001.xlsx	Sheet2	training_set	VEnron2\VEnron2\168	B23:F40	B8:F16
+1_101300 HPL.xlsx	HPL OneCalls OnCall	training_set	VEnron2\VEnron2\177	B23:G33	B7:D16
+1_BidWkTrades_Mar01.xlsx	Sheet1	training_set	VEnron2\VEnron2\1216	B23:H45	B5:H20	B49:H53
+10_NYMEX Straddles.xlsx	Sheet1	training_set	VEnron2\VEnron2\202	B24:G37	B3:G17
+1_Pasadena B&ESummary.xlsx	Summary	training_set	VEnron2\VEnron2\1450	B26:D46	B51:D68	B6:D23	B87:D106
+1_September noms for Quest.xlsx	Sept	training_set	VEnron2\VEnron2\791	B26:G36
+1_EOL_Product_Listen.xlsx	1	training_set	VEnron2\VEnron2\934	B26:I30	B10:I14	B3:I7	B17:I22	K17:O22	L2:N6	L26:N29
+1_SOCAL_PERMIAN.xlsx	Summary	training_set	VEnron2\VEnron2\567	B29:M33
+1_Monika.xlsx	ROWNAMESM	testing_set	VEnron2\VEnron2\1345	B3:AD4
+1_Monika.xlsx	ROWNAMESX	testing_set	VEnron2\VEnron2\1345	B3:AD4
+1_Entex Bilble.xlsx	Bible	training_set	VEnron2\VEnron2\1566	B3:AF58
+10_enequotes.xlsx	quotes	training_set	VEnron2\VEnron2\115	B3:AO45	B96:AO138	B142:AO184	B49:AO91
+10_Quotes1204.xlsx	quotes	training_set	VEnron2\VEnron2\72	B3:AO45	B96:AO138	B49:AO91	B142:AO184
+1_Stranded Cost Analysis Structuring Confidential.xlsx	Overmarket Chart	training_set	VEnron2\VEnron2\232	B3:C18
+1_Task assignment.xlsx	Sheet1	training_set	VEnron2\VEnron2\349	B3:C23
+1_West imbalance trades.xlsx	socal trades	training_set	VEnron2\VEnron2\845	B3:D158
+1_CASHFLOWS.xlsx	Sheet1	training_set	VEnron2\VEnron2\850	B3:E27
+ExcelGradebk_sml_ntbk__EUSES_homework_bad.xlsx	Set-Up Your Grade Book	training_set	VEUSES\VEUSES\125	B3:F15	I4:M20	A25:L26	A34:W36
+1_Nepool Loss Calculator.xlsx	Sheet1	training_set	VEnron2\VEnron2\1069	B3:F17	H3:K17
+1_AGAVE.xlsx	February	training_set	VEnron2\VEnron2\1027	B3:F5	A10:F11	A7:F8	A13:F14	A16:F17	A19:F20
+1_Phillip_Email_New2.xlsx	Sheet1	training_set	VEnron2\VEnron2\269	B3:G22
+1_marketing info.xlsx	Sheet1	training_set	VEnron2\VEnron2\852	B3:G38
+1_Summary of Different Florida Scenarios.xlsx	Sheet1	training_set	VEnron2\VEnron2\1229	B3:H26
+1_ebs-regulatory.xlsx	Regulatory	training_set	VEnron2\VEnron2\1506	B3:H32
+1_paymentsnow.xlsx	Sheet1	training_set	VEnron2\VEnron2\419	B3:H69
+1_EOL_Search.xlsx	EOL_SEARCH	training_set	VEnron2\VEnron2\933	B3:I12
+1_storage.xlsx	Sheet1	testing_set	VEnron2\VEnron2\669	B3:I17
+1_EOL_Products_v1.xlsx	Position	training_set	VEnron2\VEnron2\1589	B3:I22
+1_COH & AGL.xlsx	Sheet1	training_set	VEnron2\VEnron2\1331	B3:J26
+form219-blank__EUSES_inventory_processed.xlsx	Optional Special Equip. Summary	training_set	VEUSES\VEUSES\59	B3:N41
+1_Socal Demand Forecast.xlsx	Ehrenberg	training_set	VEnron2\VEnron2\619	B3:O13	B42:O47	A30:O40	B16:O26
+10_2000WK17final.xlsx	YTD Standings	training_set	VEnron2\VEnron2\1161	B3:V29
+1_Product Offering.xlsx	Sheet1	training_set	VEnron2\VEnron2\637	B30:J48
+1_BKRQST70.xlsx	Sheet1	training_set	VEnron2\VEnron2\886	B31:F34
+1_South_Stack.xlsx	SOCO	training_set	VEnron2\VEnron2\520	B32:P42	I46:O59	C46:G62	B72:E77	B10:G16	B64:J69
+1_2002 BLANCO HUB BUDGET.xlsx	2002 HUB COMB	training_set	VEnron2\VEnron2\355	B32:R37	B10:P15	B2:Q8	B24:N29	B17:O22
+1_Hadix TAccount NOV00.xlsx	Pools	testing_set	VEnron2\VEnron2\1579	B33:C43	F5:G10	F12:H19	B5:C18	B24:C29
+1_Termination Reconciliation.xlsx	Sheet1	testing_set	VEnron2\VEnron2\821	B33:C53	B20:C31	B8:C18
+1_mODEL 3 7 01 Base.xlsx	Assumptions	testing_set	VEnron2\VEnron2\1518	B34:D40	B4:V10	B54:D57	B14:D30	B44:D50
+1_2002 IGNACIO_LA PLATA BUDGET.xlsx	Attch#1	training_set	VEnron2\VEnron2\356	B37:R42	B19:O24	B12:P17	B26:N31	B5:Q10
+ExcelGradebk_sml_ntbk__EUSES_homework_bad.xlsx	Help Using This Grade Book	training_set	VEUSES\VEUSES\125	B38:F55	B22:F33	B62:M63
+1_NG_9_Neal.xlsx	MTD_NG	training_set	VEnron2\VEnron2\1500	B4:AC32
+1_Capacity Available.xlsx	Sheet1	training_set	VEnron2\VEnron2\364	B4:AQ91
+10_ONEOKRECAP2001.xlsx	MANUAL	training_set	VEnron2\VEnron2\52	B4:D9	Q4:S10	B26:D32	G4:J7	G26:I41
+1_NETCO Test Issues_0118.xlsx	Sheet1	training_set	VEnron2\VEnron2\1013	B4:E12	B15:E26
+1_2002 Lay Presentation_Lindy.xlsx	Schedule 1	training_set	VEnron2\VEnron2\357	B4:F17
+1_3_2TL.xlsx	2002 Without Navigation	training_set	VEnron2\VEnron2\1042	B4:F28
+1_Daily Settles.xlsx	NYMEX	training_set	VEnron2\VEnron2\219	B4:F303
+1_Expedition.xlsx	Eddie Bauer 4X4	training_set	VEnron2\VEnron2\1048	B4:F31
+1_Expedition.xlsx	Eddie Bauer 4X2	training_set	VEnron2\VEnron2\1048	B4:F33
+1_mODEL 3 7 01 Base.xlsx	Description	testing_set	VEnron2\VEnron2\1518	B4:G14
+1_RAB-Currency Joint.xlsx	Summary	training_set	VEnron2\VEnron2\928	B4:H14	B7:H17	B30:H40	B43:H53
+1_NFL Bets.xlsx	Summary Sheet	training_set	VEnron2\VEnron2\1241	B4:H20
+1_merchant peaker plants.xlsx	Peakers	training_set	VEnron2\VEnron2\309	B4:H30
+1_Curve Fetch-multi day for larry.xlsx	NG	testing_set	VEnron2\VEnron2\1286	B4:H69
+1_Trading Universe.xlsx	Sheet1	training_set	VEnron2\VEnron2\735	B4:I6
+1_CostlessCollar.xlsx	Sheet2	training_set	VEnron2\VEnron2\941	B4:I86
+1_VarLimits.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1261	B4:J45
+1_doorstepch.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1482	B4:J9	B13:J16	B18:J22
+1_EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS 2.xlsx	PEAK	testing_set	VEnron2\VEnron2\995	B4:K18	B20:K34	B37:K51	B54:K68	B72:K86	B89:J103	B105:K119	B122:K136	B139:K153	B156:K170	B173:K187	B190:K204	B207:K221	B224:K238
+1_Holiday Schedule - 2000.xlsx	2000	testing_set	VEnron2\VEnron2\1492	B4:K33
+1_TOP 50 CP - GAS EM 10-25-01.xlsx	PHYSICAL GAS	training_set	VEnron2\VEnron2\297	B4:L67
+1_TOP 50 CP - GAS EM 10-25-01.xlsx	TOTAL GAS	training_set	VEnron2\VEnron2\297	B4:L67
+1_EOLfieldnames.xlsx	EOL	training_set	VEnron2\VEnron2\808	B4:N36
+1_NY City Forecast.xlsx	ConEd Data	training_set	VEnron2\VEnron2\430	B4:N9	C16:E104
+1_DEAL PIPELINE RPT 10.8.01.xlsx	Sheet1	training_set	VEnron2\VEnron2\503	B4:P13	B15:P35
+1_Bakersfield Calif Pipeline - 20 inch.xlsx	Pipeline BM Summary	training_set	VEnron2\VEnron2\1360	B4:P54
+1_Gas021800.xlsx	MTMByBasis	training_set	VEnron2\VEnron2\12	B4:T11	V6:AF11	B13:S59	V13:AF61
+1_Group_Netco1 Budget.xlsx	Summary 2002	training_set	VEnron2\VEnron2\1285	B4:T83
+1_North America Plan 12-27.xlsx	Summary 2002	testing_set	VEnron2\VEnron2\1284	B4:T83
+1_Load Dist.xlsx	LOAD DIST	training_set	VEnron2\VEnron2\515	B43:H72	B4:H33
+10_EES October Daily.xlsx	10/9/2020	training_set	VEnron2\VEnron2\159	B45:AA52	B11:AA18	B28:AA35	B6:E9	B23:E26	B40:E43
+10_EES October Daily.xlsx	10/8/2020	training_set	VEnron2\VEnron2\159	B45:AA52	B11:AA18	B28:AA35	B6:E9	B23:E26	B40:E43
+1_WGI-LNG  Prices - Update.xlsx	Differentials	training_set	VEnron2\VEnron2\1347	B45:I89	K45:Q89
+1_Daily Treas By BU Q2.xlsx	April	training_set	VEnron2\VEnron2\252	B5:AK27
+1_Daily Treas By BU Q2.xlsx	May	training_set	VEnron2\VEnron2\252	B5:AK27
+1_0207 Global Data Setup.xlsx	Global Data	training_set	VEnron2\VEnron2\969	B5:C29	B63:E67
+1_BMO Curve.xlsx	Sheet1	training_set	VEnron2\VEnron2\618	B5:C34
+1_Key Dates_revised.xlsx	Key Dates 2001	training_set	VEnron2\VEnron2\828	B5:D44
+1_PG&E.xlsx	Adjustments & Maintanence	training_set	VEnron2\VEnron2\472	B5:D57
+1_Equistar Activity 092000.xlsx	OCT00	training_set	VEnron2\VEnron2\888	B5:G21
+1_gas position.xlsx	Sheet1	training_set	VEnron2\VEnron2\1071	B5:G8
+1_Key Dates_revised.xlsx	Key Dates (3)	training_set	VEnron2\VEnron2\828	B5:H38
+1_Dec2299.xlsx	Sheet2	training_set	VEnron2\VEnron2\917	B5:I13	B15:I19
+1_Dec2299.xlsx	Sheet1	training_set	VEnron2\VEnron2\917	B5:I19
+1_HubDeals.xlsx	Sheet1	training_set	VEnron2\VEnron2\1031	B5:I30
+1_West Limits Fax.xlsx	Limits	training_set	VEnron2\VEnron2\270	B5:I43
+1_Equistar Activity 092000.xlsx	SEPT00	training_set	VEnron2\VEnron2\888	B5:J23
+1_PJM InstantUpdate.xlsx	Main	training_set	VEnron2\VEnron2\1475	B5:J34	L5:T34
+1_LPG ProCaribe vs Empire Cost to PDVSA.xlsx	Terminal	training_set	VEnron2\VEnron2\600	B5:K17	B27:G31
+1_ENRON_$orion_1099.xlsx	Cost Basis	training_set	VEnron2\VEnron2\1226	B5:L62
+1_Amerhome dylan.xlsx	Amerhome	training_set	VEnron2\VEnron2\1583	B5:M19	B72:G98	B30:G59	B101:G108	B184:E197
+1_football.xlsx	Position	training_set	VEnron2\VEnron2\545	B5:M24	B38:M57
+1_EBS Backoffice - Storage.xlsx	Enron ecom	training_set	VEnron2\VEnron2\1474	B5:M25
+1_Enron INCONTROL Product Order Form 11-28-00.xlsx	Control-M Order Form	training_set	VEnron2\VEnron2\1477	B5:M31
+1_Enron INCONTROL Product Order Form 11-28-00.xlsx	Control-SA Order Form	training_set	VEnron2\VEnron2\1477	B5:M31
+1_02CapPlan_8_22_01.xlsx	NNG - Summary	training_set	VEnron2\VEnron2\837	B5:O13
+1_2002 BLANCO HUB BUDGET.xlsx	2002 HUB ATTCH#1	training_set	VEnron2\VEnron2\355	B5:Q8	B11:P15	B17:O21	B23:N27	B33:R38
+1_2002 IGNACIO_LA PLATA BUDGET.xlsx	Igncomb	training_set	VEnron2\VEnron2\356	B5:Q9	B11:P15	B23:N27	B17:O21	B33:R39
+1_Group_Netco1 Budget.xlsx	Summary 2002 Revised	training_set	VEnron2\VEnron2\1285	B5:T96
+1_New Weekly Report .xlsx	Graph data	training_set	VEnron2\VEnron2\988	B5:U48
+1_VNG Pipeline Setup-Oct-00.xlsx	Confirmation	training_set	VEnron2\VEnron2\859	B58:J64	B43:J52	B32:J38	B17:J26	B6:J12	B69:J78
+1_DallesStreamHistory.xlsx	Data	training_set	VEnron2\VEnron2\528	B6:C110	E6:F110	H6:I83
+1_Chores.xlsx	Sheet1	training_set	VEnron2\VEnron2\1030	B6:C9	I6:J9
+1_Sept. 2000 Income Statement.xlsx	Sheet1	testing_set	VEnron2\VEnron2\956	B6:D14	F6:H25
+1_coh2000-2001.xlsx	Sheet1	testing_set	VEnron2\VEnron2\804	B6:E19
+1_thetestoftests.xlsx	MENSA QUESTIONAIRE	training_set	VEnron2\VEnron2\704	B6:E40
+1_Access Trades.xlsx	Access Trades	training_set	VEnron2\VEnron2\1008	B6:E9
+1_Report RA.xlsx	Sheet1	training_set	VEnron2\VEnron2\1335	B6:F45
+1_Curve Fetch-multi day for larry.xlsx	Sheet1	testing_set	VEnron2\VEnron2\1286	B6:F99
+1_FETZERCAPS2001.xlsx	RECAPMONTHLY	training_set	VEnron2\VEnron2\634	B6:G30
+1_epngaward.xlsx	Sheet1	training_set	VEnron2\VEnron2\1176	B6:H13
+10_2001new02.xlsx	Sheet1	training_set	VEnron2\VEnron2\140	B6:H36	C40:D47
+1_02.05.02.xlsx	CL VOL	training_set	VEnron2\VEnron2\1276	B6:I22
+100_11_28_01LO.xlsx	Sheet1	training_set	VEnron2\VEnron2\197	B6:I22
+100_2_4_02OH.xlsx	Sheet1	training_set	VEnron2\VEnron2\201	B6:I23
+100_2_5_02GO.xlsx	Sheet1	training_set	VEnron2\VEnron2\200	B6:I23
+1_02.05.02.xlsx	NG VOL	training_set	VEnron2\VEnron2\1276	B6:I25
+100_2_1_02ON.xlsx	Sheet1	training_set	VEnron2\VEnron2\196	B6:I25
+1_SagarinLines week2.xlsx	Sheet1	training_set	VEnron2\VEnron2\459	B6:J101
+1_EcoElectrica PPOA-Fuel Summary 00-11-01 Original.xlsx	Attachment 1	training_set	VEnron2\VEnron2\1349	B6:K21	B29:E35
+1_bid2001A.xlsx	MAY-00	training_set	VEnron2\VEnron2\1172	B6:K39
+1_105656 - O&M Report.xlsx	Detail - 105653	testing_set	VEnron2\VEnron2\490	B6:L210
+1_LPG ProCaribe vs Empire Cost to PDVSA.xlsx	Transport	training_set	VEnron2\VEnron2\600	B6:N20	B29:G32
+1_Worksheet Shapiro 100072.xlsx	Salary	training_set	VEnron2\VEnron2\1395	B6:O167
+1_system matrix.xlsx	Sheet1	training_set	VEnron2\VEnron2\694	B6:R83
+10_AB Power Fax.xlsx	Flat load	training_set	VEnron2\VEnron2\160	B7:D18
+1_gerald.xlsx	.	training_set	VEnron2\VEnron2\144	B7:D43
+1_CorpContr'00 analysis.xlsx	Breakouts	training_set	VEnron2\VEnron2\1509	B7:F21
+1_Sep(1).01.xlsx	Sept. 8 & 9	training_set	VEnron2\VEnron2\1292	B7:F32	B38:F62
+1_Sep(1).01.xlsx	Sep. 1, 2 & 3	training_set	VEnron2\VEnron2\1292	B7:F32	B38:F63	B69:F93
+1_Exhibit 14 (Scenario 1).xlsx	Rate Increase Model	training_set	VEnron2\VEnron2\299	B7:G13	B18:D30	E18:J27
+1_MastersPool 2001.xlsx	scoring	testing_set	VEnron2\VEnron2\653	B7:G15
+1_BF Good Exhibits.xlsx	Exhibit 1	training_set	VEnron2\VEnron2\1590	B7:G24
+1_apr2000.xlsx	4/1/2000	testing_set	VEnron2\VEnron2\1486	B7:G259
+10_ICE - Mar09 Power & Gas VOL.xlsx	Power	training_set	VEnron2\VEnron2\205	B7:J39
+10_ICE - Mar09 Power & Gas VOL.xlsx	Physical Gas	training_set	VEnron2\VEnron2\205	B7:J48
+1_jun_BC_PMALOG.xlsx	PMA Log	training_set	VEnron2\VEnron2\992	B7:L115
+1_SchedC0514_Power West.xlsx	Per Sch. C of PDX - By trader	training_set	VEnron2\VEnron2\813	B7:L50
+1_Sep 2001.xlsx	Figures	training_set	VEnron2\VEnron2\1344	B7:N12	B14:N21	B23:N31
+1_Book6.xlsx	EAPositionReport	training_set	VEnron2\VEnron2\5	B7:N22
+1_East Sched C Summary 1016.xlsx	10_31_2001	training_set	VEnron2\VEnron2\730	B7:O14
+1_RMW EG Pricelist.xlsx	A	training_set	VEnron2\VEnron2\1155	B7:P48
+1_newco development cash flow.xlsx	New Unit Financial Profile	training_set	VEnron2\VEnron2\1429	B7:V48
+1_newco development cash flow.xlsx	Summary	training_set	VEnron2\VEnron2\1429	B7:W34
+1_EEMC-CECAuditedAnnual-2000.xlsx	Instructions	training_set	VEnron2\VEnron2\1330	B8:F15	B19:F22
+1_Mops Operators.xlsx	Sheet1	training_set	VEnron2\VEnron2\1026	B8:J38
+10_KOCH01082002.xlsx	Sheet1	training_set	VEnron2\VEnron2\98	B8:L15	B19:L31
+1_August Flash Report(1).xlsx	.xls September Template	training_set	VEnron2\VEnron2\242	B8:Q25	B27:Q38
+10_SUMMARY.xlsx	summary	training_set	VEnron2\VEnron2\45	B8:R44
+1_Tick Analysis @ 14-Nov-00.xlsx	Damage Calculations	testing_set	VEnron2\VEnron2\648	B88:F364	A28:AC85
+1_NNGWKednotes.xlsx	Dec 30, 31, Jan 1	training_set	VEnron2\VEnron2\441	B89:F122	B51:F85	B7:F47
+1_eastseating.xlsx	Sheet1	training_set	VEnron2\VEnron2\755	B9:F12	B21:G23	B15:G18
+1_trans.xlsx	Sheet2	training_set	VEnron2\VEnron2\471	B9:F22
+1_SMALLC&I2001.xlsx	Jan	testing_set	VEnron2\VEnron2\635	B9:I38
+10_NP 15 pages.xlsx	DJ NP15	training_set	VEnron2\VEnron2\215	B9:I42
+10_SP 15 pages.xlsx	DJ SP15	training_set	VEnron2\VEnron2\214	B9:I42
+1_dasq.xlsx	BASE GENERATION FORECAST	training_set	VEnron2\VEnron2\257	B9:J35	A39:I45	A47:I57
+10_PJM.xlsx	DJ PJM Electricity Index	training_set	VEnron2\VEnron2\198	B9:J41
+100_MeadMktplace (2).xlsx	MeadMktplace	training_set	VEnron2\VEnron2\60	B9:K42
+100_Cob.xlsx	DJ COB Electricity Index	training_set	VEnron2\VEnron2\55	B9:N42
+100_MidC.xlsx	DJ Mid-C Electricity Index	training_set	VEnron2\VEnron2\61	B9:N42
+100_Palo.xlsx	DJ Palo Verde Electricity Index	training_set	VEnron2\VEnron2\56	B9:N42
+1_DPR 0627.xlsx	DPR 0627	training_set	VEnron2\VEnron2\24	B9:R42
+1_temp_interdesk.xlsx	Physical	training_set	VEnron2\VEnron2\250	BA2:BW112	I8:O60	A8:G60
+1_positionsummary.xlsx	Office Pos Summary	testing_set	VEnron2\VEnron2\1234	BO4:BZ165	A4:AY165	BA4:BM114
+1_WE120399.xlsx	Legal	training_set	VEnron2\VEnron2\495	C1:EG4
+1_schoolyard.xlsx	Sheet1	training_set	VEnron2\VEnron2\426	C1:H31
+1_VolSkew.xlsx	Shimko	training_set	VEnron2\VEnron2\310	C10:AF65
+10_EMWP&L.xlsx	DPR	testing_set	VEnron2\VEnron2\189	C119:O135	A6:O116
+1_pulpex.xlsx	Sheet1	training_set	VEnron2\VEnron2\540	C2:D222
+1_Daily Settles.xlsx	Gamma	training_set	VEnron2\VEnron2\219	C2:D255
+1_Example.xlsx	GREEN BAY	training_set	VEnron2\VEnron2\918	C2:E44
+1_US Names.xlsx	Sheet1	training_set	VEnron2\VEnron2\1379	C2:F92
+1_Aquila Red Lake Project.xlsx	Sheet1	training_set	VEnron2\VEnron2\1180	C2:J229
+1_SOCO EOL Monitor.xlsx	Summary	training_set	VEnron2\VEnron2\1185	C2:P34	C52:G77	U2:X34
+1_Site License MatrixFull.xlsx	Sheet1	training_set	VEnron2\VEnron2\963	C25:M34	C4:M13	C38:M47	C15:M24
+1_site_visit_schedule for Chris Booth.xlsx	Confirm - Cinergy	training_set	VEnron2\VEnron2\1458	C28:D48	C2:D21
+1_volatility.xlsx	Sheet1	training_set	VEnron2\VEnron2\539	C3:E225
+1_IRTF-Regulatory report-August.xlsx	Sheet1	training_set	VEnron2\VEnron2\716	C3:I135
+1_fixed O&M 2000 Peakers rev I.xlsx	2000 Peakers	training_set	VEnron2\VEnron2\1467	C3:I14	C17:I26	C29:I40	K4:L11
+1_Report by counterparty - III2.xlsx	ITM	training_set	VEnron2\VEnron2\1588	C3:O67
+1_Sovereign Bonds_100801.xlsx	Bond Prices - Developed	training_set	VEnron2\VEnron2\714	C33:I45	C85:I90	C47:I59	C62:I69	C74:I80	A5:I30
+1_Bernsteins's LM6000 Model.xlsx	SUMMARY	training_set	VEnron2\VEnron2\1249	C4:E7	C10:E15	C18:E24	H4:J7	H10:J17	C27:D30
+1_Curve Sheet.xlsx	Sheet1	training_set	VEnron2\VEnron2\521	C4:F12
+10_Watch List 121800.xlsx	Watch List 12-18-00	training_set	VEnron2\VEnron2\199	C4:G159
+1_2001 Gain Calcs4.xlsx	Sheet1	training_set	VEnron2\VEnron2\394	C4:K32
+1_Proposed EG Projects.xlsx	Sheet1	training_set	VEnron2\VEnron2\797	C4:S354
+1_Hot List 0609.xlsx	Hotlist - Completed	training_set	VEnron2\VEnron2\49	C40:G52	I13:M25	C7:G10	C20:G25	C28:G31	I40:M51	I54:M59
+1_Fixed Costs (O&M).xlsx	Sheet1	training_set	VEnron2\VEnron2\1232	C5:D49	F5:G49
+CMSAauditreport2001_2002__EUSES_financial_processed.xlsx	Sheet1	training_set	VEUSES\VEUSES\96	C5:E63	C73:E96
+1_CurveFetch.xlsx	Curves	testing_set	VEnron2\VEnron2\1050	C6:AB367
+1_CURVE_MASTER.xlsx	FOM_Curves	testing_set	VEnron2\VEnron2\522	C6:AY368
+1_New Curvefetch.xlsx	Basis Curves	training_set	VEnron2\VEnron2\1263	C6:BJ347
+10_Foex Prices.xlsx	FOEX	training_set	VEnron2\VEnron2\96	C6:G31	J7:M17
+1_Q400.xlsx	Sheet1	training_set	VEnron2\VEnron2\477	C6:H68
+1_Dallas Facility Volumes.xlsx	Sheet1	training_set	VEnron2\VEnron2\1074	C7:D19
+1_Historical and Forward 122200 Prices.xlsx	Hydro Chart	training_set	VEnron2\VEnron2\1159	C7:E13
+10_NNG LAMAR NOMNATION.xlsx	01-(16)	testing_set	VEnron2\VEnron2\193	C7:G33
+10_NNG LAMAR NOMNATION.xlsx	01-(15)	testing_set	VEnron2\VEnron2\193	C7:G33
+1_Pwr west P&L.xlsx	Pwr west P&L	training_set	VEnron2\VEnron2\227	C7:O33
+1_proble~2.xlsx	problem 1 report	training_set	VEnron2\VEnron2\1169	C75:H88	C15:H28	C133:H146	D111:H122	D51:H62	D169:H180
+1_NatGas NYMEX NX3 Settles 2001 MM.xlsx	Price	training_set	VEnron2\VEnron2\617	C8:D22	C28:D34
+1_Report by counterparty - III2.xlsx	Main	training_set	VEnron2\VEnron2\1588	C8:H18
+1_Legal Conf Pay EdeMexico Oct2400.xlsx	TRADES	training_set	VEnron2\VEnron2\486	C9:AF103
+10_marks.xlsx	Sheet1	training_set	VEnron2\VEnron2\122	C9:F32	H9:K34
+1_2000.xlsx	2/1/2000	testing_set	VEnron2\VEnron2\1288	C9:G10	A13:G14	A16:G17	A19:G20	A22:G23	A25:G26
+1_2000.xlsx	1/1/2000	testing_set	VEnron2\VEnron2\1288	C9:G10	A13:G14	A16:G17	A19:G20	A22:G23	A25:G26
+1_Power Mid Market 8-01 sent B.xlsx	graphs	testing_set	VEnron2\VEnron2\1296	CT9:DD24	CT29:CW43
+10_West NatGas Prices 1009.xlsx	CurveFetch	training_set	VEnron2\VEnron2\76	D1:AI68
+1_Noresco Gas Usage.xlsx	Sheet1	training_set	VEnron2\VEnron2\1427	D11:M28
+1_EOLWTI_2.xlsx	Summary	training_set	VEnron2\VEnron2\927	D12:E18	D22:D26
+1_Transport Canada.xlsx	Contract DB (Canada)	training_set	VEnron2\VEnron2\591	D12:H28
+1_Michigan_Flows.xlsx	Flows	training_set	VEnron2\VEnron2\1186	D13:O18	D4:O10
+1_Gas021800.xlsx	SummaryMTM	training_set	VEnron2\VEnron2\12	D14:I43	M6:Y11	K14:U25	K28:U33	D48:W63
+10_NOMS_02_03_02.xlsx	Citizens-Draft	training_set	VEnron2\VEnron2\145	D17:H20	A25:N41	A17:B21
+1_Sumas Basis 10.22.2001.xlsx	Sheet1	testing_set	VEnron2\VEnron2\701	D2:F17
+1_accruedfarmer.xlsx	Sheet1	training_set	VEnron2\VEnron2\890	D2:F440	A2:B440
+1_E204_HaasvilleA(Blank)_sim.xlsx	Model	testing_set	VEnron2\VEnron2\1581	D3:E10	B13:H18	B21:H25	J17:N18
+1_ECTI and ENA Credit trades 31 Dec 01.xlsx	ENA (part)	training_set	VEnron2\VEnron2\740	D3:E15	A3:B15
+1_2001PROFORMA.xlsx	DriftPrepay	training_set	VEnron2\VEnron2\389	D4:H30
+1_IES_Alliant16daychartinfo_Oct2001.xlsx	Sheet1	training_set	VEnron2\VEnron2\1397	D5:E48	A5:E51
+1_2001PROFORMA.xlsx	Summary	training_set	VEnron2\VEnron2\389	D6:H81
+1_Enron sheet.xlsx	Sheet1	training_set	VEnron2\VEnron2\976	D9:E24
+1_CMPDaily.xlsx	Date Sensitivity	testing_set	VEnron2\VEnron2\925	E13:I29
+1_MastersPool 2001.xlsx	picks	testing_set	VEnron2\VEnron2\653	E17:G54	A17:C55
+10_EOL 5-9.xlsx	EOL Deals	training_set	VEnron2\VEnron2\69	E2:G11	A26:D36	E14:G23	A14:C23	A2:C11
+1_memo for distribution.xlsx	Sheet1	training_set	VEnron2\VEnron2\292	E31:Y75
+1_Daily CurvePatrick.xlsx	Curve	training_set	VEnron2\VEnron2\997	E4:F287
+1_trans.xlsx	Sheet1	training_set	VEnron2\VEnron2\471	E40:H45
+1_Tick Analysis @ 14-Nov-00.xlsx	Summary	testing_set	VEnron2\VEnron2\648	E64:O68	A8:S57
+10_FTCan_Gas_Bench.xlsx	Position	training_set	VEnron2\VEnron2\116	E66:Q129	A6:AQ19
+1_VaR Limit Usage for 8-25-2000.xlsx	DATA FOR USAGE	training_set	VEnron2\VEnron2\690	F1:W29	A1:D29
+1_Texas Nat_Gas Ops 0200 O&M Report.xlsx	Input	training_set	VEnron2\VEnron2\1371	F3:G14
+1_Settles.xlsx	settles	training_set	VEnron2\VEnron2\1007	F7:K48
+10_pasadena 0601.xlsx	Detail	training_set	VEnron2\VEnron2\283	F8:S43	A10:D40
+1_Ryland.xlsx	Sheet1	training_set	VEnron2\VEnron2\1045	H11:J32	H35:J51	H2:J8	A1:C12	E11:F20	E2:F8	A15:C44	E23:F27	E34:F44
+1_Texas - Trading.xlsx	Texas - Trading	training_set	VEnron2\VEnron2\782	H33:L34	A6:H32	I5:L13	N10:P14	I16:L30
+1_Insdferc05012001.xlsx	Sheet1	training_set	VEnron2\VEnron2\284	H4:M42	A4:F42	A46:F50	A53:F66	H46:M48	H53:M66
+labrates050104__EUSES_modeling_processed.xlsx	Page 1	training_set	VEUSES\VEUSES\28	H7:M51	A7:F52
+1_Weekly Operating Report 2-1.xlsx	Weekly Report	training_set	VEnron2\VEnron2\293	I10:O26	Q10:W22
+1_Thursday Week 1.xlsx	Sheet1	testing_set	VEnron2\VEnron2\256	I5:K13	A1:E131
+1_Quote Sheet 5-29-01.xlsx	NYMEX Quote - Full Volume	testing_set	VEnron2\VEnron2\1556	J16:K41	A16:B37	M16:N21	G16:H41	D16:E41	A8:I11
+1_DailyPrices.xlsx	Sheet2	training_set	VEnron2\VEnron2\102	J3:O27	A3:F15	A17:C27
+10_lakeside villas_proforma_gthorse.xlsx	Sheet2	training_set	VEnron2\VEnron2\616	J5:O341	A5:G341
+1_mojavesch.xlsx	Sheet1	training_set	VEnron2\VEnron2\568	J6:K37	A6:B36	D6:E36	G6:H37
+1_Texas June 2001.xlsx	Cost Center Summary	training_set	VEnron2\VEnron2\276	J6:M14
+1_position1a.xlsx	Sheet1	training_set	VEnron2\VEnron2\725	K11:U33	A6:I112
+1_WMR100100.xlsx	Madison Energy Review	training_set	VEnron2\VEnron2\1183	L8:T15	B8:J15
+geotech__EUSES_modeling_processed.xlsx	input-output	training_set	VEUSES\VEUSES\42	M2:T12	H3:K46	C9:F44
+1_CSP-6.01.xlsx	Appendix B	training_set	VEnron2\VEnron2\1329	M38:Q43	M10:N18	P10:Q18
+1_LPG Cargo 2001-10-29.xlsx	Hedged	training_set	VEnron2\VEnron2\602	N10:P14
+1_Energy Ops 98-01 headcount.xlsx	New Deals vs Headcount	training_set	VEnron2\VEnron2\768	N14:U18	N36:U39
+10_CALILT Fax.xlsx	VaR	training_set	VEnron2\VEnron2\117	N25:O39	D25:E39	H26:K29	G33:L38
+1_Pulp Producers.xlsx	WorldPulp	training_set	VEnron2\VEnron2\531	N9:Q29	B9:E29	C45:E52	BK45:BM52	O45:Q53	AA45:AC52	Z9:AC29	AL9:AO29	BJ9:BM29	AM45:AO52	AY45:BA52	AX9:BA29
+10_Summary8-21.xlsx	Table	testing_set	VEnron2\VEnron2\50	Y8:AD33	B111:L174	P7:R38	B24:L87	T7:V30	B176:C277	E176:F277
+1_PortfolioScenarios.xlsx	Scenario2	training_set	VEnron2\VEnron2\1160	Z2:AR63	A5:H7
+1_PortfolioScenarios.xlsx	Scenario1	training_set	VEnron2\VEnron2\1160	Z2:AR63	A4:H9
