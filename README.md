@@ -1,4 +1,4 @@
-# TableSense for spreadsheet table detection
+# Tablesense: Spreadsheet table detection with convolutional neural networks 
 
 Spreadsheet table detection is the task of detecting all tables on a given sheet and locating their respective ranges. Automatic table detection is a key enabling technique and an initial step in spreadsheet data intelligence. To enable data-driven models, we annotated a large amount of table ranges on real spreadsheet data. Our annotations are based on three public datasets (VEnron2, VEUSUS, and VFUSE), which are widely used in spreadsheet domain. To eliminate similar spreadsheets that may introduce lots of duplicated labeling efforts, we use [the published dataset](https://figshare.com/projects/Versioned_Spreadsheet_Corpora/20116) which has clustered similar sheets by [SpreadCluster](http://www.tcse.cn/~wsdou/project/venron/):
 1.	VEnron2 is built on the Enron email archive by SpreadCluster (MSR 2017). It contains 1,609 evolution groups and 12,254 spreadsheets.
